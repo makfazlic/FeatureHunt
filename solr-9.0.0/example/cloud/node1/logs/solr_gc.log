@@ -166,3 +166,16 @@
 [2022-12-04T20:10:38.557+0100][135,543s] GC(9) Concurrent Cleanup for Next Mark
 [2022-12-04T20:10:38.558+0100][135,544s] GC(9) Concurrent Cleanup for Next Mark 1,031ms
 [2022-12-04T20:10:38.558+0100][135,544s] GC(9) Concurrent Cycle 53,390ms
+[2022-12-04T20:26:23.551+0100][1080,537s] GC(10) Pause Young (Normal) (G1 Evacuation Pause)
+[2022-12-04T20:26:23.551+0100][1080,537s] GC(10) Using 10 workers of 10 for evacuation
+[2022-12-04T20:26:23.569+0100][1080,554s] GC(10)   Pre Evacuate Collection Set: 0,0ms
+[2022-12-04T20:26:23.569+0100][1080,554s] GC(10)   Evacuate Collection Set: 11,2ms
+[2022-12-04T20:26:23.569+0100][1080,554s] GC(10)   Post Evacuate Collection Set: 5,8ms
+[2022-12-04T20:26:23.569+0100][1080,554s] GC(10)   Other: 0,2ms
+[2022-12-04T20:26:23.569+0100][1080,554s] GC(10) Eden regions: 282->0(288)
+[2022-12-04T20:26:23.569+0100][1080,554s] GC(10) Survivor regions: 25->19(39)
+[2022-12-04T20:26:23.569+0100][1080,554s] GC(10) Old regions: 25->34
+[2022-12-04T20:26:23.569+0100][1080,554s] GC(10) Humongous regions: 4->4
+[2022-12-04T20:26:23.569+0100][1080,554s] GC(10) Metaspace: 59714K(62256K)->59714K(62256K) NonClass: 52637K(54192K)->52637K(54192K) Class: 7076K(8064K)->7076K(8064K)
+[2022-12-04T20:26:23.569+0100][1080,554s] GC(10) Pause Young (Normal) (G1 Evacuation Pause) 334M->54M(512M) 17,372ms
+[2022-12-04T20:26:23.569+0100][1080,554s] GC(10) User=0,12s Sys=0,00s Real=0,01s

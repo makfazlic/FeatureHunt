@@ -26,19 +26,30 @@ pricing = {
     'free_version': 'None',
 }
 
+# review = {
+#     'reviewer_name': 'None',
+#     'reviewer_info': {
+#         'company_size': 'None',
+#         'industry': 'None',
+#         'time_used': 'None'
+#     },
+#     #'reviewer_image': '',
+#     'general_review_title': 'None',
+#     'general_review': 'None',
+#     'pros': 'None',
+#     'cons': 'None'
+# }
+
 review = {
     'reviewer_name': 'None',
-    'reviewer_info': {
-        'company_size': 'None',
-        'industry': 'None',
-        'time_used': 'None'
-    },
+    'reviewer_info': [],
     #'reviewer_image': '',
     'general_review_title': 'None',
     'general_review': 'None',
     'pros': 'None',
     'cons': 'None'
 }
+
 
 profile = {
     'name': '',
@@ -70,9 +81,10 @@ class SaProfileSpider(scrapy.Spider):
             data = json.load(f)
         for category in data:
             for subcategory in category["category"]["subcategory"]:
-                url_list = category["category"]["subcategory"][subcategory]
-                for url in url_list:
-                    yield scrapy.Request(url=url, callback=self.parse)
+                if subcategory == "Accounting Software for Consultants":
+                    url_list = category["category"]["subcategory"][subcategory]
+                    for url in url_list:
+                        yield scrapy.Request(url=url, callback=self.parse)
 
     def parse(self, response):
         
@@ -123,56 +135,53 @@ class SaProfileSpider(scrapy.Spider):
         # 5. Reviews
         array_of_reviews = []
         reviews = response.xpath('/html/body/div/div/div/section/main/div[2]/main/div/div/section[1]/section/div[2]/div/div/div/div/div[1]/div/div[2]/div').getall()
-        for r in reviews:
+        for i, r in enumerate(reviews):
             review_copy = review.copy()
             r_soup = BeautifulSoup(r, 'html.parser')
             try:
-                name = r_soup.find('div', class_='review-profile-user').text
+                rev_person_block = r_soup.find('div', id='review-person')
+                review_copy['reviewer_name'] = rev_person_block.find('div', class_='review-profile-user').text
             except:
-                name = "Anonymous"
+                review_copy['reviewer_name'] =  "Anonymous"
         
             try:
-                company_size = r_soup.find('div', class_='review-company').text
+                rev_person_block = r_soup.find('div', id='review-person')
+                review_copy['reviewer_info'].append(rev_person_block .find('div', class_='review-company').text)
             except:
-                company_size = "Unknown"
+                review_copy['reviewer_info'].append("Unknown")
             try:
-                industry = r_soup.find('div', class_='review-gdm-industry').text
+                rev_person_block = r_soup.find('div', id='review-person')
+                review_copy['reviewer_info'].append(rev_person_block .find('div', class_='review-gdm-industry').text)
             except:
-                industry = "Unknown"
+                review_copy['reviewer_info'].append("Unknown")
             try:
-                time_used = r_soup.find('div', class_='review-profile-time-used').text
+                rev_person_block = r_soup.find('div', id='review-person')
+                review_copy['reviewer_info'].append(rev_person_block .find('div', class_='review-profile-time-used').text)
             except:
-                time_used = "Unknown"
+                review_copy['reviewer_info'].append( "Unknown")
             try:
                 rev_block = r_soup.find('div', class_='review-copy-container')
-                general_review_title = rev_block.find('p', class_='review-copy-header').text
-                general_review = rev_block.find('p', class_='review-copy-summary').text
+                review_copy['general_review_title'] = rev_block.find('p', class_='review-copy-header').text
+                review_copy['general_review'] =rev_block.find('p', class_='review-copy-summary').text
             except:
-                general_review_title = "None"
-                general_review = "None"
+                review_copy['general_review_title'] = "None"
+                review_copy['general_review'] = "None"
             try:
                 rev_block = r_soup.find('div', class_='review-copy-container')
                 ui = rev_block.find_all('p')
                 ui = [i.text for i in ui]
-                pros = "None"
-                cons = "None"
+                review_copy['pros'] = "None"
+                review_copy['cons'] = "None"
                 if "Pros" in ui:
-                    pros = ui[ui.index("Pros") + 1]
+                    review_copy['pros'] = ui[ui.index("Pros") + 1]
                 if "Cons" in ui:
-                    cons = ui[ui.index("Cons") + 1]
+                    review_copy['cons'] = ui[ui.index("Cons") + 1]
             except:
                 ui = "None"
-                pros = "None"
-                cons = "None"
-
-            review_copy['reviewer_name'] = name
-            review_copy['reviewer_info']['company_size'] = company_size
-            review_copy['reviewer_info']['industry'] = industry
-            review_copy['reviewer_info']['time_used'] = time_used
-            review_copy['general_review_title'] = general_review_title
-            review_copy['general_review'] = general_review
-            review_copy['pros'] = pros
-            review_copy['cons'] = cons
+                review_copy['pros'] = "None"
+                review_copy['cons'] = "None"
+            
+            review_copy["index"] = i
 
             array_of_reviews.append(review_copy)
 
