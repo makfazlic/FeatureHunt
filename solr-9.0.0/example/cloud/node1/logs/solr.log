@@ -1,0 +1,437 @@
+2022-12-04 19:08:23.794 INFO  (main) [] o.e.j.u.log Logging initialized @777ms to org.eclipse.jetty.util.log.Slf4jLog
+2022-12-04 19:08:23.954 INFO  (main) [] o.e.j.s.Server jetty-9.4.44.v20210927; built: 2021-09-27T23:02:44.612Z; git: 8da83308eeca865e495e53ef315a249d63ba9332; jvm 11.0.17+8-post-Ubuntu-1ubuntu222.04
+2022-12-04 19:08:24.200 INFO  (main) [] o.a.s.s.CoreContainerProvider Using logger factory org.apache.logging.slf4j.Log4jLoggerFactory
+2022-12-04 19:08:24.210 INFO  (main) [] o.a.s.s.CoreContainerProvider  ___      _       Welcome to Apache Solr™ version 9.0.0
+2022-12-04 19:08:24.210 INFO  (main) [] o.a.s.s.CoreContainerProvider / __| ___| |_ _   Starting in cloud mode on port 8983
+2022-12-04 19:08:24.210 INFO  (main) [] o.a.s.s.CoreContainerProvider \__ \/ _ \ | '_|  Install dir: /home/makfazlic/Desktop/FeatureHunt/solr-9.0.0
+2022-12-04 19:08:24.210 INFO  (main) [] o.a.s.s.CoreContainerProvider |___/\___/_|_|    Start time: 2022-12-04T19:08:24.210872Z
+2022-12-04 19:08:24.231 INFO  (main) [] o.a.s.s.CoreContainerProvider Solr Home: /home/makfazlic/Desktop/FeatureHunt/solr-9.0.0/example/cloud/node1/solr (source: system property: solr.solr.home)
+2022-12-04 19:08:24.233 INFO  (main) [] o.a.s.c.SolrXmlConfig Loading solr.xml from /home/makfazlic/Desktop/FeatureHunt/solr-9.0.0/example/cloud/node1/solr/solr.xml
+2022-12-04 19:08:24.937 WARN  (main) [] o.a.s.u.StartupLoggingUtils Jetty request logging enabled. Will retain logs for last 3 days. See chapter "Configuring Logging" in reference guide for how to configure.
+2022-12-04 19:08:24.943 INFO  (main) [] o.a.s.c.SolrZkServerProps Reading configuration from: /home/makfazlic/Desktop/FeatureHunt/solr-9.0.0/example/cloud/node1/solr/zoo.cfg
+2022-12-04 19:08:24.945 INFO  (main) [] o.a.s.c.SolrZkServer STARTING EMBEDDED STANDALONE ZOOKEEPER SERVER at port 9983
+2022-12-04 19:08:24.945 WARN  (main) [] o.a.s.c.SolrZkServer Embedded Zookeeper is not recommended in production environments. See Reference Guide for details.
+2022-12-04 19:08:24.976 WARN  (embeddedZkServer) [] o.a.z.s.ServerCnxnFactory maxCnxns is not configured, using default value 0.
+2022-12-04 19:08:25.446 INFO  (main) [] o.a.s.c.ZkContainer Zookeeper client=localhost:9983
+2022-12-04 19:08:25.458 INFO  (main) [] o.a.s.c.DistributedClusterStateUpdater Creating DistributedClusterStateUpdater with useDistributedStateUpdate=false. Solr will be using Overseer based cluster state updates.
+2022-12-04 19:08:25.478 INFO  (main) [] o.a.s.c.c.ConnectionManager Waiting up to 30000ms for client to connect to ZooKeeper
+2022-12-04 19:08:25.554 INFO  (zkConnectionManagerCallback-10-thread-1) [] o.a.s.c.c.ConnectionManager zkClient has connected
+2022-12-04 19:08:25.554 INFO  (main) [] o.a.s.c.c.ConnectionManager Client is connected to ZooKeeper
+2022-12-04 19:08:25.579 WARN  (main) [] o.a.s.c.ZkController Contents of zookeeper /security.json are world-readable; consider setting up ACLs as described in https://solr.apache.org/guide/zookeeper-access-control.html
+2022-12-04 19:08:25.584 INFO  (main) [] o.a.s.c.c.ZkStateReader Updated live nodes from ZooKeeper... (0) -> (1)
+2022-12-04 19:08:25.603 INFO  (main) [] o.a.s.c.DistributedClusterStateUpdater Creating DistributedClusterStateUpdater with useDistributedStateUpdate=false. Solr will be using Overseer based cluster state updates.
+2022-12-04 19:08:25.629 INFO  (main) [] o.a.s.c.ZkController Publish node=localhost:8983_solr as DOWN
+2022-12-04 19:08:25.641 INFO  (main) [] o.a.s.c.TransientSolrCoreCacheDefault Allocating transient core cache for max 2147483647 cores with initial capacity of 1024
+2022-12-04 19:08:25.648 INFO  (main) [] o.a.s.c.ZkController Register node as live in ZooKeeper:/live_nodes/localhost:8983_solr
+2022-12-04 19:08:25.659 INFO  (zkCallback-9-thread-1) [] o.a.s.c.c.ZkStateReader Updated live nodes from ZooKeeper... (1) -> (2)
+2022-12-04 19:08:25.695 INFO  (main) [] o.a.s.p.PackageLoader /packages.json updated to version -1
+2022-12-04 19:08:25.705 WARN  (main) [] o.a.s.c.CoreContainer Not all security plugins configured!  authentication=disabled authorization=disabled.  Solr is only as secure as you make it. Consider configuring authentication/authorization before exposing Solr to users internal or external.  See https://s.apache.org/solrsecurity for more info
+2022-12-04 19:08:25.965 INFO  (main) [] o.a.s.c.CorePropertiesLocator Found 0 core definitions underneath /home/makfazlic/Desktop/FeatureHunt/solr-9.0.0/example/cloud/node1/solr
+2022-12-04 19:08:26.019 INFO  (main) [] o.e.j.s.h.ContextHandler Started o.e.j.w.WebAppContext@47da3952{/solr,file:///home/makfazlic/Desktop/FeatureHunt/solr-9.0.0/server/solr-webapp/webapp/,AVAILABLE}{/home/makfazlic/Desktop/FeatureHunt/solr-9.0.0/server/solr-webapp/webapp}
+2022-12-04 19:08:26.025 INFO  (main) [] o.e.j.s.RequestLogWriter Opened /home/makfazlic/Desktop/FeatureHunt/solr-9.0.0/example/cloud/node1/logs/2022_12_04.request.log
+2022-12-04 19:08:26.031 INFO  (main) [] o.e.j.s.AbstractConnector Started ServerConnector@476b0ae6{HTTP/1.1, (http/1.1, h2c)}{127.0.0.1:8983}
+2022-12-04 19:08:26.032 INFO  (main) [] o.e.j.s.Server Started @3016ms
+2022-12-04 19:08:28.086 INFO  (qtp1165791284-26) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/info/system params={wt=json} status=0 QTime=28
+2022-12-04 19:08:28.139 INFO  (qtp1165791284-18) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/collections params={action=CLUSTERSTATUS&wt=json} status=0 QTime=11
+2022-12-04 19:08:56.723 INFO  (zkCallback-9-thread-1) [] o.a.s.c.c.ZkStateReader Updated live nodes from ZooKeeper... (2) -> (1)
+2022-12-04 19:08:56.724 INFO  (zkCallback-9-thread-2) [] o.a.s.c.OverseerElectionContext I am going to be the leader localhost:8983_solr
+2022-12-04 19:08:56.739 INFO  (zkCallback-9-thread-2) [] o.a.s.c.Overseer Overseer (id=72059411899351040-localhost:8983_solr-n_0000000002) starting
+2022-12-04 19:08:56.816 INFO  (OverseerStateUpdate-72059411899351040-localhost:8983_solr-n_0000000002) [] o.a.s.c.Overseer Starting to work on the main queue : localhost:8983_solr
+2022-12-04 19:08:56.825 INFO  (OverseerStateUpdate-72059411899351040-localhost:8983_solr-n_0000000002) [] o.a.s.c.c.ZkStateReader Updated live nodes from ZooKeeper... (1) -> (2)
+2022-12-04 19:09:26.730 INFO  (qtp1165791284-19) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/collections params={action=list&wt=json} status=0 QTime=0
+2022-12-04 19:10:25.153 INFO  (qtp1165791284-20) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/info/system params={wt=json} status=0 QTime=5
+2022-12-04 19:10:25.164 INFO  (qtp1165791284-25) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/collections params={action=CLUSTERSTATUS&wt=json} status=0 QTime=3
+2022-12-04 19:10:27.707 INFO  (qtp1165791284-21) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/collections params={action=list&wt=json} status=0 QTime=0
+2022-12-04 19:10:27.753 INFO  (OverseerThreadFactory-17-thread-1) [] o.a.s.c.a.c.CreateCollectionCmd Create collection sa
+2022-12-04 19:10:27.930 INFO  (OverseerStateUpdate-72059411899351040-localhost:8983_solr-n_0000000002) [] o.a.s.c.o.SliceMutator createReplica() {
+  "core":"sa_shard1_replica_n1",
+  "node_name":"localhost:7574_solr",
+  "base_url":"http://localhost:7574/solr",
+  "collection":"sa",
+  "shard":"shard1",
+  "state":"down",
+  "type":"NRT",
+  "operation":"ADDREPLICA",
+  "waitForFinalState":"false"} 
+2022-12-04 19:10:27.955 INFO  (OverseerStateUpdate-72059411899351040-localhost:8983_solr-n_0000000002) [] o.a.s.c.o.SliceMutator createReplica() {
+  "core":"sa_shard2_replica_n2",
+  "node_name":"localhost:8983_solr",
+  "base_url":"http://localhost:8983/solr",
+  "collection":"sa",
+  "shard":"shard2",
+  "state":"down",
+  "type":"NRT",
+  "operation":"ADDREPLICA",
+  "waitForFinalState":"false"} 
+2022-12-04 19:10:27.981 INFO  (OverseerStateUpdate-72059411899351040-localhost:8983_solr-n_0000000002) [] o.a.s.c.o.SliceMutator createReplica() {
+  "core":"sa_shard2_replica_n4",
+  "node_name":"localhost:7574_solr",
+  "base_url":"http://localhost:7574/solr",
+  "collection":"sa",
+  "shard":"shard2",
+  "state":"down",
+  "type":"NRT",
+  "operation":"ADDREPLICA",
+  "waitForFinalState":"false"} 
+2022-12-04 19:10:28.005 INFO  (OverseerStateUpdate-72059411899351040-localhost:8983_solr-n_0000000002) [] o.a.s.c.o.SliceMutator createReplica() {
+  "core":"sa_shard1_replica_n6",
+  "node_name":"localhost:8983_solr",
+  "base_url":"http://localhost:8983/solr",
+  "collection":"sa",
+  "shard":"shard1",
+  "state":"down",
+  "type":"NRT",
+  "operation":"ADDREPLICA",
+  "waitForFinalState":"false"} 
+2022-12-04 19:10:28.143 INFO  (zkCallback-9-thread-3) [] o.a.s.c.c.ZkStateReader A cluster state change: [WatchedEvent state:SyncConnected type:NodeDataChanged path:/collections/sa/state.json] for collection [sa] has occurred - updating... (live nodes size: [2])
+2022-12-04 19:10:28.309 INFO  (qtp1165791284-24) [ x:sa_shard1_replica_n6] o.a.s.h.a.CoreAdminOperation core create command qt=/admin/cores&coreNodeName=core_node8&collection.configName=sa&newCollection=true&name=sa_shard1_replica_n6&action=CREATE&numShards=2&collection=sa&shard=shard1&wt=javabin&version=2&replicaType=NRT
+2022-12-04 19:10:28.309 INFO  (qtp1165791284-20) [ x:sa_shard2_replica_n2] o.a.s.h.a.CoreAdminOperation core create command qt=/admin/cores&coreNodeName=core_node5&collection.configName=sa&newCollection=true&name=sa_shard2_replica_n2&action=CREATE&numShards=2&collection=sa&shard=shard2&wt=javabin&version=2&replicaType=NRT
+2022-12-04 19:10:28.419 INFO  (qtp1165791284-24) [c:sa s:shard1 r:core_node8 x:sa_shard1_replica_n6] o.a.s.c.SolrConfig Using Lucene MatchVersion: 9.0.0
+2022-12-04 19:10:28.424 INFO  (qtp1165791284-20) [c:sa s:shard2 r:core_node5 x:sa_shard2_replica_n2] o.a.s.c.SolrConfig Using Lucene MatchVersion: 9.0.0
+2022-12-04 19:10:28.501 INFO  (qtp1165791284-20) [c:sa s:shard2 r:core_node5 x:sa_shard2_replica_n2] o.a.s.s.IndexSchema Schema name=default-config
+2022-12-04 19:10:28.506 INFO  (qtp1165791284-24) [c:sa s:shard1 r:core_node8 x:sa_shard1_replica_n6] o.a.s.s.IndexSchema Schema name=default-config
+2022-12-04 19:10:29.353 INFO  (qtp1165791284-24) [c:sa s:shard1 r:core_node8 x:sa_shard1_replica_n6] o.a.s.s.IndexSchema Loaded schema default-config/1.6 with uniqueid field id
+2022-12-04 19:10:29.354 INFO  (qtp1165791284-24) [c:sa s:shard1 r:core_node8 x:sa_shard1_replica_n6] o.a.s.c.CoreContainer Creating SolrCore 'sa_shard1_replica_n6' using configuration from configset sa, trusted=true
+2022-12-04 19:10:29.355 INFO  (qtp1165791284-20) [c:sa s:shard2 r:core_node5 x:sa_shard2_replica_n2] o.a.s.s.IndexSchema Loaded schema default-config/1.6 with uniqueid field id
+2022-12-04 19:10:29.356 INFO  (qtp1165791284-20) [c:sa s:shard2 r:core_node5 x:sa_shard2_replica_n2] o.a.s.c.CoreContainer Creating SolrCore 'sa_shard2_replica_n2' using configuration from configset sa, trusted=true
+2022-12-04 19:10:29.399 INFO  (qtp1165791284-20) [c:sa s:shard2 r:core_node5 x:sa_shard2_replica_n2] o.a.s.c.SolrCore Opening new SolrCore at [/home/makfazlic/Desktop/FeatureHunt/solr-9.0.0/example/cloud/node1/solr/sa_shard2_replica_n2], dataDir=[/home/makfazlic/Desktop/FeatureHunt/solr-9.0.0/example/cloud/node1/solr/sa_shard2_replica_n2/data/]
+2022-12-04 19:10:29.399 INFO  (qtp1165791284-24) [c:sa s:shard1 r:core_node8 x:sa_shard1_replica_n6] o.a.s.c.SolrCore Opening new SolrCore at [/home/makfazlic/Desktop/FeatureHunt/solr-9.0.0/example/cloud/node1/solr/sa_shard1_replica_n6], dataDir=[/home/makfazlic/Desktop/FeatureHunt/solr-9.0.0/example/cloud/node1/solr/sa_shard1_replica_n6/data/]
+2022-12-04 19:10:30.265 INFO  (qtp1165791284-20) [c:sa s:shard2 r:core_node5 x:sa_shard2_replica_n2] o.a.s.u.UpdateHandler Using UpdateLog implementation: org.apache.solr.update.UpdateLog
+2022-12-04 19:10:30.266 INFO  (qtp1165791284-20) [c:sa s:shard2 r:core_node5 x:sa_shard2_replica_n2] o.a.s.u.UpdateLog Initializing UpdateLog: dataDir= defaultSyncLevel=FLUSH numRecordsToKeep=100 maxNumLogsToKeep=10 numVersionBuckets=65536
+2022-12-04 19:10:30.266 INFO  (qtp1165791284-24) [c:sa s:shard1 r:core_node8 x:sa_shard1_replica_n6] o.a.s.u.UpdateHandler Using UpdateLog implementation: org.apache.solr.update.UpdateLog
+2022-12-04 19:10:30.266 INFO  (qtp1165791284-24) [c:sa s:shard1 r:core_node8 x:sa_shard1_replica_n6] o.a.s.u.UpdateLog Initializing UpdateLog: dataDir= defaultSyncLevel=FLUSH numRecordsToKeep=100 maxNumLogsToKeep=10 numVersionBuckets=65536
+2022-12-04 19:10:30.282 INFO  (qtp1165791284-20) [c:sa s:shard2 r:core_node5 x:sa_shard2_replica_n2] o.a.s.u.CommitTracker Hard AutoCommit: if uncommitted for 15000ms; 
+2022-12-04 19:10:30.294 INFO  (qtp1165791284-20) [c:sa s:shard2 r:core_node5 x:sa_shard2_replica_n2] o.a.s.u.CommitTracker Soft AutoCommit: disabled
+2022-12-04 19:10:30.283 INFO  (qtp1165791284-24) [c:sa s:shard1 r:core_node8 x:sa_shard1_replica_n6] o.a.s.u.CommitTracker Hard AutoCommit: if uncommitted for 15000ms; 
+2022-12-04 19:10:30.295 INFO  (qtp1165791284-24) [c:sa s:shard1 r:core_node8 x:sa_shard1_replica_n6] o.a.s.u.CommitTracker Soft AutoCommit: disabled
+2022-12-04 19:10:30.366 INFO  (qtp1165791284-24) [c:sa s:shard1 r:core_node8 x:sa_shard1_replica_n6] o.a.s.r.ManagedResourceStorage Configured ZooKeeperStorageIO with znodeBase: /configs/sa
+2022-12-04 19:10:30.366 INFO  (qtp1165791284-20) [c:sa s:shard2 r:core_node5 x:sa_shard2_replica_n2] o.a.s.r.ManagedResourceStorage Configured ZooKeeperStorageIO with znodeBase: /configs/sa
+2022-12-04 19:10:30.373 INFO  (qtp1165791284-24) [c:sa s:shard1 r:core_node8 x:sa_shard1_replica_n6] o.a.s.r.ManagedResourceStorage Loaded null at path _rest_managed.json using ZooKeeperStorageIO:path=/configs/sa
+2022-12-04 19:10:30.375 INFO  (qtp1165791284-20) [c:sa s:shard2 r:core_node5 x:sa_shard2_replica_n2] o.a.s.r.ManagedResourceStorage Loaded null at path _rest_managed.json using ZooKeeperStorageIO:path=/configs/sa
+2022-12-04 19:10:30.378 INFO  (qtp1165791284-24) [c:sa s:shard1 r:core_node8 x:sa_shard1_replica_n6] o.a.s.s.ZkIndexSchemaReader Creating ZooKeeper watch for the managed schema at /configs/sa/managed-schema.xml
+2022-12-04 19:10:30.380 INFO  (qtp1165791284-20) [c:sa s:shard2 r:core_node5 x:sa_shard2_replica_n2] o.a.s.s.ZkIndexSchemaReader Creating ZooKeeper watch for the managed schema at /configs/sa/managed-schema.xml
+2022-12-04 19:10:30.385 INFO  (qtp1165791284-24) [c:sa s:shard1 r:core_node8 x:sa_shard1_replica_n6] o.a.s.s.ZkIndexSchemaReader Current schema version 0 is already the latest
+2022-12-04 19:10:30.387 INFO  (qtp1165791284-20) [c:sa s:shard2 r:core_node5 x:sa_shard2_replica_n2] o.a.s.s.ZkIndexSchemaReader Current schema version 0 is already the latest
+2022-12-04 19:10:30.402 INFO  (qtp1165791284-20) [c:sa s:shard2 r:core_node5 x:sa_shard2_replica_n2] o.a.s.s.DirectSolrSpellChecker init: {name=default, field=_text_, classname=solr.DirectSolrSpellChecker, distanceMeasure=internal, maxEdits=2, minPrefix=1, maxInspections=5, minQueryLength=4, accuracy=0.5, maxQueryFrequency=0.01}
+2022-12-04 19:10:30.402 INFO  (qtp1165791284-24) [c:sa s:shard1 r:core_node8 x:sa_shard1_replica_n6] o.a.s.s.DirectSolrSpellChecker init: {name=default, field=_text_, classname=solr.DirectSolrSpellChecker, distanceMeasure=internal, maxEdits=2, minPrefix=1, maxInspections=5, minQueryLength=4, accuracy=0.5, maxQueryFrequency=0.01}
+2022-12-04 19:10:30.422 INFO  (qtp1165791284-24) [c:sa s:shard1 r:core_node8 x:sa_shard1_replica_n6] o.a.s.h.ReplicationHandler Commits will be reserved for 10000 ms
+2022-12-04 19:10:30.423 INFO  (qtp1165791284-20) [c:sa s:shard2 r:core_node5 x:sa_shard2_replica_n2] o.a.s.h.ReplicationHandler Commits will be reserved for 10000 ms
+2022-12-04 19:10:30.431 INFO  (qtp1165791284-24) [c:sa s:shard1 r:core_node8 x:sa_shard1_replica_n6] o.a.s.u.UpdateLog Could not find max version in index or recent updates, using new clock 1751311744165216256
+2022-12-04 19:10:30.436 INFO  (qtp1165791284-20) [c:sa s:shard2 r:core_node5 x:sa_shard2_replica_n2] o.a.s.u.UpdateLog Could not find max version in index or recent updates, using new clock 1751311744169410560
+2022-12-04 19:10:30.449 INFO  (searcherExecutor-19-thread-1-processing-localhost:8983_solr sa_shard2_replica_n2 sa shard2 core_node5) [c:sa s:shard2 r:core_node5 x:sa_shard2_replica_n2] o.a.s.c.QuerySenderListener QuerySenderListener done.
+2022-12-04 19:10:30.449 INFO  (searcherExecutor-19-thread-1-processing-localhost:8983_solr sa_shard2_replica_n2 sa shard2 core_node5) [c:sa s:shard2 r:core_node5 x:sa_shard2_replica_n2] o.a.s.h.c.SpellCheckComponent Loading spell index for spellchecker: default
+2022-12-04 19:10:30.450 INFO  (searcherExecutor-21-thread-1-processing-localhost:8983_solr sa_shard1_replica_n6 sa shard1 core_node8) [c:sa s:shard1 r:core_node8 x:sa_shard1_replica_n6] o.a.s.c.QuerySenderListener QuerySenderListener done.
+2022-12-04 19:10:30.450 INFO  (searcherExecutor-21-thread-1-processing-localhost:8983_solr sa_shard1_replica_n6 sa shard1 core_node8) [c:sa s:shard1 r:core_node8 x:sa_shard1_replica_n6] o.a.s.h.c.SpellCheckComponent Loading spell index for spellchecker: default
+2022-12-04 19:10:30.458 INFO  (searcherExecutor-21-thread-1-processing-localhost:8983_solr sa_shard1_replica_n6 sa shard1 core_node8) [c:sa s:shard1 r:core_node8 x:sa_shard1_replica_n6] o.a.s.c.SolrCore Registered new searcher autowarm time: 0 ms
+2022-12-04 19:10:30.461 INFO  (searcherExecutor-19-thread-1-processing-localhost:8983_solr sa_shard2_replica_n2 sa shard2 core_node5) [c:sa s:shard2 r:core_node5 x:sa_shard2_replica_n2] o.a.s.c.SolrCore Registered new searcher autowarm time: 0 ms
+2022-12-04 19:10:30.555 INFO  (qtp1165791284-24) [c:sa s:shard1 r:core_node8 x:sa_shard1_replica_n6] o.a.s.c.ZkShardTerms Successful update of terms at /collections/sa/terms/shard1 to Terms{values={core_node8=0}, version=0} for registerTerm
+2022-12-04 19:10:30.564 INFO  (qtp1165791284-24) [c:sa s:shard1 r:core_node8 x:sa_shard1_replica_n6] o.a.s.c.ShardLeaderElectionContextBase make sure parent is created /collections/sa/leaders/shard1
+2022-12-04 19:10:30.646 INFO  (qtp1165791284-20) [c:sa s:shard2 r:core_node5 x:sa_shard2_replica_n2] o.a.s.c.ZkShardTerms Successful update of terms at /collections/sa/terms/shard2 to Terms{values={core_node5=0}, version=0} for registerTerm
+2022-12-04 19:10:30.646 INFO  (qtp1165791284-20) [c:sa s:shard2 r:core_node5 x:sa_shard2_replica_n2] o.a.s.c.ShardLeaderElectionContextBase make sure parent is created /collections/sa/leaders/shard2
+2022-12-04 19:10:30.747 INFO  (qtp1165791284-24) [c:sa s:shard1 r:core_node8 x:sa_shard1_replica_n6] o.a.s.c.ShardLeaderElectionContext Waiting until we see more replicas up for shard shard1: total=2 found=1 timeoute in=179965ms
+2022-12-04 19:10:30.804 INFO  (qtp1165791284-20) [c:sa s:shard2 r:core_node5 x:sa_shard2_replica_n2] o.a.s.c.ShardLeaderElectionContext Waiting until we see more replicas up for shard shard2: total=2 found=1 timeoute in=179991ms
+2022-12-04 19:10:31.252 INFO  (qtp1165791284-24) [c:sa s:shard1 r:core_node8 x:sa_shard1_replica_n6] o.a.s.c.ShardLeaderElectionContext Enough replicas found to continue.
+2022-12-04 19:10:31.253 INFO  (qtp1165791284-24) [c:sa s:shard1 r:core_node8 x:sa_shard1_replica_n6] o.a.s.c.ShardLeaderElectionContext I may be the new leader - try and sync
+2022-12-04 19:10:31.253 INFO  (qtp1165791284-24) [c:sa s:shard1 r:core_node8 x:sa_shard1_replica_n6] o.a.s.c.SyncStrategy Sync replicas to http://localhost:8983/solr/sa_shard1_replica_n6/
+2022-12-04 19:10:31.257 INFO  (qtp1165791284-24) [c:sa s:shard1 r:core_node8 x:sa_shard1_replica_n6] o.a.s.u.PeerSync PeerSync: core=sa_shard1_replica_n6 url=http://localhost:8983/solr  START replicas=[http://localhost:7574/solr/sa_shard1_replica_n1/] nUpdates=100
+2022-12-04 19:10:31.258 INFO  (qtp1165791284-24) [c:sa s:shard1 r:core_node8 x:sa_shard1_replica_n6] o.a.s.u.PeerSync PeerSync: core=sa_shard1_replica_n6 url=http://localhost:8983/solr  DONE. We have no versions. sync failed.
+2022-12-04 19:10:31.296 INFO  (qtp1165791284-24) [c:sa s:shard1 r:core_node8 x:sa_shard1_replica_n6] o.a.s.c.SyncStrategy Leader's attempt to sync with shard failed, moving to the next candidate
+2022-12-04 19:10:31.299 INFO  (qtp1165791284-24) [c:sa s:shard1 r:core_node8 x:sa_shard1_replica_n6] o.a.s.c.ShardLeaderElectionContext We failed sync, but we have no versions - we can't sync in that case - we were active before, so become leader anyway
+2022-12-04 19:10:31.301 INFO  (qtp1165791284-24) [c:sa s:shard1 r:core_node8 x:sa_shard1_replica_n6] o.a.s.c.ShardLeaderElectionContextBase Creating leader registration node /collections/sa/leaders/shard1/leader after winning as /collections/sa/leader_elect/shard1/election/72059411899351040-core_node8-n_0000000000
+2022-12-04 19:10:31.355 INFO  (qtp1165791284-20) [c:sa s:shard2 r:core_node5 x:sa_shard2_replica_n2] o.a.s.c.ShardLeaderElectionContext Enough replicas found to continue.
+2022-12-04 19:10:31.355 INFO  (qtp1165791284-20) [c:sa s:shard2 r:core_node5 x:sa_shard2_replica_n2] o.a.s.c.ShardLeaderElectionContext I may be the new leader - try and sync
+2022-12-04 19:10:31.355 INFO  (qtp1165791284-20) [c:sa s:shard2 r:core_node5 x:sa_shard2_replica_n2] o.a.s.c.SyncStrategy Sync replicas to http://localhost:8983/solr/sa_shard2_replica_n2/
+2022-12-04 19:10:31.357 INFO  (qtp1165791284-20) [c:sa s:shard2 r:core_node5 x:sa_shard2_replica_n2] o.a.s.u.PeerSync PeerSync: core=sa_shard2_replica_n2 url=http://localhost:8983/solr  START replicas=[http://localhost:7574/solr/sa_shard2_replica_n4/] nUpdates=100
+2022-12-04 19:10:31.358 INFO  (qtp1165791284-20) [c:sa s:shard2 r:core_node5 x:sa_shard2_replica_n2] o.a.s.u.PeerSync PeerSync: core=sa_shard2_replica_n2 url=http://localhost:8983/solr  DONE. We have no versions. sync failed.
+2022-12-04 19:10:31.362 INFO  (qtp1165791284-20) [c:sa s:shard2 r:core_node5 x:sa_shard2_replica_n2] o.a.s.c.SyncStrategy Leader's attempt to sync with shard failed, moving to the next candidate
+2022-12-04 19:10:31.362 INFO  (qtp1165791284-20) [c:sa s:shard2 r:core_node5 x:sa_shard2_replica_n2] o.a.s.c.ShardLeaderElectionContext We failed sync, but we have no versions - we can't sync in that case - we were active before, so become leader anyway
+2022-12-04 19:10:31.362 INFO  (qtp1165791284-20) [c:sa s:shard2 r:core_node5 x:sa_shard2_replica_n2] o.a.s.c.ShardLeaderElectionContextBase Creating leader registration node /collections/sa/leaders/shard2/leader after winning as /collections/sa/leader_elect/shard2/election/72059411899351040-core_node5-n_0000000000
+2022-12-04 19:10:31.362 INFO  (qtp1165791284-24) [c:sa s:shard1 r:core_node8 x:sa_shard1_replica_n6] o.a.s.c.ShardLeaderElectionContext I am the new leader: http://localhost:8983/solr/sa_shard1_replica_n6/ shard1
+2022-12-04 19:10:31.379 INFO  (qtp1165791284-20) [c:sa s:shard2 r:core_node5 x:sa_shard2_replica_n2] o.a.s.c.ShardLeaderElectionContext I am the new leader: http://localhost:8983/solr/sa_shard2_replica_n2/ shard2
+2022-12-04 19:10:31.487 INFO  (zkCallback-9-thread-5) [] o.a.s.c.c.ZkStateReader A cluster state change: [WatchedEvent state:SyncConnected type:NodeDataChanged path:/collections/sa/state.json] for collection [sa] has occurred - updating... (live nodes size: [2])
+2022-12-04 19:10:31.497 INFO  (qtp1165791284-24) [c:sa s:shard1 r:core_node8 x:sa_shard1_replica_n6] o.a.s.c.ZkController I am the leader, no recovery necessary
+2022-12-04 19:10:31.497 INFO  (qtp1165791284-20) [c:sa s:shard2 r:core_node5 x:sa_shard2_replica_n2] o.a.s.c.ZkController I am the leader, no recovery necessary
+2022-12-04 19:10:31.550 INFO  (qtp1165791284-24) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/cores params={qt=/admin/cores&coreNodeName=core_node8&collection.configName=sa&newCollection=true&name=sa_shard1_replica_n6&action=CREATE&numShards=2&collection=sa&shard=shard1&wt=javabin&version=2&replicaType=NRT} status=0 QTime=3243
+2022-12-04 19:10:31.551 INFO  (qtp1165791284-20) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/cores params={qt=/admin/cores&coreNodeName=core_node5&collection.configName=sa&newCollection=true&name=sa_shard2_replica_n2&action=CREATE&numShards=2&collection=sa&shard=shard2&wt=javabin&version=2&replicaType=NRT} status=0 QTime=3243
+2022-12-04 19:10:31.671 INFO  (zkCallback-9-thread-4) [] o.a.s.c.c.ZkStateReader A cluster state change: [WatchedEvent state:SyncConnected type:NodeDataChanged path:/collections/sa/state.json] for collection [sa] has occurred - updating... (live nodes size: [2])
+2022-12-04 19:10:31.671 INFO  (zkCallback-9-thread-5) [] o.a.s.c.c.ZkStateReader A cluster state change: [WatchedEvent state:SyncConnected type:NodeDataChanged path:/collections/sa/state.json] for collection [sa] has occurred - updating... (live nodes size: [2])
+2022-12-04 19:10:31.957 INFO  (qtp1165791284-22) [] o.a.s.h.a.CollectionsHandler Wait for new collection to be active for at most 45 seconds. Check all shard replicas
+2022-12-04 19:10:31.979 INFO  (zkCallback-9-thread-5) [] o.a.s.c.c.ZkStateReader A cluster state change: [WatchedEvent state:SyncConnected type:NodeDataChanged path:/collections/sa/state.json] for collection [sa] has occurred - updating... (live nodes size: [2])
+2022-12-04 19:10:31.979 INFO  (zkCallback-9-thread-4) [] o.a.s.c.c.ZkStateReader A cluster state change: [WatchedEvent state:SyncConnected type:NodeDataChanged path:/collections/sa/state.json] for collection [sa] has occurred - updating... (live nodes size: [2])
+2022-12-04 19:10:31.988 INFO  (qtp1165791284-22) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/collections params={replicationFactor=2&collection.configName=sa&name=sa&action=CREATE&numShards=2&wt=json} status=0 QTime=4272
+2022-12-04 19:10:32.147 INFO  (ZKEventListenerThread) [] o.a.s.c.SolrCore config update listener called for core sa_shard1_replica_n6
+2022-12-04 19:10:32.148 INFO  (qtp1165791284-26) [c:sa s:shard2 r:core_node5 x:sa_shard2_replica_n2] o.a.s.h.SolrConfigHandler Waiting up to 30 secs for 4 replicas to set the property overlay to be of version 0 for collection sa
+2022-12-04 19:10:32.160 INFO  (ZKEventListenerThread) [] o.a.s.c.SolrCore core reload sa_shard1_replica_n6
+2022-12-04 19:10:32.161 INFO  (solrHandlerExecutor-30-thread-2-processing-localhost:8983_solr sa_shard2_replica_n2 sa shard2 core_node5) [c:sa s:shard2 r:core_node5 x:sa_shard2_replica_n2] o.a.s.h.SolrConfigHandler Time elapsed : 0 secs, maxWait 30
+2022-12-04 19:10:32.175 INFO  (solrHandlerExecutor-30-thread-3-processing-localhost:8983_solr sa_shard2_replica_n2 sa shard2 core_node5) [c:sa s:shard2 r:core_node5 x:sa_shard2_replica_n2] o.a.s.h.SolrConfigHandler Time elapsed : 0 secs, maxWait 30
+2022-12-04 19:10:32.175 INFO  (solrHandlerExecutor-30-thread-4-processing-localhost:8983_solr sa_shard2_replica_n2 sa shard2 core_node5) [c:sa s:shard2 r:core_node5 x:sa_shard2_replica_n2] o.a.s.h.SolrConfigHandler Time elapsed : 0 secs, maxWait 30
+2022-12-04 19:10:32.176 INFO  (solrHandlerExecutor-30-thread-1-processing-localhost:8983_solr sa_shard2_replica_n2 sa shard2 core_node5) [c:sa s:shard2 r:core_node5 x:sa_shard2_replica_n2] o.a.s.h.SolrConfigHandler Time elapsed : 0 secs, maxWait 30
+2022-12-04 19:10:32.228 INFO  (ZKEventListenerThread) [] o.a.s.c.SolrConfig Using Lucene MatchVersion: 9.0.0
+2022-12-04 19:10:32.237 INFO  (ZKEventListenerThread) [] o.a.s.s.IndexSchema Schema name=default-config
+2022-12-04 19:10:32.322 INFO  (qtp1165791284-19) [c:sa s:shard2 r:core_node5 x:sa_shard2_replica_n2] o.a.s.h.SolrConfigHandler expecting overlay version 0 but my version is -1
+2022-12-04 19:10:32.322 INFO  (qtp1165791284-25) [c:sa s:shard1 r:core_node8 x:sa_shard1_replica_n6] o.a.s.h.SolrConfigHandler expecting overlay version 0 but my version is -1
+2022-12-04 19:10:32.323 INFO  (qtp1165791284-25) [c:sa s:shard1 r:core_node8 x:sa_shard1_replica_n6] o.a.s.c.S.Request webapp=/solr path=/config/znodeVersion params={overlay=0&wt=javabin&version=2} status=0 QTime=1
+2022-12-04 19:10:32.323 INFO  (SolrConfigHandler-refreshconf) [] o.a.s.h.SolrConfigHandler Trying to update my configs
+2022-12-04 19:10:32.323 INFO  (qtp1165791284-19) [c:sa s:shard2 r:core_node5 x:sa_shard2_replica_n2] o.a.s.c.S.Request webapp=/solr path=/config/znodeVersion params={overlay=0&wt=javabin&version=2} status=0 QTime=1
+2022-12-04 19:10:32.323 INFO  (SolrConfigHandler-refreshconf) [] o.a.s.c.SolrCore config update listener called for core sa_shard2_replica_n2
+2022-12-04 19:10:32.324 INFO  (SolrConfigHandler-refreshconf) [] o.a.s.h.SolrConfigHandler Another reload is in progress . Not doing anything
+2022-12-04 19:10:32.325 INFO  (SolrConfigHandler-refreshconf) [] o.a.s.c.SolrCore core reload sa_shard2_replica_n2
+2022-12-04 19:10:32.333 INFO  (solrHandlerExecutor-30-thread-3-processing-localhost:8983_solr sa_shard2_replica_n2 sa shard2 core_node5) [c:sa s:shard2 r:core_node5 x:sa_shard2_replica_n2] o.a.s.h.SolrConfigHandler Could not get expectedVersion 0 from http://localhost:7574/solr/sa_shard1_replica_n1/ for prop overlay   after 1 attempts
+2022-12-04 19:10:32.333 INFO  (solrHandlerExecutor-30-thread-3-processing-localhost:8983_solr sa_shard2_replica_n2 sa shard2 core_node5) [c:sa s:shard2 r:core_node5 x:sa_shard2_replica_n2] o.a.s.h.SolrConfigHandler Time elapsed : 0 secs, maxWait 30
+2022-12-04 19:10:32.333 INFO  (solrHandlerExecutor-30-thread-2-processing-localhost:8983_solr sa_shard2_replica_n2 sa shard2 core_node5) [c:sa s:shard2 r:core_node5 x:sa_shard2_replica_n2] o.a.s.h.SolrConfigHandler Could not get expectedVersion 0 from http://localhost:7574/solr/sa_shard2_replica_n4/ for prop overlay   after 1 attempts
+2022-12-04 19:10:32.333 INFO  (solrHandlerExecutor-30-thread-4-processing-localhost:8983_solr sa_shard2_replica_n2 sa shard2 core_node5) [c:sa s:shard2 r:core_node5 x:sa_shard2_replica_n2] o.a.s.h.SolrConfigHandler Could not get expectedVersion 0 from http://localhost:8983/solr/sa_shard1_replica_n6/ for prop overlay   after 1 attempts
+2022-12-04 19:10:32.333 INFO  (solrHandlerExecutor-30-thread-2-processing-localhost:8983_solr sa_shard2_replica_n2 sa shard2 core_node5) [c:sa s:shard2 r:core_node5 x:sa_shard2_replica_n2] o.a.s.h.SolrConfigHandler Time elapsed : 0 secs, maxWait 30
+2022-12-04 19:10:32.333 INFO  (solrHandlerExecutor-30-thread-4-processing-localhost:8983_solr sa_shard2_replica_n2 sa shard2 core_node5) [c:sa s:shard2 r:core_node5 x:sa_shard2_replica_n2] o.a.s.h.SolrConfigHandler Time elapsed : 0 secs, maxWait 30
+2022-12-04 19:10:32.333 INFO  (solrHandlerExecutor-30-thread-1-processing-localhost:8983_solr sa_shard2_replica_n2 sa shard2 core_node5) [c:sa s:shard2 r:core_node5 x:sa_shard2_replica_n2] o.a.s.h.SolrConfigHandler Could not get expectedVersion 0 from http://localhost:8983/solr/sa_shard2_replica_n2/ for prop overlay   after 1 attempts
+2022-12-04 19:10:32.333 INFO  (solrHandlerExecutor-30-thread-1-processing-localhost:8983_solr sa_shard2_replica_n2 sa shard2 core_node5) [c:sa s:shard2 r:core_node5 x:sa_shard2_replica_n2] o.a.s.h.SolrConfigHandler Time elapsed : 0 secs, maxWait 30
+2022-12-04 19:10:32.335 INFO  (SolrConfigHandler-refreshconf) [] o.a.s.c.SolrConfig Using Lucene MatchVersion: 9.0.0
+2022-12-04 19:10:32.340 INFO  (SolrConfigHandler-refreshconf) [] o.a.s.s.IndexSchema Schema name=default-config
+2022-12-04 19:10:32.410 INFO  (ZKEventListenerThread) [] o.a.s.s.IndexSchema Loaded schema default-config/1.6 with uniqueid field id
+2022-12-04 19:10:32.410 INFO  (ZKEventListenerThread) [] o.a.s.c.CoreContainer Reloading SolrCore 'sa_shard1_replica_n6' using configuration from configset sa
+2022-12-04 19:10:32.442 INFO  (qtp1165791284-17) [c:sa s:shard1 r:core_node8 x:sa_shard1_replica_n6] o.a.s.h.SolrConfigHandler expecting overlay version 0 but my version is -1
+2022-12-04 19:10:32.442 INFO  (qtp1165791284-17) [c:sa s:shard1 r:core_node8 x:sa_shard1_replica_n6] o.a.s.c.S.Request webapp=/solr path=/config/znodeVersion params={overlay=0&wt=javabin&version=2} status=0 QTime=0
+2022-12-04 19:10:32.442 INFO  (qtp1165791284-24) [c:sa s:shard2 r:core_node5 x:sa_shard2_replica_n2] o.a.s.h.SolrConfigHandler expecting overlay version 0 but my version is -1
+2022-12-04 19:10:32.442 INFO  (qtp1165791284-24) [c:sa s:shard2 r:core_node5 x:sa_shard2_replica_n2] o.a.s.c.S.Request webapp=/solr path=/config/znodeVersion params={overlay=0&wt=javabin&version=2} status=0 QTime=0
+2022-12-04 19:10:32.442 INFO  (SolrConfigHandler-refreshconf) [] o.a.s.h.SolrConfigHandler Another reload is in progress . Not doing anything
+2022-12-04 19:10:32.443 INFO  (SolrConfigHandler-refreshconf) [] o.a.s.h.SolrConfigHandler Another reload is in progress . Not doing anything
+2022-12-04 19:10:32.443 INFO  (solrHandlerExecutor-30-thread-4-processing-localhost:8983_solr sa_shard2_replica_n2 sa shard2 core_node5) [c:sa s:shard2 r:core_node5 x:sa_shard2_replica_n2] o.a.s.h.SolrConfigHandler Could not get expectedVersion 0 from http://localhost:8983/solr/sa_shard1_replica_n6/ for prop overlay   after 2 attempts
+2022-12-04 19:10:32.443 INFO  (solrHandlerExecutor-30-thread-4-processing-localhost:8983_solr sa_shard2_replica_n2 sa shard2 core_node5) [c:sa s:shard2 r:core_node5 x:sa_shard2_replica_n2] o.a.s.h.SolrConfigHandler Time elapsed : 0 secs, maxWait 30
+2022-12-04 19:10:32.444 INFO  (solrHandlerExecutor-30-thread-1-processing-localhost:8983_solr sa_shard2_replica_n2 sa shard2 core_node5) [c:sa s:shard2 r:core_node5 x:sa_shard2_replica_n2] o.a.s.h.SolrConfigHandler Could not get expectedVersion 0 from http://localhost:8983/solr/sa_shard2_replica_n2/ for prop overlay   after 2 attempts
+2022-12-04 19:10:32.444 INFO  (solrHandlerExecutor-30-thread-1-processing-localhost:8983_solr sa_shard2_replica_n2 sa shard2 core_node5) [c:sa s:shard2 r:core_node5 x:sa_shard2_replica_n2] o.a.s.h.SolrConfigHandler Time elapsed : 0 secs, maxWait 30
+2022-12-04 19:10:32.447 INFO  (solrHandlerExecutor-30-thread-3-processing-localhost:8983_solr sa_shard2_replica_n2 sa shard2 core_node5) [c:sa s:shard2 r:core_node5 x:sa_shard2_replica_n2] o.a.s.h.SolrConfigHandler Could not get expectedVersion 0 from http://localhost:7574/solr/sa_shard1_replica_n1/ for prop overlay   after 2 attempts
+2022-12-04 19:10:32.447 INFO  (solrHandlerExecutor-30-thread-3-processing-localhost:8983_solr sa_shard2_replica_n2 sa shard2 core_node5) [c:sa s:shard2 r:core_node5 x:sa_shard2_replica_n2] o.a.s.h.SolrConfigHandler Time elapsed : 0 secs, maxWait 30
+2022-12-04 19:10:32.448 INFO  (solrHandlerExecutor-30-thread-2-processing-localhost:8983_solr sa_shard2_replica_n2 sa shard2 core_node5) [c:sa s:shard2 r:core_node5 x:sa_shard2_replica_n2] o.a.s.h.SolrConfigHandler Could not get expectedVersion 0 from http://localhost:7574/solr/sa_shard2_replica_n4/ for prop overlay   after 2 attempts
+2022-12-04 19:10:32.448 INFO  (solrHandlerExecutor-30-thread-2-processing-localhost:8983_solr sa_shard2_replica_n2 sa shard2 core_node5) [c:sa s:shard2 r:core_node5 x:sa_shard2_replica_n2] o.a.s.h.SolrConfigHandler Time elapsed : 0 secs, maxWait 30
+2022-12-04 19:10:32.471 INFO  (ZKEventListenerThread) [] o.a.s.c.SolrCore Opening new SolrCore at [/home/makfazlic/Desktop/FeatureHunt/solr-9.0.0/example/cloud/node1/solr/sa_shard1_replica_n6], dataDir=[/home/makfazlic/Desktop/FeatureHunt/solr-9.0.0/example/cloud/node1/solr/sa_shard1_replica_n6/data/]
+2022-12-04 19:10:32.472 INFO  (SolrConfigHandler-refreshconf) [] o.a.s.s.IndexSchema Loaded schema default-config/1.6 with uniqueid field id
+2022-12-04 19:10:32.472 INFO  (SolrConfigHandler-refreshconf) [] o.a.s.c.CoreContainer Reloading SolrCore 'sa_shard2_replica_n2' using configuration from configset sa
+2022-12-04 19:10:32.521 INFO  (SolrConfigHandler-refreshconf) [] o.a.s.c.SolrCore Opening new SolrCore at [/home/makfazlic/Desktop/FeatureHunt/solr-9.0.0/example/cloud/node1/solr/sa_shard2_replica_n2], dataDir=[/home/makfazlic/Desktop/FeatureHunt/solr-9.0.0/example/cloud/node1/solr/sa_shard2_replica_n2/data/]
+2022-12-04 19:10:32.547 INFO  (qtp1165791284-25) [c:sa s:shard1 r:core_node8 x:sa_shard1_replica_n6] o.a.s.h.SolrConfigHandler expecting overlay version 0 but my version is -1
+2022-12-04 19:10:32.569 INFO  (qtp1165791284-25) [c:sa s:shard1 r:core_node8 x:sa_shard1_replica_n6] o.a.s.c.S.Request webapp=/solr path=/config/znodeVersion params={overlay=0&wt=javabin&version=2} status=0 QTime=22
+2022-12-04 19:10:32.569 INFO  (SolrConfigHandler-refreshconf) [] o.a.s.h.SolrConfigHandler Another reload is in progress . Not doing anything
+2022-12-04 19:10:32.572 INFO  (qtp1165791284-19) [c:sa s:shard2 r:core_node5 x:sa_shard2_replica_n2] o.a.s.h.SolrConfigHandler expecting overlay version 0 but my version is -1
+2022-12-04 19:10:32.575 INFO  (solrHandlerExecutor-30-thread-4-processing-localhost:8983_solr sa_shard2_replica_n2 sa shard2 core_node5) [c:sa s:shard2 r:core_node5 x:sa_shard2_replica_n2] o.a.s.h.SolrConfigHandler Could not get expectedVersion 0 from http://localhost:8983/solr/sa_shard1_replica_n6/ for prop overlay   after 3 attempts
+2022-12-04 19:10:32.575 INFO  (solrHandlerExecutor-30-thread-4-processing-localhost:8983_solr sa_shard2_replica_n2 sa shard2 core_node5) [c:sa s:shard2 r:core_node5 x:sa_shard2_replica_n2] o.a.s.h.SolrConfigHandler Time elapsed : 0 secs, maxWait 30
+2022-12-04 19:10:32.578 INFO  (ZKEventListenerThread) [] o.a.s.u.CommitTracker Hard AutoCommit: if uncommitted for 15000ms; 
+2022-12-04 19:10:32.578 INFO  (ZKEventListenerThread) [] o.a.s.u.CommitTracker Soft AutoCommit: if uncommitted for 3000ms; 
+2022-12-04 19:10:32.579 INFO  (solrHandlerExecutor-30-thread-2-processing-localhost:8983_solr sa_shard2_replica_n2 sa shard2 core_node5) [c:sa s:shard2 r:core_node5 x:sa_shard2_replica_n2] o.a.s.h.SolrConfigHandler Could not get expectedVersion 0 from http://localhost:7574/solr/sa_shard2_replica_n4/ for prop overlay   after 3 attempts
+2022-12-04 19:10:32.579 INFO  (solrHandlerExecutor-30-thread-2-processing-localhost:8983_solr sa_shard2_replica_n2 sa shard2 core_node5) [c:sa s:shard2 r:core_node5 x:sa_shard2_replica_n2] o.a.s.h.SolrConfigHandler Time elapsed : 0 secs, maxWait 30
+2022-12-04 19:10:32.583 INFO  (qtp1165791284-19) [c:sa s:shard2 r:core_node5 x:sa_shard2_replica_n2] o.a.s.c.S.Request webapp=/solr path=/config/znodeVersion params={overlay=0&wt=javabin&version=2} status=0 QTime=11
+2022-12-04 19:10:32.583 INFO  (solrHandlerExecutor-30-thread-3-processing-localhost:8983_solr sa_shard2_replica_n2 sa shard2 core_node5) [c:sa s:shard2 r:core_node5 x:sa_shard2_replica_n2] o.a.s.h.SolrConfigHandler Could not get expectedVersion 0 from http://localhost:7574/solr/sa_shard1_replica_n1/ for prop overlay   after 3 attempts
+2022-12-04 19:10:32.583 INFO  (solrHandlerExecutor-30-thread-3-processing-localhost:8983_solr sa_shard2_replica_n2 sa shard2 core_node5) [c:sa s:shard2 r:core_node5 x:sa_shard2_replica_n2] o.a.s.h.SolrConfigHandler Time elapsed : 0 secs, maxWait 30
+2022-12-04 19:10:32.589 INFO  (SolrConfigHandler-refreshconf) [] o.a.s.h.SolrConfigHandler Another reload is in progress . Not doing anything
+2022-12-04 19:10:32.590 INFO  (solrHandlerExecutor-30-thread-1-processing-localhost:8983_solr sa_shard2_replica_n2 sa shard2 core_node5) [c:sa s:shard2 r:core_node5 x:sa_shard2_replica_n2] o.a.s.h.SolrConfigHandler Could not get expectedVersion 0 from http://localhost:8983/solr/sa_shard2_replica_n2/ for prop overlay   after 3 attempts
+2022-12-04 19:10:32.590 INFO  (solrHandlerExecutor-30-thread-1-processing-localhost:8983_solr sa_shard2_replica_n2 sa shard2 core_node5) [c:sa s:shard2 r:core_node5 x:sa_shard2_replica_n2] o.a.s.h.SolrConfigHandler Time elapsed : 0 secs, maxWait 30
+2022-12-04 19:10:32.594 INFO  (ZKEventListenerThread) [] o.a.s.r.ManagedResourceStorage Configured ZooKeeperStorageIO with znodeBase: /configs/sa
+2022-12-04 19:10:32.595 INFO  (ZKEventListenerThread) [] o.a.s.r.ManagedResourceStorage Loaded null at path _rest_managed.json using ZooKeeperStorageIO:path=/configs/sa
+2022-12-04 19:10:32.596 INFO  (ZKEventListenerThread) [] o.a.s.s.ZkIndexSchemaReader Creating ZooKeeper watch for the managed schema at /configs/sa/managed-schema.xml
+2022-12-04 19:10:32.597 INFO  (ZKEventListenerThread) [] o.a.s.s.ZkIndexSchemaReader Current schema version 0 is already the latest
+2022-12-04 19:10:32.597 INFO  (ZKEventListenerThread) [] o.a.s.s.DirectSolrSpellChecker init: {name=default, field=_text_, classname=solr.DirectSolrSpellChecker, distanceMeasure=internal, maxEdits=2, minPrefix=1, maxInspections=5, minQueryLength=4, accuracy=0.5, maxQueryFrequency=0.01}
+2022-12-04 19:10:32.598 INFO  (ZKEventListenerThread) [] o.a.s.h.ReplicationHandler Commits will be reserved for 10000 ms
+2022-12-04 19:10:32.599 INFO  (ZKEventListenerThread) [] o.a.s.u.UpdateLog Could not find max version in index or recent updates, using new clock 1751311746438529024
+2022-12-04 19:10:32.606 INFO  (searcherExecutor-36-thread-1-processing-localhost:8983_solr) [] o.a.s.c.QuerySenderListener QuerySenderListener done.
+2022-12-04 19:10:32.606 INFO  (searcherExecutor-36-thread-1-processing-localhost:8983_solr) [] o.a.s.h.c.SpellCheckComponent Loading spell index for spellchecker: default
+2022-12-04 19:10:32.628 INFO  (searcherExecutor-36-thread-1-processing-localhost:8983_solr) [] o.a.s.c.SolrCore Registered new searcher autowarm time: 0 ms
+2022-12-04 19:10:32.628 INFO  (ZKEventListenerThread) [] o.a.s.u.DefaultSolrCoreState New IndexWriter is ready to be used.
+2022-12-04 19:10:32.634 INFO  (ZKEventListenerThread) [] o.a.s.c.SolrCore CLOSING SolrCore org.apache.solr.core.SolrCore@7d7aec33 sa_shard1_replica_n6
+2022-12-04 19:10:32.635 INFO  (ZKEventListenerThread) [] o.a.s.m.SolrMetricManager Closing metric reporters for registry=solr.core.sa.shard1.replica_n6 tag=SolrCore@7d7aec33
+2022-12-04 19:10:32.642 INFO  (searcherExecutor-36-thread-1-processing-localhost:8983_solr) [] o.a.s.c.QuerySenderListener QuerySenderListener done.
+2022-12-04 19:10:32.664 INFO  (SolrConfigHandler-refreshconf) [] o.a.s.u.CommitTracker Hard AutoCommit: if uncommitted for 15000ms; 
+2022-12-04 19:10:32.665 INFO  (SolrConfigHandler-refreshconf) [] o.a.s.u.CommitTracker Soft AutoCommit: if uncommitted for 3000ms; 
+2022-12-04 19:10:32.665 INFO  (searcherExecutor-36-thread-1-processing-localhost:8983_solr) [] o.a.s.c.SolrCore Registered new searcher autowarm time: 8 ms
+2022-12-04 19:10:32.675 INFO  (SolrConfigHandler-refreshconf) [] o.a.s.r.ManagedResourceStorage Configured ZooKeeperStorageIO with znodeBase: /configs/sa
+2022-12-04 19:10:32.675 INFO  (ZKEventListenerThread) [] o.a.s.m.SolrMetricManager Closing metric reporters for registry=solr.collection.sa.shard1.leader tag=SolrCore@7d7aec33
+2022-12-04 19:10:32.677 INFO  (qtp1165791284-24) [c:sa s:shard1 r:core_node8 x:sa_shard1_replica_n6] o.a.s.h.SolrConfigHandler I already have the expected version 0 of config
+2022-12-04 19:10:32.677 INFO  (qtp1165791284-24) [c:sa s:shard1 r:core_node8 x:sa_shard1_replica_n6] o.a.s.h.SolrConfigHandler isStale false , resourceloader org.apache.solr.cloud.ZkSolrResourceLoader
+2022-12-04 19:10:32.677 INFO  (qtp1165791284-24) [c:sa s:shard1 r:core_node8 x:sa_shard1_replica_n6] o.a.s.c.S.Request webapp=/solr path=/config/znodeVersion params={overlay=0&wt=javabin&version=2} status=0 QTime=0
+2022-12-04 19:10:32.679 INFO  (ZKEventListenerThread) [] o.a.s.c.SolrCore config update listener called for core sa_shard2_replica_n2
+2022-12-04 19:10:32.680 INFO  (SolrConfigHandler-refreshconf) [] o.a.s.r.ManagedResourceStorage Loaded null at path _rest_managed.json using ZooKeeperStorageIO:path=/configs/sa
+2022-12-04 19:10:32.680 INFO  (ZKEventListenerThread) [] o.a.s.c.SolrCore core reload sa_shard2_replica_n2
+2022-12-04 19:10:32.680 INFO  (SolrConfigHandler-refreshconf) [] o.a.s.s.ZkIndexSchemaReader Creating ZooKeeper watch for the managed schema at /configs/sa/managed-schema.xml
+2022-12-04 19:10:32.680 INFO  (ZKEventListenerThread) [] o.a.s.c.SolrCore Another reload is in progress. Not doing anything.
+2022-12-04 19:10:32.681 INFO  (SolrConfigHandler-refreshconf) [] o.a.s.s.ZkIndexSchemaReader Current schema version 0 is already the latest
+2022-12-04 19:10:32.682 INFO  (SolrConfigHandler-refreshconf) [] o.a.s.s.DirectSolrSpellChecker init: {name=default, field=_text_, classname=solr.DirectSolrSpellChecker, distanceMeasure=internal, maxEdits=2, minPrefix=1, maxInspections=5, minQueryLength=4, accuracy=0.5, maxQueryFrequency=0.01}
+2022-12-04 19:10:32.682 INFO  (SolrConfigHandler-refreshconf) [] o.a.s.h.ReplicationHandler Commits will be reserved for 10000 ms
+2022-12-04 19:10:32.687 INFO  (SolrConfigHandler-refreshconf) [] o.a.s.u.UpdateLog Could not find max version in index or recent updates, using new clock 1751311746529755136
+2022-12-04 19:10:32.688 INFO  (searcherExecutor-42-thread-1-processing-localhost:8983_solr) [] o.a.s.c.QuerySenderListener QuerySenderListener done.
+2022-12-04 19:10:32.688 INFO  (searcherExecutor-42-thread-1-processing-localhost:8983_solr) [] o.a.s.h.c.SpellCheckComponent Loading spell index for spellchecker: default
+2022-12-04 19:10:32.694 INFO  (searcherExecutor-42-thread-1-processing-localhost:8983_solr) [] o.a.s.c.SolrCore Registered new searcher autowarm time: 0 ms
+2022-12-04 19:10:32.708 INFO  (qtp1165791284-17) [c:sa s:shard2 r:core_node5 x:sa_shard2_replica_n2] o.a.s.h.SolrConfigHandler expecting overlay version 0 but my version is -1
+2022-12-04 19:10:32.709 INFO  (qtp1165791284-17) [c:sa s:shard2 r:core_node5 x:sa_shard2_replica_n2] o.a.s.c.S.Request webapp=/solr path=/config/znodeVersion params={overlay=0&wt=javabin&version=2} status=0 QTime=0
+2022-12-04 19:10:32.709 INFO  (SolrConfigHandler-refreshconf) [] o.a.s.u.DefaultSolrCoreState New IndexWriter is ready to be used.
+2022-12-04 19:10:32.710 INFO  (solrHandlerExecutor-30-thread-1-processing-localhost:8983_solr sa_shard2_replica_n2 sa shard2 core_node5) [c:sa s:shard2 r:core_node5 x:sa_shard2_replica_n2] o.a.s.h.SolrConfigHandler Could not get expectedVersion 0 from http://localhost:8983/solr/sa_shard2_replica_n2/ for prop overlay   after 4 attempts
+2022-12-04 19:10:32.710 INFO  (solrHandlerExecutor-30-thread-1-processing-localhost:8983_solr sa_shard2_replica_n2 sa shard2 core_node5) [c:sa s:shard2 r:core_node5 x:sa_shard2_replica_n2] o.a.s.h.SolrConfigHandler Time elapsed : 0 secs, maxWait 30
+2022-12-04 19:10:32.710 INFO  (SolrConfigHandler-refreshconf) [] o.a.s.h.SolrConfigHandler Another reload is in progress . Not doing anything
+2022-12-04 19:10:32.713 INFO  (searcherExecutor-42-thread-1-processing-localhost:8983_solr) [] o.a.s.c.QuerySenderListener QuerySenderListener done.
+2022-12-04 19:10:32.719 INFO  (solrHandlerExecutor-30-thread-3-processing-localhost:8983_solr sa_shard2_replica_n2 sa shard2 core_node5) [c:sa s:shard2 r:core_node5 x:sa_shard2_replica_n2] o.a.s.h.SolrConfigHandler Could not get expectedVersion 0 from http://localhost:7574/solr/sa_shard1_replica_n1/ for prop overlay   after 4 attempts
+2022-12-04 19:10:32.719 INFO  (solrHandlerExecutor-30-thread-3-processing-localhost:8983_solr sa_shard2_replica_n2 sa shard2 core_node5) [c:sa s:shard2 r:core_node5 x:sa_shard2_replica_n2] o.a.s.h.SolrConfigHandler Time elapsed : 0 secs, maxWait 30
+2022-12-04 19:10:32.724 INFO  (searcherExecutor-42-thread-1-processing-localhost:8983_solr) [] o.a.s.c.SolrCore Registered new searcher autowarm time: 0 ms
+2022-12-04 19:10:32.812 INFO  (qtp1165791284-19) [c:sa s:shard2 r:core_node5 x:sa_shard2_replica_n2] o.a.s.h.SolrConfigHandler I already have the expected version 0 of config
+2022-12-04 19:10:32.812 INFO  (qtp1165791284-19) [c:sa s:shard2 r:core_node5 x:sa_shard2_replica_n2] o.a.s.h.SolrConfigHandler isStale false , resourceloader org.apache.solr.cloud.ZkSolrResourceLoader
+2022-12-04 19:10:32.812 INFO  (qtp1165791284-19) [c:sa s:shard2 r:core_node5 x:sa_shard2_replica_n2] o.a.s.c.S.Request webapp=/solr path=/config/znodeVersion params={overlay=0&wt=javabin&version=2} status=0 QTime=0
+2022-12-04 19:10:32.823 INFO  (qtp1165791284-26) [c:sa s:shard2 r:core_node5 x:sa_shard2_replica_n2] o.a.s.h.SolrConfigHandler Took 677.0ms to set the property overlay to be of version 0 for collection sa
+2022-12-04 19:10:32.823 INFO  (qtp1165791284-26) [c:sa s:shard2 r:core_node5 x:sa_shard2_replica_n2] o.a.s.c.S.Request webapp=/solr path=/config params={wt=javabin&version=2} status=0 QTime=712
+2022-12-04 19:10:32.824 INFO  (qtp1165791284-26) [c:sa s:shard2 r:core_node5 x:sa_shard2_replica_n2] o.a.s.c.SolrCore CLOSING SolrCore org.apache.solr.core.SolrCore@4f8b9e8b sa_shard2_replica_n2
+2022-12-04 19:10:32.824 INFO  (qtp1165791284-26) [c:sa s:shard2 r:core_node5 x:sa_shard2_replica_n2] o.a.s.m.SolrMetricManager Closing metric reporters for registry=solr.core.sa.shard2.replica_n2 tag=SolrCore@4f8b9e8b
+2022-12-04 19:10:32.831 INFO  (qtp1165791284-26) [c:sa s:shard2 r:core_node5 x:sa_shard2_replica_n2] o.a.s.m.SolrMetricManager Closing metric reporters for registry=solr.collection.sa.shard2.leader tag=SolrCore@4f8b9e8b
+2022-12-04 19:10:33.795 INFO  (OverseerCollectionConfigSetProcessor-72059411899351040-localhost:8983_solr-n_0000000002) [] o.a.s.c.OverseerTaskQueue Response ZK path: /overseer/collection-queue-work/qnr-0000000004 doesn't exist. Requestor may have disconnected from ZooKeeper
+2022-12-04 19:10:38.347 INFO  (qtp1165791284-91) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/cores params={indexInfo=false&wt=json&_=1670181038175} status=0 QTime=0
+2022-12-04 19:10:38.351 INFO  (qtp1165791284-88) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/info/system params={wt=json&_=1670181038175} status=0 QTime=4
+2022-12-04 19:10:38.361 INFO  (qtp1165791284-91) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/info/system params={wt=json&_=1670181038175} status=0 QTime=6
+2022-12-04 19:10:38.400 INFO  (qtp1165791284-26) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/collections params={action=LIST&wt=json&_=1670181038175} status=0 QTime=0
+2022-12-04 19:10:38.423 INFO  (qtp1165791284-20) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/collections params={action=LISTALIASES&wt=json&_=1670181038175} status=0 QTime=1
+2022-12-04 19:10:38.511 INFO  (qtp1165791284-26) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/schema-designer/configs params={wt=json&_=1670181038175} status=0 QTime=73
+2022-12-04 19:11:05.214 INFO  (qtp1165791284-17) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/cores params={indexInfo=false&wt=json&_=1670181038175} status=0 QTime=0
+2022-12-04 19:11:05.223 INFO  (qtp1165791284-25) [c:sa s:shard1 r:core_node8 x:sa_shard1_replica_n6] o.a.s.c.S.Request webapp=/solr path=/admin/luke params={numTerms=0&show=index&wt=json&_=1670181065201} status=0 QTime=2
+2022-12-04 19:11:05.223 INFO  (qtp1165791284-20) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/info/system params={wt=json&_=1670181038175} status=0 QTime=6
+2022-12-04 19:11:05.228 INFO  (qtp1165791284-19) [c:sa s:shard1 r:core_node8 x:sa_shard1_replica_n6] o.a.s.c.S.Request webapp=/solr path=/replication params={wt=json&command=details&_=1670181065202} status=0 QTime=5
+2022-12-04 19:11:05.228 INFO  (qtp1165791284-17) [c:sa s:shard1 r:core_node8 x:sa_shard1_replica_n6] o.a.s.c.S.Request webapp=/solr path=/admin/ping params={action=status&wt=json&_=1670181038175&ts=1670181038175} status=503 QTime=2
+2022-12-04 19:11:05.231 INFO  (qtp1165791284-24) [c:sa s:shard1 r:core_node8 x:sa_shard1_replica_n6] o.a.s.c.S.Request webapp=/solr path=/admin/system params={wt=json&_=1670181065202} status=0 QTime=7
+2022-12-04 19:11:05.244 INFO  (qtp1165791284-21) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/collections params={action=LIST&wt=json&_=1670181038175} status=0 QTime=0
+2022-12-04 19:11:05.253 INFO  (qtp1165791284-137) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/collections params={action=LISTALIASES&wt=json&_=1670181038175} status=0 QTime=1
+2022-12-04 19:11:05.270 INFO  (qtp1165791284-21) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/schema-designer/configs params={wt=json&_=1670181038175} status=0 QTime=0
+2022-12-04 19:11:25.145 INFO  (qtp1165791284-137) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/cores params={indexInfo=false&wt=json&_=1670181038175} status=0 QTime=0
+2022-12-04 19:11:25.146 INFO  (qtp1165791284-25) [c:sa s:shard2 r:core_node5 x:sa_shard2_replica_n2] o.a.s.c.S.Request webapp=/solr path=/admin/luke params={numTerms=0&show=index&wt=json&_=1670181065201} status=0 QTime=0
+2022-12-04 19:11:25.150 INFO  (qtp1165791284-21) [c:sa s:shard2 r:core_node5 x:sa_shard2_replica_n2] o.a.s.c.S.Request webapp=/solr path=/replication params={wt=json&command=details&_=1670181065202} status=0 QTime=1
+2022-12-04 19:11:25.150 INFO  (qtp1165791284-18) [c:sa s:shard2 r:core_node5 x:sa_shard2_replica_n2] o.a.s.c.S.Request webapp=/solr path=/admin/ping params={action=status&wt=json&_=1670181038175&ts=1670181038175} status=503 QTime=0
+2022-12-04 19:11:25.150 INFO  (qtp1165791284-19) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/info/system params={wt=json&_=1670181038175} status=0 QTime=5
+2022-12-04 19:11:25.157 INFO  (qtp1165791284-24) [c:sa s:shard2 r:core_node5 x:sa_shard2_replica_n2] o.a.s.c.S.Request webapp=/solr path=/admin/system params={wt=json&_=1670181065202} status=0 QTime=6
+2022-12-04 19:11:25.160 INFO  (qtp1165791284-25) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/collections params={action=LIST&wt=json&_=1670181038175} status=0 QTime=0
+2022-12-04 19:11:25.170 INFO  (qtp1165791284-24) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/collections params={action=LISTALIASES&wt=json&_=1670181038175} status=0 QTime=0
+2022-12-04 19:11:25.176 INFO  (qtp1165791284-25) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/schema-designer/configs params={wt=json&_=1670181038175} status=0 QTime=1
+2022-12-04 19:11:27.772 INFO  (qtp1165791284-24) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/cores params={indexInfo=false&wt=json&_=1670181038175} status=0 QTime=0
+2022-12-04 19:11:27.776 INFO  (qtp1165791284-88) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/collections params={action=CLUSTERSTATUS&wt=json&_=1670181038175} status=0 QTime=3
+2022-12-04 19:11:27.778 INFO  (qtp1165791284-137) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/info/system params={wt=json&_=1670181038175} status=0 QTime=6
+2022-12-04 19:11:27.809 INFO  (qtp1165791284-25) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/collections params={action=LIST&wt=json&_=1670181038175} status=0 QTime=0
+2022-12-04 19:11:27.825 INFO  (qtp1165791284-25) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/collections params={action=LISTALIASES&wt=json&_=1670181038175} status=0 QTime=1
+2022-12-04 19:11:27.842 INFO  (qtp1165791284-137) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/schema-designer/configs params={wt=json&_=1670181038175} status=0 QTime=1
+2022-12-04 19:11:34.169 INFO  (qtp1165791284-25) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/cores params={indexInfo=false&wt=json&_=1670181038175} status=0 QTime=0
+2022-12-04 19:11:34.173 INFO  (qtp1165791284-19) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/info/system params={wt=json&_=1670181038175} status=0 QTime=5
+2022-12-04 19:11:34.186 INFO  (qtp1165791284-21) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/info/system params={wt=json&_=1670181038175} status=0 QTime=6
+2022-12-04 19:11:34.241 INFO  (qtp1165791284-25) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/collections params={action=LIST&wt=json&_=1670181038175} status=0 QTime=0
+2022-12-04 19:11:34.289 INFO  (qtp1165791284-21) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/collections params={action=LISTALIASES&wt=json&_=1670181038175} status=0 QTime=1
+2022-12-04 19:11:34.302 INFO  (qtp1165791284-25) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/schema-designer/configs params={wt=json&_=1670181038175} status=0 QTime=0
+2022-12-04 19:11:34.571 INFO  (qtp1165791284-25) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/cores params={indexInfo=false&wt=json&_=1670181038175} status=0 QTime=0
+2022-12-04 19:11:34.573 INFO  (qtp1165791284-19) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/info/logging params={wt=json&_=1670181094563&since=0} status=0 QTime=1
+2022-12-04 19:11:34.577 INFO  (qtp1165791284-88) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/info/system params={wt=json&_=1670181038175} status=0 QTime=6
+2022-12-04 19:11:34.633 INFO  (qtp1165791284-19) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/collections params={action=LIST&wt=json&_=1670181038175} status=0 QTime=0
+2022-12-04 19:11:34.641 INFO  (qtp1165791284-24) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/collections params={action=LISTALIASES&wt=json&_=1670181038175} status=0 QTime=0
+2022-12-04 19:11:34.651 INFO  (qtp1165791284-19) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/schema-designer/configs params={wt=json&_=1670181038175} status=0 QTime=1
+2022-12-04 19:11:35.466 INFO  (qtp1165791284-19) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/cores params={indexInfo=false&wt=json&_=1670181038175} status=0 QTime=0
+2022-12-04 19:11:35.473 INFO  (qtp1165791284-21) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/info/system params={wt=json&_=1670181038175} status=0 QTime=7
+2022-12-04 19:11:35.485 INFO  (qtp1165791284-137) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/info/logging params={wt=json&_=1670181094563} status=0 QTime=19
+2022-12-04 19:11:35.490 INFO  (qtp1165791284-24) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/collections params={action=LIST&wt=json&_=1670181038175} status=0 QTime=0
+2022-12-04 19:11:35.500 INFO  (qtp1165791284-21) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/collections params={action=LISTALIASES&wt=json&_=1670181038175} status=0 QTime=1
+2022-12-04 19:11:36.910 INFO  (qtp1165791284-88) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/schema-designer/configs params={wt=json&_=1670181038175} status=0 QTime=1
+2022-12-04 19:11:37.064 INFO  (qtp1165791284-88) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/cores params={indexInfo=false&wt=json&_=1670181038175} status=0 QTime=0
+2022-12-04 19:11:37.071 INFO  (qtp1165791284-19) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/info/system params={wt=json&_=1670181038175} status=0 QTime=5
+2022-12-04 19:11:37.072 INFO  (qtp1165791284-137) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/info/system params={wt=json&_=1670181038175} status=0 QTime=5
+2022-12-04 19:11:37.143 INFO  (qtp1165791284-88) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/collections params={action=LIST&wt=json&_=1670181038175} status=0 QTime=0
+2022-12-04 19:11:37.149 INFO  (qtp1165791284-18) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/cluster/security/authorization params={wt=json&_=1670181097045} status=0 QTime=0
+2022-12-04 19:11:37.164 INFO  (qtp1165791284-88) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/cores params={indexInfo=false&wt=json&_=1670181038175} status=0 QTime=0
+2022-12-04 19:11:37.165 INFO  (qtp1165791284-18) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/collections params={action=CLUSTERSTATUS&wt=json&_=1670181038175} status=0 QTime=1
+2022-12-04 19:11:37.168 INFO  (qtp1165791284-137) [] o.a.s.h.a.ConfigSetsHandler Invoked ConfigSet Action :list with params action=LIST&wt=json&_=1670181097156 
+2022-12-04 19:11:37.170 INFO  (qtp1165791284-24) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/info/system params={wt=json&_=1670181038175} status=0 QTime=5
+2022-12-04 19:11:37.173 INFO  (qtp1165791284-137) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/configs params={action=LIST&wt=json&_=1670181097156} status=0 QTime=6
+2022-12-04 19:11:37.194 INFO  (qtp1165791284-137) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/collections params={action=LISTALIASES&wt=json&_=1670181038175} status=0 QTime=1
+2022-12-04 19:11:37.194 INFO  (qtp1165791284-19) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/collections params={action=LIST&wt=json&_=1670181038175} status=0 QTime=0
+2022-12-04 19:11:37.196 INFO  (qtp1165791284-88) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/collections params={action=LISTALIASES&wt=json&_=1670181038175} status=0 QTime=0
+2022-12-04 19:11:37.212 INFO  (qtp1165791284-19) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/schema-designer/configs params={wt=json&_=1670181038175} status=0 QTime=1
+2022-12-04 19:11:37.221 INFO  (qtp1165791284-88) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/collections params={action=LISTALIASES&wt=json&_=1670181038175} status=0 QTime=0
+2022-12-04 19:11:37.237 INFO  (qtp1165791284-19) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/schema-designer/configs params={wt=json&_=1670181038175} status=0 QTime=1
+2022-12-04 19:11:38.772 INFO  (qtp1165791284-19) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/cores params={indexInfo=false&wt=json&_=1670181038175} status=0 QTime=0
+2022-12-04 19:11:38.776 INFO  (qtp1165791284-25) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/info/properties params={wt=json&_=1670181098759} status=0 QTime=1
+2022-12-04 19:11:38.780 INFO  (qtp1165791284-88) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/info/system params={wt=json&_=1670181038175} status=0 QTime=5
+2022-12-04 19:11:38.832 INFO  (qtp1165791284-19) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/collections params={action=LIST&wt=json&_=1670181038175} status=0 QTime=0
+2022-12-04 19:11:38.837 INFO  (qtp1165791284-88) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/collections params={action=LISTALIASES&wt=json&_=1670181038175} status=0 QTime=0
+2022-12-04 19:11:38.842 INFO  (qtp1165791284-19) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/schema-designer/configs params={wt=json&_=1670181038175} status=0 QTime=1
+2022-12-04 19:11:39.338 INFO  (qtp1165791284-19) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/cores params={indexInfo=false&wt=json&_=1670181038175} status=0 QTime=0
+2022-12-04 19:11:39.378 INFO  (qtp1165791284-137) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/info/system params={wt=json&_=1670181038175} status=0 QTime=40
+2022-12-04 19:11:39.387 INFO  (qtp1165791284-24) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/collections params={action=LIST&wt=json&_=1670181038175} status=0 QTime=0
+2022-12-04 19:11:39.387 INFO  (qtp1165791284-88) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/info/threads params={wt=json&_=1670181099329} status=0 QTime=48
+2022-12-04 19:11:39.392 INFO  (qtp1165791284-137) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/collections params={action=LISTALIASES&wt=json&_=1670181038175} status=0 QTime=0
+2022-12-04 19:11:39.469 INFO  (qtp1165791284-88) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/schema-designer/configs params={wt=json&_=1670181038175} status=0 QTime=0
+2022-12-04 19:11:40.297 INFO  (qtp1165791284-17) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/cores params={indexInfo=false&wt=json&_=1670181038175} status=0 QTime=0
+2022-12-04 19:11:40.301 INFO  (qtp1165791284-88) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/info/system params={wt=json&_=1670181038175} status=0 QTime=4
+2022-12-04 19:11:40.301 INFO  (qtp1165791284-24) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/info/properties params={wt=json&_=1670181098759} status=0 QTime=0
+2022-12-04 19:11:40.333 INFO  (qtp1165791284-17) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/collections params={action=LIST&wt=json&_=1670181038175} status=0 QTime=0
+2022-12-04 19:11:40.351 INFO  (qtp1165791284-24) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/collections params={action=LISTALIASES&wt=json&_=1670181038175} status=0 QTime=0
+2022-12-04 19:11:40.357 INFO  (qtp1165791284-17) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/schema-designer/configs params={wt=json&_=1670181038175} status=0 QTime=1
+2022-12-04 19:11:42.364 INFO  (qtp1165791284-24) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/cores params={indexInfo=false&wt=json&_=1670181038175} status=0 QTime=0
+2022-12-04 19:11:42.368 INFO  (qtp1165791284-91) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/info/system params={wt=json&_=1670181038175} status=0 QTime=4
+2022-12-04 19:11:42.369 INFO  (qtp1165791284-19) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/collections params={action=CLUSTERSTATUS&wt=json&_=1670181038175} status=0 QTime=1
+2022-12-04 19:11:42.392 INFO  (qtp1165791284-88) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/collections params={action=LIST&wt=json&_=1670181038175} status=0 QTime=0
+2022-12-04 19:11:42.416 INFO  (qtp1165791284-19) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/collections params={action=LISTALIASES&wt=json&_=1670181038175} status=0 QTime=0
+2022-12-04 19:11:42.422 INFO  (qtp1165791284-88) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/schema-designer/configs params={wt=json&_=1670181038175} status=0 QTime=0
+2022-12-04 19:12:13.327 INFO  (qtp1165791284-19) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/cores params={indexInfo=false&wt=json&_=1670181038175} status=0 QTime=0
+2022-12-04 19:12:13.334 INFO  (qtp1165791284-24) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/info/system params={wt=json&_=1670181038175} status=0 QTime=7
+2022-12-04 19:12:13.336 INFO  (qtp1165791284-88) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/info/system params={wt=json&_=1670181038175} status=0 QTime=9
+2022-12-04 19:12:13.361 INFO  (qtp1165791284-91) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/collections params={action=LIST&wt=json&_=1670181038175} status=0 QTime=0
+2022-12-04 19:12:13.371 INFO  (qtp1165791284-88) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/collections params={action=LISTALIASES&wt=json&_=1670181038175} status=0 QTime=0
+2022-12-04 19:12:13.397 INFO  (qtp1165791284-91) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/schema-designer/configs params={wt=json&_=1670181038175} status=0 QTime=1
+2022-12-04 19:12:27.295 INFO  (qtp1165791284-91) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/cores params={indexInfo=false&wt=json&_=1670181038175} status=0 QTime=0
+2022-12-04 19:12:27.297 INFO  (qtp1165791284-25) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/cores params={wt=json&_=1670181038175} status=0 QTime=1
+2022-12-04 19:12:27.299 INFO  (qtp1165791284-88) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/info/system params={wt=json&_=1670181038175} status=0 QTime=4
+2022-12-04 19:12:27.324 INFO  (qtp1165791284-24) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/cores params={indexInfo=false&wt=json&_=1670181038175} status=0 QTime=0
+2022-12-04 19:12:27.326 INFO  (qtp1165791284-19) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/cores params={wt=json&_=1670181038175} status=0 QTime=2
+2022-12-04 19:12:27.329 INFO  (qtp1165791284-88) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/info/system params={wt=json&_=1670181038175} status=0 QTime=6
+2022-12-04 19:12:27.342 INFO  (qtp1165791284-25) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/collections params={action=LIST&wt=json&_=1670181038175} status=0 QTime=0
+2022-12-04 19:12:27.364 INFO  (qtp1165791284-25) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/collections params={action=LIST&wt=json&_=1670181038175} status=0 QTime=0
+2022-12-04 19:12:27.367 INFO  (qtp1165791284-19) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/collections params={action=LISTALIASES&wt=json&_=1670181038175} status=0 QTime=0
+2022-12-04 19:12:27.371 INFO  (qtp1165791284-25) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/collections params={action=LISTALIASES&wt=json&_=1670181038175} status=0 QTime=1
+2022-12-04 19:12:27.376 INFO  (qtp1165791284-19) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/schema-designer/configs params={wt=json&_=1670181038175} status=0 QTime=1
+2022-12-04 19:12:27.380 INFO  (qtp1165791284-25) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/schema-designer/configs params={wt=json&_=1670181038175} status=0 QTime=1
+2022-12-04 19:12:31.020 INFO  (qtp1165791284-19) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/cores params={indexInfo=false&wt=json&_=1670181038175} status=0 QTime=0
+2022-12-04 19:12:31.027 INFO  (qtp1165791284-19) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/cores params={wt=json&_=1670181038175} status=0 QTime=1
+2022-12-04 19:12:31.031 INFO  (qtp1165791284-25) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/info/system params={wt=json&_=1670181038175} status=0 QTime=4
+2022-12-04 19:12:31.054 INFO  (qtp1165791284-19) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/collections params={action=LIST&wt=json&_=1670181038175} status=0 QTime=0
+2022-12-04 19:12:31.061 INFO  (qtp1165791284-25) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/collections params={action=LISTALIASES&wt=json&_=1670181038175} status=0 QTime=0
+2022-12-04 19:12:31.070 INFO  (qtp1165791284-19) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/schema-designer/configs params={wt=json&_=1670181038175} status=0 QTime=1
+2022-12-04 19:12:31.947 INFO  (qtp1165791284-25) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/cores params={indexInfo=false&wt=json&_=1670181038175} status=0 QTime=0
+2022-12-04 19:12:31.957 INFO  (qtp1165791284-91) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/cores params={wt=json&_=1670181038175} status=0 QTime=2
+2022-12-04 19:12:31.961 INFO  (qtp1165791284-25) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/info/system params={wt=json&_=1670181038175} status=0 QTime=5
+2022-12-04 19:12:31.971 INFO  (qtp1165791284-19) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/collections params={action=LIST&wt=json&_=1670181038175} status=0 QTime=0
+2022-12-04 19:12:31.981 INFO  (qtp1165791284-25) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/collections params={action=LISTALIASES&wt=json&_=1670181038175} status=0 QTime=0
+2022-12-04 19:12:31.988 INFO  (qtp1165791284-19) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/schema-designer/configs params={wt=json&_=1670181038175} status=0 QTime=1
+2022-12-04 19:12:32.631 INFO  (qtp1165791284-25) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/cores params={indexInfo=false&wt=json&_=1670181038175} status=0 QTime=0
+2022-12-04 19:12:32.633 INFO  (qtp1165791284-88) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/cores params={wt=json&_=1670181038175} status=0 QTime=2
+2022-12-04 19:12:32.635 INFO  (qtp1165791284-19) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/info/system params={wt=json&_=1670181038175} status=0 QTime=5
+2022-12-04 19:12:32.659 INFO  (qtp1165791284-91) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/collections params={action=LIST&wt=json&_=1670181038175} status=0 QTime=0
+2022-12-04 19:12:32.678 INFO  (qtp1165791284-19) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/collections params={action=LISTALIASES&wt=json&_=1670181038175} status=0 QTime=0
+2022-12-04 19:12:32.686 INFO  (qtp1165791284-91) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/schema-designer/configs params={wt=json&_=1670181038175} status=0 QTime=1
+2022-12-04 19:12:33.211 INFO  (qtp1165791284-19) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/cores params={indexInfo=false&wt=json&_=1670181038175} status=0 QTime=0
+2022-12-04 19:12:33.213 INFO  (qtp1165791284-24) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/cores params={wt=json&_=1670181038175} status=0 QTime=2
+2022-12-04 19:12:33.222 INFO  (qtp1165791284-91) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/info/system params={wt=json&_=1670181038175} status=0 QTime=11
+2022-12-04 19:12:33.236 INFO  (qtp1165791284-88) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/collections params={action=LIST&wt=json&_=1670181038175} status=0 QTime=0
+2022-12-04 19:12:33.241 INFO  (qtp1165791284-91) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/collections params={action=LISTALIASES&wt=json&_=1670181038175} status=0 QTime=0
+2022-12-04 19:12:33.248 INFO  (qtp1165791284-88) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/schema-designer/configs params={wt=json&_=1670181038175} status=0 QTime=1
+2022-12-04 19:12:33.792 INFO  (qtp1165791284-91) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/cores params={indexInfo=false&wt=json&_=1670181038175} status=0 QTime=0
+2022-12-04 19:12:33.801 INFO  (qtp1165791284-88) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/info/system params={wt=json&_=1670181038175} status=0 QTime=9
+2022-12-04 19:12:33.807 INFO  (qtp1165791284-25) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/cores params={wt=json&_=1670181038175} status=0 QTime=1
+2022-12-04 19:12:33.818 INFO  (qtp1165791284-91) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/collections params={action=LIST&wt=json&_=1670181038175} status=0 QTime=0
+2022-12-04 19:12:33.824 INFO  (qtp1165791284-25) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/collections params={action=LISTALIASES&wt=json&_=1670181038175} status=0 QTime=0
+2022-12-04 19:12:33.830 INFO  (qtp1165791284-91) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/schema-designer/configs params={wt=json&_=1670181038175} status=0 QTime=1
+2022-12-04 19:12:34.244 INFO  (qtp1165791284-25) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/cores params={indexInfo=false&wt=json&_=1670181038175} status=0 QTime=0
+2022-12-04 19:12:34.249 INFO  (qtp1165791284-91) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/cores params={wt=json&_=1670181038175} status=0 QTime=1
+2022-12-04 19:12:34.252 INFO  (qtp1165791284-25) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/info/system params={wt=json&_=1670181038175} status=0 QTime=4
+2022-12-04 19:12:34.270 INFO  (qtp1165791284-24) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/collections params={action=LIST&wt=json&_=1670181038175} status=0 QTime=0
+2022-12-04 19:12:34.278 INFO  (qtp1165791284-25) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/collections params={action=LISTALIASES&wt=json&_=1670181038175} status=0 QTime=0
+2022-12-04 19:12:34.283 INFO  (qtp1165791284-24) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/schema-designer/configs params={wt=json&_=1670181038175} status=0 QTime=0
+2022-12-04 19:12:40.871 INFO  (qtp1165791284-24) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/cores params={indexInfo=false&wt=json&_=1670181160804} status=0 QTime=0
+2022-12-04 19:12:40.876 INFO  (qtp1165791284-25) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/info/system params={wt=json&_=1670181160804} status=0 QTime=3
+2022-12-04 19:12:40.876 INFO  (qtp1165791284-88) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/info/system params={wt=json&_=1670181160804} status=0 QTime=3
+2022-12-04 19:12:40.911 INFO  (qtp1165791284-91) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/collections params={action=LIST&wt=json&_=1670181160804} status=0 QTime=0
+2022-12-04 19:12:40.921 INFO  (qtp1165791284-25) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/collections params={action=LISTALIASES&wt=json&_=1670181160804} status=0 QTime=0
+2022-12-04 19:12:40.931 INFO  (qtp1165791284-91) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/schema-designer/configs params={wt=json&_=1670181160804} status=0 QTime=1
+2022-12-04 19:18:16.223 INFO  (qtp1165791284-25) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/cores params={indexInfo=false&wt=json&_=1670181496180} status=0 QTime=0
+2022-12-04 19:18:16.226 INFO  (qtp1165791284-19) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/info/system params={wt=json&_=1670181496181} status=0 QTime=3
+2022-12-04 19:18:16.227 INFO  (qtp1165791284-88) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/info/system params={wt=json&_=1670181496181} status=0 QTime=4
+2022-12-04 19:18:16.237 INFO  (qtp1165791284-21) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/collections params={action=LIST&wt=json&_=1670181496180} status=0 QTime=0
+2022-12-04 19:18:16.253 INFO  (qtp1165791284-88) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/collections params={action=LISTALIASES&wt=json&_=1670181496180} status=0 QTime=0
+2022-12-04 19:18:16.261 INFO  (qtp1165791284-21) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/schema-designer/configs params={wt=json&_=1670181496181} status=0 QTime=2
+2022-12-04 19:18:18.730 INFO  (qtp1165791284-88) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/cores params={indexInfo=false&wt=json&_=1670181496180} status=0 QTime=0
+2022-12-04 19:18:18.732 INFO  (qtp1165791284-139) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/collections params={action=CLUSTERSTATUS&wt=json&_=1670181496180} status=0 QTime=1
+2022-12-04 19:18:18.735 INFO  (qtp1165791284-91) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/info/system params={wt=json&_=1670181496181} status=0 QTime=5
+2022-12-04 19:18:18.765 INFO  (qtp1165791284-21) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/collections params={action=LIST&wt=json&_=1670181496180} status=0 QTime=0
+2022-12-04 19:18:18.770 INFO  (qtp1165791284-91) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/collections params={action=LISTALIASES&wt=json&_=1670181496180} status=0 QTime=0
+2022-12-04 19:18:18.774 INFO  (qtp1165791284-21) [] o.a.s.s.HttpSolrCall [admin] webapp=null path=/schema-designer/configs params={wt=json&_=1670181496181} status=0 QTime=0

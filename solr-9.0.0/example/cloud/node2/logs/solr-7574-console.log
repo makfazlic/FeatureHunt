@@ -1,0 +1,10 @@
+OpenJDK 64-Bit Server VM warning: Failed to reserve shared memory. (error = 12)
+OpenJDK 64-Bit Server VM warning: Failed to reserve shared memory. (error = 12)
+OpenJDK 64-Bit Server VM warning: Failed to reserve shared memory. (error = 12)
+2022-12-04 19:08:28.969 INFO  (main) [] o.e.j.u.log Logging initialized @720ms to org.eclipse.jetty.util.log.Slf4jLog
+2022-12-04 19:08:29.116 INFO  (main) [] o.e.j.s.Server jetty-9.4.44.v20210927; built: 2021-09-27T23:02:44.612Z; git: 8da83308eeca865e495e53ef315a249d63ba9332; jvm 11.0.17+8-post-Ubuntu-1ubuntu222.04
+2022-12-04 19:08:29.356 INFO  (main) [] o.a.s.s.CoreContainerProvider Using logger factory org.apache.logging.slf4j.Log4jLoggerFactory
+2022-12-04 19:08:29.365 INFO  (main) [] o.a.s.s.CoreContainerProvider  ___      _       Welcome to Apache Solr™ version 9.0.0
+2022-12-04 19:08:29.366 INFO  (main) [] o.a.s.s.CoreContainerProvider / __| ___| |_ _   Starting in cloud mode on port 7574
+2022-12-04 19:08:29.366 INFO  (main) [] o.a.s.s.CoreContainerProvider \__ \/ _ \ | '_|  Install dir: /home/makfazlic/Desktop/FeatureHunt/solr-9.0.0
+2022-12-04 19:08:29.366 INFO  (main) [] o.a.s.s.CoreContainerProvider |___/\___/_|_|    Start time: 2022-12-04T19:08:29.366407Z

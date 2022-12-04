@@ -1,28 +1,22 @@
 import json
 
 # open json
-with open('categories.json') as f:
+with open('categories_v2.json') as f:
     categories = json.load(f)
 
-with open('products.json') as f:
-    products = json.load(f)
+with open('companies_v2.json') as f:
+    companies = json.load(f)
 
-all_subs = []
+# merge where subcategory url is equal to company url
+my_categories = categories
+for i, category in enumerate(categories):
+    for subcategory in category["category"]["subcategory"]:
+        for company in companies:
+            #print(category["category"]["subcategory"][subcategory], )
+            if category["category"]["subcategory"][subcategory] == list(company.keys())[0]:
+                my_categories[i]["category"]["subcategory"][subcategory] = list(company.values())[0]
 
-for c in categories:
-    # get key from c
-    for url in c["subtitles"]:
-        all_subs.append(url)
 
-all_product_pages = {}
-for url in all_subs:
-    all_product_pages[url] = []
-    for p in products:
-        k = p.keys()
-        v = p.values()
-        if url == k:
-            all_product_pages[url].append(v)
-
-for pp in all_product_pages:
-    print(all_product_pages[pp])
-    break
+# save merged json    
+with open('merged.json', 'w') as f:
+    json.dump(my_categories, f)

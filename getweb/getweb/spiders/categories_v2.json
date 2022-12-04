@@ -1,0 +1,1248 @@
+[
+    {
+        "category": {
+            "Accounting Software": "https://www.softwareadvice.com/accounting/",
+            "subcategory": {
+                "Accounting Software for Consultants": "https://www.softwareadvice.com/accounting/consultant-comparison/",
+                "Accounts Payable Software": "https://www.softwareadvice.com/accounting/accounts-payable-comparison/",
+                "Accounts Receivable Software": "https://www.softwareadvice.com/accounting/accounts-receivable-comparison/",
+                "Architecture Accounting Software": "https://www.softwareadvice.com/accounting/architecture-software-comparison/",
+                "Auto Dealership Accounting Software": "https://www.softwareadvice.com/accounting/auto-dealership-software-comparison/",
+                "Bank Accounting Software": "https://www.softwareadvice.com/accounting/banking-mortgage-software-comparison/",
+                "Billing and Invoicing Software": "https://www.softwareadvice.com/accounting/billing-invoicing-software-comparison/",
+                "Bookkeeping Software": "https://www.softwareadvice.com/accounting/bookkeeping-comparison/",
+                "Budgeting and Forecasting Software": "https://www.softwareadvice.com/accounting/budgeting-forecasting-software-comparison/",
+                "Church Accounting Software": "https://www.softwareadvice.com/accounting/church-comparison/",
+                "CPA Software": "https://www.softwareadvice.com/accounting/cpa-software-comparison/",
+                "Engineering Accounting Software": "https://www.softwareadvice.com/accounting/engineering-software-comparison/",
+                "Enterprise Accounting Software": "https://www.softwareadvice.com/accounting/enterprise-comparison/",
+                "Expense Report Software": "https://www.softwareadvice.com/accounting/expense-management-comparison/",
+                "Farm Accounting Software": "https://www.softwareadvice.com/accounting/agriculture-software-comparison/",
+                "Financial Reporting Software": "https://www.softwareadvice.com/accounting/financial-reporting-comparison/",
+                "Fixed Asset Software": "https://www.softwareadvice.com/accounting/fixed-asset-accounting-software-comparison/",
+                "Fund Accounting Software": "https://www.softwareadvice.com/accounting/fund-accounting-software-comparison/",
+                "General Ledger Software": "https://www.softwareadvice.com/accounting/general-ledger-comparison/",
+                "Hotel Accounting Software": "https://www.softwareadvice.com/accounting/hospitality-travel-software-comparison/",
+                "Insurance Accounting Software": "https://www.softwareadvice.com/accounting/insurance-software-comparison/",
+                "Legal Accounting Software": "https://www.softwareadvice.com/accounting/legal-software-comparison/",
+                "Media and Newspaper Accounting Software": "https://www.softwareadvice.com/accounting/media-software-comparison/",
+                "Medical Accounting Software": "https://www.softwareadvice.com/accounting/healthcare-social-services-software-comparison/",
+                "Mobile Accounting Apps": "https://www.softwareadvice.com/accounting/mobile-apps-comparison/",
+                "Oil and Gas Accounting Software": "https://www.softwareadvice.com/accounting/energy-software-comparison/",
+                "Online Accounting Software": "https://www.softwareadvice.com/accounting/online-accounting-software-comparison/",
+                "Project Accounting Software": "https://www.softwareadvice.com/accounting/project-accounting-software-comparison/",
+                "Real Estate Accounting Software": "https://www.softwareadvice.com/accounting/real-estate-accounting-software-comparison/",
+                "Reconciliation Software": "https://www.softwareadvice.com/accounting/reconciliation-comparison/",
+                "Recurring Billing Software": "https://www.softwareadvice.com/accounting/recurring-billing-comparison/",
+                "Restaurant Accounting Software": "https://www.softwareadvice.com/accounting/restaurant-comparison/",
+                "School Accounting Software": "https://www.softwareadvice.com/accounting/education-software-comparison/",
+                "Small Business Accounting Software": "https://www.softwareadvice.com/accounting/small-business-comparison/",
+                "Small Business Invoicing Software": "https://www.softwareadvice.com/accounting/small-business-invoicing-comparison/",
+                "Subscription Management Software": "https://www.softwareadvice.com/accounting/subscription-management-comparison/",
+                "Trucking Accounting Software": "https://www.softwareadvice.com/accounting/transportation-software-comparison/"
+            }
+        }
+    },
+    {
+        "category": {
+            "Business Intelligence Tools": "https://www.softwareadvice.com/bi/",
+            "subcategory": {
+                "Big Data Tools": "https://www.softwareadvice.com/bi/big-data-comparison/",
+                "Cloud BI Tools": "https://www.softwareadvice.com/bi/cloud-comparison/",
+                "Dashboard Software": "https://www.softwareadvice.com/bi/dashboard-comparison/",
+                "Data Analysis Tools": "https://www.softwareadvice.com/bi/data-analysis-comparison/",
+                "Data Cleaning Tools": "https://www.softwareadvice.com/bi/data-cleaning-comparison/",
+                "Data Discovery Tools": "https://www.softwareadvice.com/bi/data-discovery-tools-comparison/",
+                "Data Integration Tools": "https://www.softwareadvice.com/bi/data-integration-tools-comparison/",
+                "Data Mining Tools": "https://www.softwareadvice.com/bi/data-mining-comparison/",
+                "Data Preparation Software": "https://www.softwareadvice.com/bi/data-preparation-comparison/",
+                "Data Visualization Tools": "https://www.softwareadvice.com/bi/data-visualization-comparison/",
+                "Data Warehouse Software": "https://www.softwareadvice.com/bi/data-warehouse-comparison/",
+                "ETL Software": "https://www.softwareadvice.com/bi/etl-software-comparison/",
+                "Healthcare BI Software": "https://www.softwareadvice.com/bi/healthcare-comparison/",
+                "HR Analytics Software": "https://www.softwareadvice.com/bi/hr-analytics-comparison/",
+                "KPI Software": "https://www.softwareadvice.com/bi/kpi-comparison/",
+                "Manufacturing BI Software": "https://www.softwareadvice.com/bi/manufacturing-comparison/",
+                "Mobile BI Software": "https://www.softwareadvice.com/bi/mobile-business-intelligence-comparison/",
+                "OLAP Tools": "https://www.softwareadvice.com/bi/olap-comparison/",
+                "Predictive Analytics Tools": "https://www.softwareadvice.com/bi/predictive-analytics-comparison/",
+                "Self-Service BI Tools": "https://www.softwareadvice.com/bi/self-service-tools-comparison/",
+                "Visual Analytics Tools": "https://www.softwareadvice.com/bi/visual-analytics-tools-comparison/"
+            }
+        }
+    },
+    {
+        "category": {
+            "Call Center Software": "https://www.softwareadvice.com/call-center/",
+            "subcategory": {
+                "Auto Dialer Software": "https://www.softwareadvice.com/call-center/auto-dialer-comparison/",
+                "Automatic Call Distribution Software": "https://www.softwareadvice.com/call-center/auto-call-distribution-comparison/",
+                "Call Center Scripting Software": "https://www.softwareadvice.com/call-center/scripting-comparison/",
+                "Call Center Workforce Management Software": "https://www.softwareadvice.com/call-center/workforce-management-optimization-comparison/",
+                "Call Monitoring Software": "https://www.softwareadvice.com/call-center/monitoring-comparison/",
+                "Call Recording Software": "https://www.softwareadvice.com/call-center/call-recording-comparison/",
+                "Computer Telephony Integration Software": "https://www.softwareadvice.com/call-center/computer-telephony-integration-comparison/",
+                "IVR Systems": "https://www.softwareadvice.com/call-center/ivr-system-comparison/",
+                "Predictive Dialer Software": "https://www.softwareadvice.com/call-center/predictive-dialer-comparison/"
+            }
+        }
+    },
+    {
+        "category": {
+            "CMMS Software": "https://www.softwareadvice.com/cmms/",
+            "subcategory": {
+                "Asset Tracking Software": "https://www.softwareadvice.com/cmms/asset-tracking-comparison/",
+                "Aviation MRO Software": "https://www.softwareadvice.com/cmms/aviation-maintenance-comparison/",
+                "Calibration Management Software": "https://www.softwareadvice.com/cmms/calibration-management-comparison/",
+                "EAM Software": "https://www.softwareadvice.com/cmms/enterprise-asset-management-comparison/",
+                "Equipment Maintenance Software": "https://www.softwareadvice.com/cmms/equipment-maintenance-comparison/",
+                "Predictive Maintenance Software": "https://www.softwareadvice.com/cmms/predictive-maintenance-comparison/",
+                "Preventive Maintenance Software": "https://www.softwareadvice.com/cmms/preventive-maintenance-software-comparison/",
+                "Tool Management Software": "https://www.softwareadvice.com/cmms/tool-management-comparison/",
+                "Web Based CMMS Software": "https://www.softwareadvice.com/cmms/web-based-comparison/",
+                "Work Order Software": "https://www.softwareadvice.com/cmms/work-order-comparison/"
+            }
+        }
+    },
+    {
+        "category": {
+            "Construction Software": "https://www.softwareadvice.com/construction/",
+            "subcategory": {
+                "Building Information Modeling (BIM) Software\t": "https://www.softwareadvice.com/construction/bim-comparison/",
+                "Capital Program Management Software": "https://www.softwareadvice.com/construction/program-management-software-comparison/",
+                "Concrete Estimating Software": "https://www.softwareadvice.com/construction/concrete-masonry-software-comparison/",
+                "Construction Accounting Software": "https://www.softwareadvice.com/construction/accounting-job-costing-software-comparison/",
+                "Construction Apps": "https://www.softwareadvice.com/construction/best-apps-comparison/",
+                "Construction Bidding Software": "https://www.softwareadvice.com/construction/bid-management-systems-comparison/",
+                "Construction Estimating Software": "https://www.softwareadvice.com/construction/cost-estimating-software-comparison/",
+                "Construction Management Software": "https://www.softwareadvice.com/construction/project-management-software-comparison/",
+                "Construction Scheduling Software": "https://www.softwareadvice.com/construction/project-scheduling-software-comparison/",
+                "Construction Software for Mac": "https://www.softwareadvice.com/construction/mac-comparison/",
+                "Earthworks Estimating Software": "https://www.softwareadvice.com/construction/sitework-excavating-software-comparison/",
+                "Electrical Contractor Software": "https://www.softwareadvice.com/construction/electrical-contractor-comparison/",
+                "Electrical Estimating Software": "https://www.softwareadvice.com/construction/electrical-estimating-software-comparison/",
+                "Electrician Apps": "https://www.softwareadvice.com/construction/electrician-mobile-apps-comparison/",
+                "Flooring Estimating Software": "https://www.softwareadvice.com/construction/flooring-estimating-comparison/",
+                "General Contractor Software": "https://www.softwareadvice.com/construction/general-contractor-software-comparison/",
+                "Heavy Construction Software": "https://www.softwareadvice.com/construction/heavy-highway-software-comparison/",
+                "Home Builder CRM Software": "https://www.softwareadvice.com/construction/homebuilder-crm-software-comparison/",
+                "Home Builder Software": "https://www.softwareadvice.com/construction/homebuilder-software-comparison/",
+                "HVAC Estimating Software": "https://www.softwareadvice.com/construction/mechanical-and-hvac-estimating-software-comparison/",
+                "Paving Software": "https://www.softwareadvice.com/construction/paving-comparison/",
+                "Plumbing Estimating Software": "https://www.softwareadvice.com/construction/plumbing-estimating-software-comparison/",
+                "Real Estate Development Software": "https://www.softwareadvice.com/construction/real-estate-development-comparison/",
+                "Residential Remodeling Estimating Software": "https://www.softwareadvice.com/construction/estimating-software-for-residential-contractors-comparison/",
+                "Roofing Software": "https://www.softwareadvice.com/construction/roofing-siding-contractor-software-comparison/",
+                "Solar Software": "https://www.softwareadvice.com/construction/solar-comparison/",
+                "Subcontractor Software": "https://www.softwareadvice.com/construction/subcontractor-software-comparison/",
+                "Takeoff Software": "https://www.softwareadvice.com/construction/takeoff-software-comparison/",
+                "Web Based Construction Management Software": "https://www.softwareadvice.com/construction/web-based-project-management-software-comparison/"
+            }
+        }
+    },
+    {
+        "category": {
+            "Content Management Software": "https://www.softwareadvice.com/cms/",
+            "subcategory": {
+                "Digital Asset Management Software": "https://www.softwareadvice.com/cms/digital-asset-management-comparison/",
+                "Document Management Software": "https://www.softwareadvice.com/cms/document-management-comparison/",
+                "Enterprise Content Management Software": "https://www.softwareadvice.com/cms/enterprise-content-management-system-comparison/",
+                "Headless CMS Software": "https://www.softwareadvice.com/cms/headlesscms-comparison/",
+                "Records Software": "https://www.softwareadvice.com/cms/records-management-comparison/"
+            }
+        }
+    },
+    {
+        "category": {
+            "CPQ Software": "https://www.softwareadvice.com/cpq/",
+            "subcategory": {
+                "Quoting Software": "https://www.softwareadvice.com/cpq/quoting-comparison/"
+            }
+        }
+    },
+    {
+        "category": {
+            "CRM Software": "https://www.softwareadvice.com/crm/",
+            "subcategory": {
+                "Account Management Software": "https://www.softwareadvice.com/crm/account-management-comparison/",
+                "Android CRM Software": "https://www.softwareadvice.com/crm/android-comparison/",
+                "Auto Dealership CRM Software": "https://www.softwareadvice.com/crm/dealership-comparison/",
+                "Banking CRM Software": "https://www.softwareadvice.com/crm/banking-crm-comparison/",
+                "Casino CRM Software": "https://www.softwareadvice.com/crm/gaming-casino-crm-comparison/",
+                "Channel Management Software": "https://www.softwareadvice.com/crm/channel-management-comparison/",
+                "Commercial Real Estate CRM": "https://www.softwareadvice.com/crm/commercial-real-estate-comparison/",
+                "Complaint Management Software": "https://www.softwareadvice.com/crm/complaint-management-comparison/",
+                "Consulting CRM Software": "https://www.softwareadvice.com/crm/consulting-comparison/",
+                "Contact Management Software": "https://www.softwareadvice.com/crm/contact-management-comparison/",
+                "CRM for Startups": "https://www.softwareadvice.com/crm/startup-comparison/",
+                "CRM Software for Accounting Firms": "https://www.softwareadvice.com/crm/accounting-crm-comparison/",
+                "CRM Software For Mac": "https://www.softwareadvice.com/crm/mac-comparison/",
+                "Customer Engagement Platform": "https://www.softwareadvice.com/crm/customer-engagement-comparison/",
+                "Customer Service Software": "https://www.softwareadvice.com/crm/customer-service-comparison/",
+                "Distribution CRM": "https://www.softwareadvice.com/crm/distribution-comparison/",
+                "Ecommerce CRM Software": "https://www.softwareadvice.com/crm/ecommerce-comparison/",
+                "Enterprise CRM Software": "https://www.softwareadvice.com/crm/enterprise-crm-comparison/",
+                "Financial CRM Software": "https://www.softwareadvice.com/crm/financial-comparison/",
+                "Healthcare CRM": "https://www.softwareadvice.com/crm/healthcare-crm-comparison/",
+                "Higher Education CRM": "https://www.softwareadvice.com/crm/higher-education-comparison/",
+                "Hotel CRM Software": "https://www.softwareadvice.com/crm/hospitality-hotel-resort-crm-comparison/",
+                "Inside Sales Software": "https://www.softwareadvice.com/crm/inside-sales-comparison/",
+                "Insurance CRM": "https://www.softwareadvice.com/crm/insurance-crm-comparison/",
+                "iPad CRM": "https://www.softwareadvice.com/crm/ipad-comparison/",
+                "IT Ticketing Systems": "https://www.softwareadvice.com/crm/it-ticketing-comparison/",
+                "Knowledge Base Software": "https://www.softwareadvice.com/crm/knowledge-base-comparison/",
+                "Manufacturing CRM Software": "https://www.softwareadvice.com/crm/manufacturing-comparison/",
+                "Mobile CRM Software": "https://www.softwareadvice.com/crm/mobile-crm-comparison/",
+                "Mortgage CRM Software": "https://www.softwareadvice.com/crm/mortgage-crm-comparison/",
+                "Online CRM Software": "https://www.softwareadvice.com/crm/online-crm-comparison/",
+                "Pharmaceutical CRM Software": "https://www.softwareadvice.com/crm/pharmaceutical-crm-comparison/",
+                "Real Estate CRM Software": "https://www.softwareadvice.com/crm/real-estate-crm-comparison/",
+                "Sales Acceleration Software": "https://www.softwareadvice.com/crm/sales-acceleration-comparison/",
+                "Sales Enablement Tools": "https://www.softwareadvice.com/crm/sales-enablement-comparison/",
+                "Sales Engagement Platforms": "https://www.softwareadvice.com/crm/sales-engagement-comparison/",
+                "Sales Force Automation Software": "https://www.softwareadvice.com/crm/sales-force-automation-comparison/",
+                "Sales Mapping Software": "https://www.softwareadvice.com/crm/sales-mapping-comparison/",
+                "Sales Tracking Software": "https://www.softwareadvice.com/crm/sales-tracking-comparison/",
+                "Service Dispatch Software": "https://www.softwareadvice.com/crm/service-dispatch-comparison/",
+                "Small Business CRM Software": "https://www.softwareadvice.com/crm/small-business-comparison/",
+                "Social CRM Software": "https://www.softwareadvice.com/crm/social-crm-comparison/",
+                "Wealth Management CRM": "https://www.softwareadvice.com/crm/wealth-management-crm-comparison/"
+            }
+        }
+    },
+    {
+        "category": {
+            "Customer Experience Software": "https://www.softwareadvice.com/customer-experience/",
+            "subcategory": {
+                "Journey Mapping Software ": "https://www.softwareadvice.com/customer-experience/journey-mapping-comparison/",
+                "NPS Software": "https://www.softwareadvice.com/customer-experience/nps-comparison/",
+                "Text Analysis Software": "https://www.softwareadvice.com/customer-experience/text-analysis-comparison/"
+            }
+        }
+    },
+    {
+        "category": {
+            "Dental Software": "https://www.softwareadvice.com/dental/",
+            "subcategory": {
+                "Dental Imaging Software": "https://www.softwareadvice.com/dental/imaging-comparison/"
+            }
+        }
+    },
+    {
+        "category": {
+            "Distribution Software": "https://www.softwareadvice.com/distribution/",
+            "subcategory": {
+                "CPG Software": "https://www.softwareadvice.com/distribution/cpg-comparison/",
+                "Distribution Accounting Software": "https://www.softwareadvice.com/distribution/accounting-software-comparison/",
+                "Distribution Inventory Management Software": "https://www.softwareadvice.com/distribution/inventory-management-software-comparison/",
+                "EDI Software": "https://www.softwareadvice.com/distribution/edi-comparison/",
+                "Electrical Distributor Software": "https://www.softwareadvice.com/distribution/electrical-distribution-software-comparison/",
+                "Food Distribution Software": "https://www.softwareadvice.com/distribution/food-and-beverage-distribution-software-comparison/",
+                "Food Traceability Software": "https://www.softwareadvice.com/distribution/food-traceability-comparison/",
+                "Fuel Delivery Software": "https://www.softwareadvice.com/distribution/fuel-delivery-comparison/",
+                "Industrial Distribution Software": "https://www.softwareadvice.com/distribution/industrial-distribution-software-comparison/"
+            }
+        }
+    },
+    {
+        "category": {
+            "Ecommerce Software": "https://www.softwareadvice.com/ecommerce/",
+            "subcategory": {
+                "Ecommerce Inventory Management Software": "https://www.softwareadvice.com/ecommerce/inventory-management-comparison/",
+                "Ecommerce Order Management Software": "https://www.softwareadvice.com/ecommerce/order-management-comparison/",
+                "Headless Ecommerce Software": "https://www.softwareadvice.com/ecommerce/headless-comparison/",
+                "Product Information Management Software": "https://www.softwareadvice.com/ecommerce/product-information-management-comparison/",
+                "Shopping Cart Software": "https://www.softwareadvice.com/ecommerce/shopping-cart-comparison/"
+            }
+        }
+    },
+    {
+        "category": {
+            "Endpoint Security Software": "https://www.softwareadvice.com/security/",
+            "subcategory": {
+                "EDR Software": "https://www.softwareadvice.com/security/edr-comparison/",
+                "MDR Services": "https://www.softwareadvice.com/security/mdr-services-comparison/",
+                "Threat Intelligence Software": "https://www.softwareadvice.com/security/threat-intelligence-comparison/"
+            }
+        }
+    },
+    {
+        "category": {
+            "ERP Software": "https://www.softwareadvice.com/erp/",
+            "subcategory": {
+                "Cloud ERP Software": "https://www.softwareadvice.com/erp/web-based-erp-software-comparison/",
+                "Financial Management Systems": "https://www.softwareadvice.com/erp/financial-management-system-comparison/",
+                "Higher Education ERP Systems": "https://www.softwareadvice.com/erp/higher-education-comparison/"
+            }
+        }
+    },
+    {
+        "category": {
+            "Facility Management Software": "https://www.softwareadvice.com/cafm/",
+            "subcategory": {
+                "Building Maintenance Software": "https://www.softwareadvice.com/cafm/building-maintenance-comparison/",
+                "Energy Management Software": "https://www.softwareadvice.com/cafm/energy-management-comparison/",
+                "Facilities Management Software for Schools": "https://www.softwareadvice.com/cafm/facilities-management-comparison/",
+                "Geographic Information System (GIS) Software": "https://www.softwareadvice.com/cafm/gis-comparison/",
+                "IWMS Software": "https://www.softwareadvice.com/cafm/iwms-comparison/",
+                "Room Scheduling Software": "https://www.softwareadvice.com/cafm/room-scheduling-comparison/",
+                "Sustainability Software": "https://www.softwareadvice.com/cafm/sustainability-comparison/"
+            }
+        }
+    },
+    {
+        "category": {
+            "Field Service Software": "https://www.softwareadvice.com/field-service/",
+            "subcategory": {
+                "Arborist Software": "https://www.softwareadvice.com/field-service/arborist-comparison/",
+                "Carpet Cleaning Software": "https://www.softwareadvice.com/field-service/carpet-cleaning-comparison/",
+                "Cleaning Service Software": "https://www.softwareadvice.com/field-service/maid-service-comparison/",
+                "Field Service Mobile Apps": "https://www.softwareadvice.com/field-service/mobile-app-comparison/",
+                "GPS Tracking Software": "https://www.softwareadvice.com/field-service/gps-tracking-comparison/",
+                "HVAC GPS Tracking Software": "https://www.softwareadvice.com/field-service/hvac-gps-tracking-comparison/",
+                "HVAC Software": "https://www.softwareadvice.com/field-service/hvac-comparison/",
+                "Lawn Care Software": "https://www.softwareadvice.com/field-service/lawn-care-comparison/",
+                "Locksmith Software": "https://www.softwareadvice.com/field-service/locksmith-comparison/",
+                "Pest Control Software": "https://www.softwareadvice.com/field-service/pest-control-comparison/",
+                "Plumbing Software": "https://www.softwareadvice.com/field-service/plumbing-software-comparison/",
+                "Pool Service Software": "https://www.softwareadvice.com/field-service/pool-service-comparison/",
+                "Service Order Software": "https://www.softwareadvice.com/field-service/work-order-comparison/"
+            }
+        }
+    },
+    {
+        "category": {
+            "Fleet Management Software": "https://www.softwareadvice.com/fleet-management/",
+            "subcategory": {
+                "Courier Software": "https://www.softwareadvice.com/fleet-management/courier-comparison/",
+                "Delivery Management Software\t": "https://www.softwareadvice.com/fleet-management/delivery-management-comparison/",
+                "Delivery Scheduling Software": "https://www.softwareadvice.com/fleet-management/delivery-scheduling-comparison/",
+                "Fire Department Software": "https://www.softwareadvice.com/fleet-management/fire-department-comparison/",
+                "Fleet Maintenance Software": "https://www.softwareadvice.com/fleet-management/maintenance-comparison/",
+                "Fuel Management Systems": "https://www.softwareadvice.com/fleet-management/fuel-management-comparison/",
+                "IFTA Software": "https://www.softwareadvice.com/fleet-management/ifta-software-comparison/",
+                "Limo Software": "https://www.softwareadvice.com/fleet-management/limo-comparison/",
+                "Moving Company Software": "https://www.softwareadvice.com/fleet-management/moving-company-comparison/",
+                "Route Planning Software": "https://www.softwareadvice.com/fleet-management/route-planning-comparison/",
+                "School Bus Routing Software": "https://www.softwareadvice.com/fleet-management/school-bus-routing-comparison/",
+                "Taxi Dispatch Software": "https://www.softwareadvice.com/fleet-management/taxi-dispatch-comparison/",
+                "Towing Software": "https://www.softwareadvice.com/fleet-management/towing-comparison/",
+                "Truck Dispatch Software": "https://www.softwareadvice.com/fleet-management/trucking-dispatch-comparison/",
+                "Yard Management Software": "https://www.softwareadvice.com/fleet-management/yard-management-systems-comparison/"
+            }
+        }
+    },
+    {
+        "category": {
+            "Help Desk Software": "https://www.softwareadvice.com/help-desk/",
+            "subcategory": {
+                "Computer Inventory Software": "https://www.softwareadvice.com/help-desk/computer-inventory-comparison/",
+                "Help Desk Software for Schools": "https://www.softwareadvice.com/help-desk/schools-comparison/",
+                "IT Asset Management Software": "https://www.softwareadvice.com/help-desk/it-asset-management-comparison/",
+                "Knowledge Management Systems": "https://www.softwareadvice.com/help-desk/knowledge-management-comparison/",
+                "Online Help Desk Software": "https://www.softwareadvice.com/help-desk/online-comparison/",
+                "Remote Desktop Software": "https://www.softwareadvice.com/help-desk/remote-desktop-comparison/"
+            }
+        }
+    },
+    {
+        "category": {
+            "Home Health Software": "https://www.softwareadvice.com/home-health/",
+            "subcategory": {
+                "Hospice Software": "https://www.softwareadvice.com/home-health/hospice-comparison/",
+                "Private Duty Care Software": "https://www.softwareadvice.com/home-health/private-duty-care-comparison/"
+            }
+        }
+    },
+    {
+        "category": {
+            "Hotel Management Software": "https://www.softwareadvice.com/hotel-management/",
+            "subcategory": {
+                "Bed and Breakfast Software": "https://www.softwareadvice.com/hotel-management/bed-breakfast-comparison/",
+                "Hotel Front Desk Software": "https://www.softwareadvice.com/hotel-management/front-desk-comparison/",
+                "Hotel Reservation Software": "https://www.softwareadvice.com/hotel-management/reservation-comparison/",
+                "Motel Software": "https://www.softwareadvice.com/hotel-management/motel-comparison/",
+                "Resort Management Software": "https://www.softwareadvice.com/hotel-management/resort-comparison/"
+            }
+        }
+    },
+    {
+        "category": {
+            "HR Services": "https://www.softwareadvice.com/hr-services/",
+            "subcategory": {
+                "Background Check Services": "https://www.softwareadvice.com/hr-services/background-check-services-comparison/",
+                "Benefits Management Services": "https://www.softwareadvice.com/hr-services/benefits-management-services-comparison/",
+                "Payroll Services": "https://www.softwareadvice.com/hr-services/payroll-services-comparison/",
+                "PEO Services": "https://www.softwareadvice.com/hr-services/peo-services-comparison/",
+                "Staffing Services": "https://www.softwareadvice.com/hr-services/staffing-services-comparison/",
+                "Training Companies": "https://www.softwareadvice.com/hr-services/training-comparison/"
+            }
+        }
+    },
+    {
+        "category": {
+            "Human Resources Software": "https://www.softwareadvice.com/hr/",
+            "subcategory": {
+                "360 Degree Feedback Software": "https://www.softwareadvice.com/hr/360-degree-feedback-comparison/",
+                "Absence Management Software": "https://www.softwareadvice.com/hr/absence-management-comparison/",
+                "Applicant Tracking Systems": "https://www.softwareadvice.com/hr/applicant-tracking-software-comparison/",
+                "Assessment Software": "https://www.softwareadvice.com/hr/assessment-comparison/",
+                "Background Check Software": "https://www.softwareadvice.com/hr/background-check-comparison/",
+                "Benefits Administration Software": "https://www.softwareadvice.com/hr/benefits-administration-comparison/",
+                "Compensation Management Software": "https://www.softwareadvice.com/hr/compensation-management-comparison/",
+                "Construction Payroll Software": "https://www.softwareadvice.com/hr/construction-payroll-comparison/",
+                "Direct Deposit Payroll Software": "https://www.softwareadvice.com/hr/direct-deposit-payroll-comparison/",
+                "Employee Engagement Software": "https://www.softwareadvice.com/hr/employee-engagement-comparison/",
+                "Employee Feedback Software": "https://www.softwareadvice.com/hr/employee-feedback-software-comparison/",
+                "Employee Goal Setting Software": "https://www.softwareadvice.com/hr/employee-goal-setting-comparison/",
+                "Employee Pulse Survey Tools": "https://www.softwareadvice.com/hr/employee-pulse-survey-tool-comparison/",
+                "Employee Recognition Software": "https://www.softwareadvice.com/hr/employee-recognition-comparison/",
+                "Employee Scheduling Software": "https://www.softwareadvice.com/hr/employee-scheduling-comparison/",
+                "HCM Software": "https://www.softwareadvice.com/hr/hcm-comparison/",
+                "HR Software for Nonprofits": "https://www.softwareadvice.com/hr/nonprofit-comparison/",
+                "Human Resource Apps": "https://www.softwareadvice.com/hr/mobile-app-comparison/",
+                "Job Board Software": "https://www.softwareadvice.com/hr/job-board-comparison/",
+                "OKR Software": "https://www.softwareadvice.com/hr/okr-comparison/",
+                "Onboarding Software": "https://www.softwareadvice.com/hr/employee-onboarding-comparison/",
+                "Online HR Software": "https://www.softwareadvice.com/hr/web-based-hr-software-comparison/",
+                "Online Payroll Software": "https://www.softwareadvice.com/hr/online-payroll-comparison/",
+                "Online Time And Attendance Software": "https://www.softwareadvice.com/hr/online-time-attendance-comparison/",
+                "Payroll Software": "https://www.softwareadvice.com/hr/payroll-software-comparison/",
+                "Payroll Software for Accountants": "https://www.softwareadvice.com/hr/accountant-payroll-comparison/",
+                "Payroll Software For Mac": "https://www.softwareadvice.com/hr/mac-payroll-comparison/",
+                "PEO Software": "https://www.softwareadvice.com/hr/peo-comparison/",
+                "Performance Management Software": "https://www.softwareadvice.com/hr/performance-review-software-comparison/",
+                "Pre-Employment Assessment Tools": "https://www.softwareadvice.com/hr/pre-employment-assessment-tools-comparison/",
+                "Recruiting Software": "https://www.softwareadvice.com/hr/recruiting-software-comparison/",
+                "Restaurant Scheduling Software": "https://www.softwareadvice.com/hr/restaurant-scheduling-comparison/",
+                "Small Business Payroll Software": "https://www.softwareadvice.com/hr/small-business-payroll-comparison/",
+                "Succession Planning Software": "https://www.softwareadvice.com/hr/succession-planning-comparison/",
+                "Talent Management Systems": "https://www.softwareadvice.com/hr/talent-management-software-comparison/",
+                "Time and Attendance Software": "https://www.softwareadvice.com/hr/time-attendance-comparison/",
+                "Time Clock Software": "https://www.softwareadvice.com/hr/time-clock-comparison/",
+                "Vacation Tracking Software": "https://www.softwareadvice.com/hr/vacation-tracking-comparison/",
+                "Video Interview Software": "https://www.softwareadvice.com/hr/video-interviewing-comparison/",
+                "Workforce Management Software": "https://www.softwareadvice.com/hr/workforce-management-software-comparison/"
+            }
+        }
+    },
+    {
+        "category": {
+            "Insurance Software": "https://www.softwareadvice.com/insurance/",
+            "subcategory": {
+                "Claims Management Software": "https://www.softwareadvice.com/insurance/claims-management-comparison/",
+                "Insurance Policy Software": "https://www.softwareadvice.com/insurance/policy-comparison/",
+                "Insurance Rating Software": "https://www.softwareadvice.com/insurance/insurance-rating-comparison/",
+                "Life Insurance Software": "https://www.softwareadvice.com/insurance/life-insurance-comparison/"
+            }
+        }
+    },
+    {
+        "category": {
+            "Inventory Management Software": "https://www.softwareadvice.com/inventory-management/",
+            "subcategory": {
+                "Barcode Software": "https://www.softwareadvice.com/inventory-management/barcode-comparison/",
+                "Electronic Parts Catalog Software": "https://www.softwareadvice.com/inventory-management/electronic-parts-catalog-comparison/",
+                "Inventory Optimization Software ": "https://www.softwareadvice.com/inventory-management/optimization-comparison/",
+                "Medical Inventory Software": "https://www.softwareadvice.com/inventory-management/medical-comparison/",
+                "Online Inventory Management Software": "https://www.softwareadvice.com/inventory-management/online-comparison/",
+                "Stock Control Software": "https://www.softwareadvice.com/inventory-management/stock-control-comparison/"
+            }
+        }
+    },
+    {
+        "category": {
+            "Learning Management Systems": "https://www.softwareadvice.com/lms/",
+            "subcategory": {
+                "Certification Tracking Software": "https://www.softwareadvice.com/lms/certification-tracking-comparison/",
+                "Computer Based Training Software": "https://www.softwareadvice.com/lms/computer-based-training-comparison/",
+                "Course Creation Software": "https://www.softwareadvice.com/lms/course-creation-comparison/",
+                "E-learning Software": "https://www.softwareadvice.com/lms/elearning-authoring-comparison/",
+                "Employee Training Software": "https://www.softwareadvice.com/lms/online-training-comparison/",
+                "Healthcare LMS": "https://www.softwareadvice.com/lms/healthcare-comparison/",
+                "Hospitality LMS": "https://www.softwareadvice.com/lms/hospitality-comparison/",
+                "Learning Content Management Systems (LCMS)": "https://www.softwareadvice.com/lms/learning-content-management-system-comparison/",
+                "Learning Management System for Manufacturing": "https://www.softwareadvice.com/lms/manufacturing-lms-comparison/",
+                "LMS for Nonprofits": "https://www.softwareadvice.com/lms/nonprofit-lms-comparison/",
+                "LMS for Schools": "https://www.softwareadvice.com/lms/education-comparison/",
+                "Mobile LMS Software": "https://www.softwareadvice.com/lms/mobile-lms-comparison/",
+                "Online Course Platforms": "https://www.softwareadvice.com/lms/online-course-platform-comparison/",
+                "Online Learning Management Systems": "https://www.softwareadvice.com/lms/cloud-comparison/",
+                "Retail LMS Software": "https://www.softwareadvice.com/lms/retail-lms-comparison/",
+                "SCORM-Compliant LMS Software": "https://www.softwareadvice.com/lms/scorm-comparison/",
+                "Social Learning Platforms": "https://www.softwareadvice.com/lms/social-learning-comparison/",
+                "Virtual Classroom Software": "https://www.softwareadvice.com/lms/virtual-classroom-comparison/"
+            }
+        }
+    },
+    {
+        "category": {
+            "Legal Software": "https://www.softwareadvice.com/legal/",
+            "subcategory": {
+                "Bankruptcy Software": "https://www.softwareadvice.com/legal/bankruptcy-comparison/",
+                "Case Management Software": "https://www.softwareadvice.com/legal/case-management-comparison/",
+                "Family Law Software": "https://www.softwareadvice.com/legal/family-law-comparison/",
+                "Law Practice Management Software": "https://www.softwareadvice.com/legal/law-practice-management-comparison/",
+                "Legal Billing Software": "https://www.softwareadvice.com/legal/billing-comparison/",
+                "Legal Calendaring & Docketing Software": "https://www.softwareadvice.com/legal/calendaring-docketing-comparison/",
+                "Legal Document Management Software": "https://www.softwareadvice.com/legal/document-management-comparison/",
+                "Social Work Case Management Software": "https://www.softwareadvice.com/legal/social-work-management-comparison/",
+                "Trust Accounting Software": "https://www.softwareadvice.com/legal/trust-accounting-comparison/"
+            }
+        }
+    },
+    {
+        "category": {
+            "Live Chat Software ": "https://www.softwareadvice.com/live-chat/",
+            "subcategory": {
+                "Chatbot Software": "https://www.softwareadvice.com/live-chat/chatbot-comparison/",
+                "Conversational AI Platform ": "https://www.softwareadvice.com/live-chat/conversational-ai-comparison-comparison/"
+            }
+        }
+    },
+    {
+        "category": {
+            "Long Term Care Software": "https://www.softwareadvice.com/long-term-care/",
+            "subcategory": {
+                "Assisted Living Software \t": "https://www.softwareadvice.com/long-term-care/assisted-living-comparison/"
+            }
+        }
+    },
+    {
+        "category": {
+            "Manufacturing Software": "https://www.softwareadvice.com/manufacturing/",
+            "subcategory": {
+                "Advanced Planning & Scheduling (APS) software": "https://www.softwareadvice.com/manufacturing/aps-comparison/",
+                "Aerospace Manufacturing Software": "https://www.softwareadvice.com/manufacturing/aerospace-manufacturing-software-comparison/",
+                "Apparel ERP Software": "https://www.softwareadvice.com/manufacturing/apparel-manufacturing-software-comparison/",
+                "Bill of Materials (BOM) Software": "https://www.softwareadvice.com/manufacturing/bill-of-materials-comparison/",
+                "Capacity Planning Software": "https://www.softwareadvice.com/manufacturing/capacity-planning-comparison/",
+                "Chemical Manufacturing Software": "https://www.softwareadvice.com/manufacturing/chemical-manufacturing-software-comparison/",
+                "Discrete Manufacturing Software": "https://www.softwareadvice.com/manufacturing/discrete-manufacturing-software-comparison/",
+                "Electronics Manufacturing Software": "https://www.softwareadvice.com/manufacturing/electronics-manufacturing-software-comparison/",
+                "ETO Manufacturing Software": "https://www.softwareadvice.com/manufacturing/engineer-to-order-software-comparison/",
+                "Food Manufacturing Software": "https://www.softwareadvice.com/manufacturing/food-manufacturing-software-comparison/",
+                "Food Safety Software": "https://www.softwareadvice.com/manufacturing/food-safety-software-comparison/",
+                "Job Shop Software": "https://www.softwareadvice.com/manufacturing/job-shop-software-comparison/",
+                "Manufacturing Accounting Systems": "https://www.softwareadvice.com/manufacturing/financial-accounting-software-comparison/",
+                "Manufacturing Execution Systems": "https://www.softwareadvice.com/manufacturing/execution-systems-comparison/",
+                "Manufacturing Inventory Software": "https://www.softwareadvice.com/manufacturing/inventory-software-comparison/",
+                "Metal Fabrication Software": "https://www.softwareadvice.com/manufacturing/metal-fabrication-comparison/",
+                "MRP Systems": "https://www.softwareadvice.com/manufacturing/mrp-software-comparison/",
+                "OEE Software": "https://www.softwareadvice.com/manufacturing/oee-comparison/",
+                "Pharmaceutical Manufacturing Software": "https://www.softwareadvice.com/manufacturing/pharmaceutical-manufacturing-software-comparison/",
+                "Process Manufacturing Software": "https://www.softwareadvice.com/manufacturing/process-manufacturing-software-comparison/",
+                "Product Lifecycle Management Software": "https://www.softwareadvice.com/manufacturing/product-lifecycle-management-comparison/",
+                "Production Scheduling Software": "https://www.softwareadvice.com/manufacturing/production-planning-scheduling-software-comparison/",
+                "Quality Management Software": "https://www.softwareadvice.com/manufacturing/quality-management-software-comparison/",
+                "Small Business Manufacturing Software": "https://www.softwareadvice.com/manufacturing/small-business-comparison/",
+                "Statistical Process Control Software": "https://www.softwareadvice.com/manufacturing/spc-comparison/"
+            }
+        }
+    },
+    {
+        "category": {
+            "Marketing Software": "https://www.softwareadvice.com/marketing/",
+            "subcategory": {
+                "All-in-One Marketing Platform": "https://www.softwareadvice.com/marketing/all-in-one-comparison/",
+                "Brand Management Software": "https://www.softwareadvice.com/marketing/brand-management-comparison/",
+                "Campaign Management Software": "https://www.softwareadvice.com/marketing/campaign-management-comparison/",
+                "Content Marketing Platforms": "https://www.softwareadvice.com/marketing/content-comparison/",
+                "Email Tracking Software": "https://www.softwareadvice.com/marketing/email-tracking-comparison/",
+                "Lead Capture Software": "https://www.softwareadvice.com/marketing/lead-capture-comparison/",
+                "Lead Generation Services": "https://www.softwareadvice.com/marketing/lead-generation-services-comparison/",
+                "Lead Generation Software": "https://www.softwareadvice.com/marketing/lead-generation-comparison/",
+                "Lead Management Software": "https://www.softwareadvice.com/marketing/lead-management-comparison/",
+                "Lead Scoring Software": "https://www.softwareadvice.com/marketing/lead-scoring-comparison/",
+                "Marketing Analytics Software": "https://www.softwareadvice.com/marketing/analytics-tools-comparison/",
+                "Marketing Automation Software": "https://www.softwareadvice.com/marketing/automation-comparison/",
+                "MRM Software": "https://www.softwareadvice.com/marketing/mrm-comparison/",
+                "PPC Software\t": "https://www.softwareadvice.com/marketing/ppc-comparison/",
+                "SEO Platforms": "https://www.softwareadvice.com/marketing/seo-platform-comparison/",
+                "Small Business Marketing Software": "https://www.softwareadvice.com/marketing/small-business-comparison/",
+                "Social Media Analytics Tools": "https://www.softwareadvice.com/marketing/social-media-analytics-tools-comparison/",
+                "Social Media Management Software": "https://www.softwareadvice.com/marketing/social-media-comparison/",
+                "Social Media Marketing Software": "https://www.softwareadvice.com/marketing/social-media-marketing-comparison/"
+            }
+        }
+    },
+    {
+        "category": {
+            "Medical Software": "https://www.softwareadvice.com/medical/",
+            "subcategory": {
+                "Allergy EMR Software": "https://www.softwareadvice.com/medical/allergy-immunology-software-comparison/",
+                "Anesthesia EMR Software": "https://www.softwareadvice.com/medical/anesthesiology-software-comparison/",
+                "Appointment Reminder Software": "https://www.softwareadvice.com/medical/appointment-reminder-comparison/",
+                "Cardiology EMR Software": "https://www.softwareadvice.com/medical/cardiology-emr-software-comparison/",
+                "Chiropractic Software": "https://www.softwareadvice.com/medical/chiropractic-emr-billing-software-comparison/",
+                "Chronic Care Management Software": "https://www.softwareadvice.com/medical/chronic-care-management-comparison/",
+                "Clinic Management Software": "https://www.softwareadvice.com/medical/clinic-management-comparison/",
+                "Cloud Based EMR Software": "https://www.softwareadvice.com/medical/web-based-emr-software-comparison/",
+                "Community Health Systems EHR": "https://www.softwareadvice.com/medical/community-health-center-software-comparison/",
+                "Dermatology EMR Software": "https://www.softwareadvice.com/medical/dermatology-software-comparison/",
+                "E-Prescribing Software": "https://www.softwareadvice.com/medical/e-prescribing-comparison/",
+                "Electronic Medical Records Software": "https://www.softwareadvice.com/medical/electronic-medical-record-software-comparison/",
+                "Family Practice EMR Software": "https://www.softwareadvice.com/medical/family-practice-software-comparison/",
+                "Gastroenterology EMR Software": "https://www.softwareadvice.com/medical/gastroenterology-software-comparison/",
+                "Geriatric Software": "https://www.softwareadvice.com/medical/geriatric-comparison/",
+                "iPad EMR Software": "https://www.softwareadvice.com/medical/tablet-pc-emr-medical-software-comparison/",
+                "IVF Software": "https://www.softwareadvice.com/medical/ivf-comparison/",
+                "Mac EMR Software": "https://www.softwareadvice.com/medical/mac-emr-comparison/",
+                "Medical Billing Services": "https://www.softwareadvice.com/medical/medical-billing-services-comparison/",
+                "Medical Billing Software": "https://www.softwareadvice.com/medical/medical-billing-software-comparison/",
+                "Medical Collection Services ": "https://www.softwareadvice.com/medical/collection-services-comparison/",
+                "Medical Spa Software": "https://www.softwareadvice.com/medical/spa-comparison/",
+                "Mental Health EHR Software": "https://www.softwareadvice.com/medical/mental-health-emr-billing-software-comparison/",
+                "Mobile EHR Software": "https://www.softwareadvice.com/medical/mobile-ehr-comparison/",
+                "Nephrology EMR Software": "https://www.softwareadvice.com/medical/nephrology-comparison/",
+                "Neurology EMR Software": "https://www.softwareadvice.com/medical/neurology-software-comparison/",
+                "OBGYN EMR Software": "https://www.softwareadvice.com/medical/obgyn-electronic-medical-records-comparison/",
+                "Occupational Health Software": "https://www.softwareadvice.com/medical/occupational-health-comparison/",
+                "Occupational Therapy Software": "https://www.softwareadvice.com/medical/occupational-therapy-comparison/",
+                "ONC Certified EMR Software": "https://www.softwareadvice.com/medical/onc-atcb-certified-emr-software-comparison/",
+                "Oncology EMR Software": "https://www.softwareadvice.com/medical/oncology-software-comparison/",
+                "Ophthalmology EMR Software": "https://www.softwareadvice.com/medical/ophthalmology-software-comparison/",
+                "Optometry EMR Software": "https://www.softwareadvice.com/medical/optometry-software-comparison/",
+                "Orthopedic EMR Software": "https://www.softwareadvice.com/medical/orthopedics-software-comparison/",
+                "Otolaryngology EMR Software": "https://www.softwareadvice.com/medical/otolaryngology-software-comparison/",
+                "PACS Systems": "https://www.softwareadvice.com/medical/picture-archiving-and-communication-systems-comparison/",
+                "Pain Management EMR Software": "https://www.softwareadvice.com/medical/pain-management-software-comparison/",
+                "Patient Check-In Kiosk Software": "https://www.softwareadvice.com/medical/patient-kiosk-comparison/",
+                "Patient Engagement Software": "https://www.softwareadvice.com/medical/patient-engagement-comparison/",
+                "Patient Intake Software": "https://www.softwareadvice.com/medical/patient-intake-comparison/",
+                "Patient Portal Software": "https://www.softwareadvice.com/medical/patient-portal-comparison/",
+                "Patient Scheduling Software": "https://www.softwareadvice.com/medical/patient-scheduling-software-comparison/",
+                "Pediatric EMR Software": "https://www.softwareadvice.com/medical/pediatric-electronic-medical-records-comparison/",
+                "Physical Therapy Software": "https://www.softwareadvice.com/medical/physical-therapy-software-comparison/",
+                "Plastic Surgery Software": "https://www.softwareadvice.com/medical/plastic-surgery-comparison/",
+                "Podiatry EMR Software": "https://www.softwareadvice.com/medical/podiatry-software-comparison/",
+                "Practice Analytics Software": "https://www.softwareadvice.com/medical/practice-analytics-comparison/",
+                "Practice Management Software": "https://www.softwareadvice.com/medical/practice-management-software-comparison/",
+                "Prescription Writing Software": "https://www.softwareadvice.com/medical/prescription-writing-comparison/",
+                "Primary Care EHR": "https://www.softwareadvice.com/medical/primary-care-ehr-comparison/",
+                "Psychiatry EMR Software": "https://www.softwareadvice.com/medical/psychiatry-emr-software-comparison/",
+                "Radiology Information Systems": "https://www.softwareadvice.com/medical/radiology-information-systems-comparison/",
+                "Revenue Cycle Management Software": "https://www.softwareadvice.com/medical/revenue-cycle-management-comparison/",
+                "Speech Therapy Software": "https://www.softwareadvice.com/medical/speech-therapy-comparison/",
+                "Substance Abuse EMR Software": "https://www.softwareadvice.com/medical/substance-abuse-software-comparison/",
+                "Urgent Care EMR Software": "https://www.softwareadvice.com/medical/urgent-care-software-comparison/",
+                "Urology EMR Software": "https://www.softwareadvice.com/medical/urology-electronic-medical-records-software-comparison/",
+                "Web Based Medical Billing Software": "https://www.softwareadvice.com/medical/web-based-medical-billing-software-comparison/"
+            }
+        }
+    },
+    {
+        "category": {
+            "Mental Health Software": "https://www.softwareadvice.com/mental-health/",
+            "subcategory": {
+                "ABA Software": "https://www.softwareadvice.com/mental-health/aba-comparison/",
+                "Therapy Notes Software": "https://www.softwareadvice.com/mental-health/therapy-notes-comparison/",
+                "Therapy Software": "https://www.softwareadvice.com/mental-health/therapy-comparison/"
+            }
+        }
+    },
+    {
+        "category": {
+            "Nonprofit Software": "https://www.softwareadvice.com/nonprofit/",
+            "subcategory": {
+                "Advocacy Software": "https://www.softwareadvice.com/nonprofit/advocacy-comparison/",
+                "Alumni Management Software": "https://www.softwareadvice.com/nonprofit/alumni-management-comparison/",
+                "Association Management Software": "https://www.softwareadvice.com/nonprofit/association-management-comparison/",
+                "Fundraising Software": "https://www.softwareadvice.com/nonprofit/fundraising-software-comparison/",
+                "Grant Management Software": "https://www.softwareadvice.com/nonprofit/grant-management-comparison/",
+                "Nonprofit Accounting Software": "https://www.softwareadvice.com/nonprofit/accounting-software-comparison/",
+                "Nonprofit CRM Software": "https://www.softwareadvice.com/nonprofit/crm-software-comparison/",
+                "Online Fundraising Platforms": "https://www.softwareadvice.com/nonprofit/online-fundraising-platforms-comparison/",
+                "Online Membership Software": "https://www.softwareadvice.com/nonprofit/online-membership-comparison/",
+                "Peer-to-Peer Fundraising Software": "https://www.softwareadvice.com/nonprofit/peer-to-peer-fundraising-comparison/",
+                "Volunteer Management Software": "https://www.softwareadvice.com/nonprofit/volunteer-management-software-comparison/"
+            }
+        }
+    },
+    {
+        "category": {
+            "Other Guides": "https://www.softwareadvice.com/",
+            "subcategory": {
+                "3D Architecture Software": "https://www.softwareadvice.com/3d-architecture/",
+                "Access Governance Software": "https://www.softwareadvice.com/access-governance/",
+                "Account Based Marketing Software": "https://www.softwareadvice.com/account-based-marketing/",
+                "Accounting Practice Management Software": "https://www.softwareadvice.com/accounting-practice-management/",
+                "Address Verification Software": "https://www.softwareadvice.com/address-verification/",
+                "Admissions Software": "https://www.softwareadvice.com/admissions/",
+                "Advertising Agency Software": "https://www.softwareadvice.com/advertising-agency/",
+                "Affiliate Software": "https://www.softwareadvice.com/affiliate/",
+                "AI Writing Assistant Software": "https://www.softwareadvice.com/ai-writing-assistant/",
+                "AIOps Platforms Software": "https://www.softwareadvice.com/aiops-platforms/",
+                "Android Kiosk Software": "https://www.softwareadvice.com/android-kiosk/",
+                "Animation Software": "https://www.softwareadvice.com/animation/",
+                "Anti-Spam Software": "https://www.softwareadvice.com/anti-spam/",
+                "AntiVirus Software": "https://www.softwareadvice.com/antivirus/",
+                "API Management Software": "https://www.softwareadvice.com/api-management/",
+                "App Building Software": "https://www.softwareadvice.com/app-building/",
+                "App Design Software": "https://www.softwareadvice.com/app-design/",
+                "App Development Software": "https://www.softwareadvice.com/app-development/",
+                "Application Performance Management Software": "https://www.softwareadvice.com/application-performance-manage/",
+                "Appointment Scheduling Software": "https://www.softwareadvice.com/appointment-scheduling/",
+                "Architecture Software": "https://www.softwareadvice.com/architecture/",
+                "Art Gallery Software": "https://www.softwareadvice.com/art-gallery/",
+                "Artificial Intelligence Software": "https://www.softwareadvice.com/artificial-intelligence/",
+                "Auction Software": "https://www.softwareadvice.com/auction/",
+                "Audio Conferencing Software": "https://www.softwareadvice.com/audio-conferencing/",
+                "Audio Editing Software": "https://www.softwareadvice.com/audio-editing/",
+                "Audit Software": "https://www.softwareadvice.com/audit/",
+                "Augmented Reality Software": "https://www.softwareadvice.com/augmented-reality/",
+                "Authentication Software": "https://www.softwareadvice.com/authentication/",
+                "Auto Repair Software": "https://www.softwareadvice.com/auto-repair/",
+                "Automated Testing Software": "https://www.softwareadvice.com/automation-testing/",
+                "B2B eCommerce Platform": "https://www.softwareadvice.com/b2b-ecommerce-platform/",
+                "Backup Software": "https://www.softwareadvice.com/backup/",
+                "Banking Systems Software": "https://www.softwareadvice.com/banking-systems/",
+                "Barbershop Software": "https://www.softwareadvice.com/barbershop/",
+                "Blockchain Platforms": "https://www.softwareadvice.com/blockchain-platforms/",
+                "Board Management Software": "https://www.softwareadvice.com/board-management/",
+                "Bot Detection and Mitigation Software": "https://www.softwareadvice.com/bot-detection-and-mitigation/",
+                "BPM Software": "https://www.softwareadvice.com/bpm/",
+                "Browsers": "https://www.softwareadvice.com/browser/",
+                "Bug Tracking Software": "https://www.softwareadvice.com/bug-tracking/",
+                "Business Continuity Software": "https://www.softwareadvice.com/business-continuity/",
+                "Business Management Software": "https://www.softwareadvice.com/business-management/",
+                "Buyer Intent Software": "https://www.softwareadvice.com/buyer-intent/",
+                "Calendar Software": "https://www.softwareadvice.com/calendar-app/",
+                "Camp Management Software": "https://www.softwareadvice.com/camp-management/",
+                "Campground Management Software": "https://www.softwareadvice.com/campground-management/",
+                "Career Management Software": "https://www.softwareadvice.com/career-management/",
+                "Catalog Management Software": "https://www.softwareadvice.com/catalog-management/",
+                "Catering Software": "https://www.softwareadvice.com/catering/",
+                "Change Management Software": "https://www.softwareadvice.com/change-management/",
+                "Church Management Software": "https://www.softwareadvice.com/church/",
+                "Class Registration Software": "https://www.softwareadvice.com/class-registration/",
+                "Classroom Management Software": "https://www.softwareadvice.com/classroom-management/",
+                "Client Onboarding Software": "https://www.softwareadvice.com/client-onboarding/",
+                "Clinical Trial Management  Software": "https://www.softwareadvice.com/clinical-trial-management/",
+                "Closed Captioning Software": "https://www.softwareadvice.com/closed-captioning/",
+                "Cloud Communication Platform Software": "https://www.softwareadvice.com/cloud-communication/",
+                "Cloud Management Software": "https://www.softwareadvice.com/cloud-management/",
+                "Cloud Security Software": "https://www.softwareadvice.com/cloud-security/",
+                "Cloud Storage Software": "https://www.softwareadvice.com/cloud-storage/",
+                "Club Management Software": "https://www.softwareadvice.com/club-management/",
+                "Coaching Software": "https://www.softwareadvice.com/coaching/",
+                "Collaboration Software": "https://www.softwareadvice.com/collaboration/",
+                "Commission Software  ": "https://www.softwareadvice.com/commission/",
+                "Community Software": "https://www.softwareadvice.com/community/",
+                "Company Secretarial Software": "https://www.softwareadvice.com/company-secretarial/",
+                "Competitive Intelligence Software": "https://www.softwareadvice.com/competitive-intelligence/",
+                "Compliance Management Systems": "https://www.softwareadvice.com/compliance/",
+                "Conference Software": "https://www.softwareadvice.com/conference/",
+                "Configuration Management Tools": "https://www.softwareadvice.com/configuration-management/",
+                "Contact Center Quality Assurance Software": "https://www.softwareadvice.com/quality-assurance/",
+                "Contact Center Software": "https://www.softwareadvice.com/contact-center/",
+                "Container Security Software": "https://www.softwareadvice.com/container-security/",
+                "Content Collaboration Software": "https://www.softwareadvice.com/content-collaboration/",
+                "Content Delivery Network": "https://www.softwareadvice.com/content-delivery-network/",
+                "Contest Software": "https://www.softwareadvice.com/contest/",
+                "Continuous Integration Software": "https://www.softwareadvice.com/continuous-integration/",
+                "Contract Management Software": "https://www.softwareadvice.com/contract-management/",
+                "Conversational Marketing Platform": "https://www.softwareadvice.com/conversational-marketing/",
+                "Corporate Social Responsibility (CSR) Software": "https://www.softwareadvice.com/csr/",
+                "Corporate Wellness Software": "https://www.softwareadvice.com/corporate-wellness/",
+                "Corrective and Preventive Action (CAPA) Software": "https://www.softwareadvice.com/capa/",
+                "Creative Management Software": "https://www.softwareadvice.com/creative-management/",
+                "Cryptocurrency Wallets": "https://www.softwareadvice.com/cryptocurrency-wallets/",
+                "CTRM Software": "https://www.softwareadvice.com/ctrm/",
+                "Customer Communications Management Software": "https://www.softwareadvice.com/customer-communications-mngt/",
+                "Customer Data Software": "https://www.softwareadvice.com/customer-data-platform/",
+                "Customer Identity and Access Management (CIAM) Software": "https://www.softwareadvice.com/ciam/",
+                "Customer Loyalty Program Software": "https://www.softwareadvice.com/customer-loyalty/",
+                "Customer Satisfaction Software": "https://www.softwareadvice.com/customer-satisfaction/",
+                "Customer Success Software": "https://www.softwareadvice.com/customer-success/",
+                "Customer Support Software": "https://www.softwareadvice.com/customer-support/",
+                "Customer Training Software": "https://www.softwareadvice.com/customer-training/",
+                "Cybersecurity Software": "https://www.softwareadvice.com/cybersecurity/",
+                "Dance Studio Software": "https://www.softwareadvice.com/dance-studio/",
+                "Data Catalog Software": "https://www.softwareadvice.com/data-catalog/",
+                "Data Center Management Software": "https://www.softwareadvice.com/data-center-management/",
+                "Data Entry Software": "https://www.softwareadvice.com/data-entry/",
+                "Data Extraction Software": "https://www.softwareadvice.com/data-extraction/",
+                "Data Governance Software": "https://www.softwareadvice.com/data-governance/",
+                "Data Management Platforms": "https://www.softwareadvice.com/data-management-platforms/",
+                "Data Privacy Software": "https://www.softwareadvice.com/data-privacy/",
+                "Database Management Systems": "https://www.softwareadvice.com/database-management-systems/",
+                "Database Monitoring Software": "https://www.softwareadvice.com/database-monitoring/",
+                "Daycare Software": "https://www.softwareadvice.com/child-care/",
+                "DDoS Protection Software": "https://www.softwareadvice.com/ddos-protection/",
+                "Debt Collection Software": "https://www.softwareadvice.com/debt-collection/",
+                "Decision Support Software": "https://www.softwareadvice.com/decision-support/",
+                "Demand Side Platform (DSP) Software": "https://www.softwareadvice.com/demand-side-platform/",
+                "Demo Software": "https://www.softwareadvice.com/demo/",
+                "Dental Charting Software": "https://www.softwareadvice.com/dental-charting/",
+                "Desk Booking Software": "https://www.softwareadvice.com/desk-booking/",
+                "Desktop as a Service (DaaS) Software": "https://www.softwareadvice.com/daas/",
+                "DevOps Software": "https://www.softwareadvice.com/devops/",
+                "Digital Adoption Platform": "https://www.softwareadvice.com/digital-adoption-platform/",
+                "Digital Experience Platforms (DXP) Software": "https://www.softwareadvice.com/dxp/",
+                "Digital Forensics Software": "https://www.softwareadvice.com/digital-forensics/",
+                "Digital Signage Software": "https://www.softwareadvice.com/digital-signage/",
+                "Digital Workplace Software": "https://www.softwareadvice.com/digital-workplace/",
+                "Disaster Recovery Software": "https://www.softwareadvice.com/disaster-recovery/",
+                "Display Advertising": "https://www.softwareadvice.com/display-advertising/",
+                "Document Control Software": "https://www.softwareadvice.com/document-control/",
+                "Document Generation Software": "https://www.softwareadvice.com/document-generation/",
+                "Document Version Control Software": "https://www.softwareadvice.com/document-version-control/",
+                "eDiscovery Software": "https://www.softwareadvice.com/ediscovery/",
+                "EHS Software": "https://www.softwareadvice.com/ehs/",
+                "Electronic Data Capture Software": "https://www.softwareadvice.com/electronic-data-capture/",
+                "Electronic Signature Software": "https://www.softwareadvice.com/electronic-signature/",
+                "Email Marketing Software": "https://www.softwareadvice.com/email-marketing/",
+                "Email Security Software": "https://www.softwareadvice.com/email-security/",
+                "Email Signature Software": "https://www.softwareadvice.com/email-signature/",
+                "Email Verification Tools ": "https://www.softwareadvice.com/email-verification/",
+                "eMAR Software": "https://www.softwareadvice.com/emar/",
+                "Embedded Analytics Software": "https://www.softwareadvice.com/embedded-analytics/",
+                "Emergency Notification Software": "https://www.softwareadvice.com/emergency-notification/",
+                "Employee Communication Tools": "https://www.softwareadvice.com/employee-communication-tools/",
+                "Employee Monitoring Software": "https://www.softwareadvice.com/employee-monitoring/",
+                "Encryption Software": "https://www.softwareadvice.com/encryption/",
+                "Enterprise Legal Management Software": "https://www.softwareadvice.com/enterprise-legal-management/",
+                "Enterprise Service Bus (ESB) Software": "https://www.softwareadvice.com/enterprise-service-bus-esb/",
+                "Environmental Software": "https://www.softwareadvice.com/environmental/",
+                "ESG Software": "https://www.softwareadvice.com/esg/",
+                "Event Booking Software": "https://www.softwareadvice.com/event-booking/",
+                "Event Check In Software": "https://www.softwareadvice.com/event-check-in/",
+                "Event Management Software": "https://www.softwareadvice.com/event-management/",
+                "Event Marketing Software": "https://www.softwareadvice.com/event-marketing/",
+                "Event Rental Software": "https://www.softwareadvice.com/event-rental/",
+                "Fax Server Software": "https://www.softwareadvice.com/fax-server/",
+                "Field Sales Software": "https://www.softwareadvice.com/field-sales/",
+                "File Sharing Software": "https://www.softwareadvice.com/file-sharing/",
+                "Financial Close Software": "https://www.softwareadvice.com/financial-close/",
+                "Financial Fraud Detection Software": "https://www.softwareadvice.com/financial-fraud-detection/",
+                "Financial Risk Management Software": "https://www.softwareadvice.com/financial-risk-management/",
+                "Financial Services Software": "https://www.softwareadvice.com/financial-services/",
+                "Firewall Software": "https://www.softwareadvice.com/firewall/",
+                "Fitness Software": "https://www.softwareadvice.com/fitness/",
+                "Food Service Management Software": "https://www.softwareadvice.com/food-service-management/",
+                "Form Automation Software": "https://www.softwareadvice.com/forms-automation/",
+                "Form Builder Software": "https://www.softwareadvice.com/form-builder/",
+                "Franchise Management Software": "https://www.softwareadvice.com/franchise-management/",
+                "Gamification Software": "https://www.softwareadvice.com/gamification/",
+                "Garage Door Software": "https://www.softwareadvice.com/garage-door/",
+                "Golf Course Software": "https://www.softwareadvice.com/golf-course-software/",
+                "Government Software": "https://www.softwareadvice.com/government/",
+                "Gradebook Software": "https://www.softwareadvice.com/gradebook/",
+                "Graphic Design Software": "https://www.softwareadvice.com/graphic-design/",
+                "Gym Management Software": "https://www.softwareadvice.com/gym-management/",
+                "Gymnastics Software": "https://www.softwareadvice.com/gymnastics/",
+                "Handyman Software": "https://www.softwareadvice.com/handyman/",
+                "Heatmap Software": "https://www.softwareadvice.com/heatmap/",
+                "HIPAA Compliance Software": "https://www.softwareadvice.com/hipaa-compliance/",
+                "Home Inspection Software": "https://www.softwareadvice.com/home-inspections/",
+                "Hospital Management Software": "https://www.softwareadvice.com/hospital-management/",
+                "Hostel Management Software": "https://www.softwareadvice.com/hostel-management/",
+                "Hotel Channel Management Software": "https://www.softwareadvice.com/hotel-channel-management/",
+                "Human Services Software": "https://www.softwareadvice.com/human-services/",
+                "Hybrid Event Software": "https://www.softwareadvice.com/hybrid-event/",
+                "IaaS Solutions": "https://www.softwareadvice.com/iaas-solutions/",
+                "Idea Management Software": "https://www.softwareadvice.com/idea-management/",
+                "Identity Management Software": "https://www.softwareadvice.com/identity-management/",
+                "Identity Verification Software": "https://www.softwareadvice.com/identity-verification/",
+                "Incident Management Software": "https://www.softwareadvice.com/incident-management/",
+                "Influencer Marketing": "https://www.softwareadvice.com/influencer-marketing/",
+                "Innovation Software": "https://www.softwareadvice.com/innovation/",
+                "Insight Engines": "https://www.softwareadvice.com/insight-engines/",
+                "Inspection Software": "https://www.softwareadvice.com/inspection/",
+                "Integrated Development Environment (IDE) Software": "https://www.softwareadvice.com/ide/",
+                "Internal Communications Software": "https://www.softwareadvice.com/internal-communications/",
+                "Intranet Software": "https://www.softwareadvice.com/intranet/",
+                "Investigation Management Software": "https://www.softwareadvice.com/investigation-management/",
+                "Investment Management Software": "https://www.softwareadvice.com/investment-management/",
+                "IoT Analytics Software": "https://www.softwareadvice.com/iot-analytics/",
+                "IoT Software": "https://www.softwareadvice.com/iot/",
+                "iPaaS Software": "https://www.softwareadvice.com/ipaas/",
+                "Issue Tracking Software": "https://www.softwareadvice.com/issue-tracking/",
+                "IT Management Software": "https://www.softwareadvice.com/it-management/",
+                "IT Service Software": "https://www.softwareadvice.com/it-service/",
+                "ITSM Software": "https://www.softwareadvice.com/itsm/",
+                "Janitorial Software": "https://www.softwareadvice.com/janitorial/",
+                "Job Costing Software": "https://www.softwareadvice.com/job-costing/",
+                "K-12 Software": "https://www.softwareadvice.com/k-12/",
+                "Kennel Software": "https://www.softwareadvice.com/kennel/",
+                "Keyword Research Tools Software": "https://www.softwareadvice.com/keyword-research-tools/",
+                "Kiosk Software": "https://www.softwareadvice.com/kiosk/",
+                "Label Printing Software": "https://www.softwareadvice.com/label-printing/",
+                "Laboratory Information Management Systems": "https://www.softwareadvice.com/lim/",
+                "Laboratory Information Systems": "https://www.softwareadvice.com/laboratory-information-systems/",
+                "Landing Page Software": "https://www.softwareadvice.com/landing-page/",
+                "Landscaping Software": "https://www.softwareadvice.com/landscaping/",
+                "Language Learning Software": "https://www.softwareadvice.com/language-learning/",
+                "Law Enforcement Software": "https://www.softwareadvice.com/law-enforcement/",
+                "Lead Nurturing Software": "https://www.softwareadvice.com/lead-nurturing/",
+                "License Management Software": "https://www.softwareadvice.com/license-management/",
+                "Live Streaming Software": "https://www.softwareadvice.com/live-streaming/",
+                "Load Testing Software": "https://www.softwareadvice.com/load-testing/",
+                "Loan Origination Software": "https://www.softwareadvice.com/loan-origination/",
+                "Loan Servicing Software": "https://www.softwareadvice.com/loan-servicing/",
+                "Local SEO Tools Software": "https://www.softwareadvice.com/local-seo-tools/",
+                "Location Intelligence Software": "https://www.softwareadvice.com/location-intelligence/",
+                "Log Analysis Software": "https://www.softwareadvice.com/log-analysis/",
+                "Log Management Software": "https://www.softwareadvice.com/log-management/",
+                "Logbook Software": "https://www.softwareadvice.com/logbook/",
+                "Low Code Development Platform": "https://www.softwareadvice.com/low-code-development/",
+                "Machine Learning Software": "https://www.softwareadvice.com/machine-learning/",
+                "Market Research Software": "https://www.softwareadvice.com/market-research/",
+                "Marketing Attribution Software": "https://www.softwareadvice.com/marketing-attribution/",
+                "Marketing Planning Software": "https://www.softwareadvice.com/marketing-planning/",
+                "Martial Arts Software": "https://www.softwareadvice.com/martial-arts/",
+                "Massage Therapy Software": "https://www.softwareadvice.com/massage-therapy/",
+                "MDM Software": "https://www.softwareadvice.com/mobile-device-management/",
+                "Medical Lab Software": "https://www.softwareadvice.com/medical-lab/",
+                "Meeting Room Booking Software": "https://www.softwareadvice.com/meeting-room/",
+                "Meeting Software": "https://www.softwareadvice.com/meetings/",
+                "Membership Management Software": "https://www.softwareadvice.com/membership-management/",
+                "Mentoring Software": "https://www.softwareadvice.com/mentoring/",
+                "Metadata Management Software": "https://www.softwareadvice.com/metadata-management/",
+                "Microlearning Software": "https://www.softwareadvice.com/microlearning/",
+                "MLM Software": "https://www.softwareadvice.com/mlm/",
+                "Mobile Analytics Software": "https://www.softwareadvice.com/mobile-analytics/",
+                "Mobile Event Apps": "https://www.softwareadvice.com/mobile-event-apps/",
+                "Mobile Marketing Software": "https://www.softwareadvice.com/mobile-marketing/",
+                "Mortgage Software": "https://www.softwareadvice.com/mortgage/",
+                "MSP Software": "https://www.softwareadvice.com/msp/",
+                "Multi-Channel eCommerce Software": "https://www.softwareadvice.com/multi-channel-ecommerce/",
+                "Multi-Factor Authentication Software": "https://www.softwareadvice.com/multi-factor-authentication/",
+                "Music School Software": "https://www.softwareadvice.com/music-school/",
+                "Natural Language Processing (NLP) Software": "https://www.softwareadvice.com/nlp/",
+                "Network Access Control Software": "https://www.softwareadvice.com/network-access-control/",
+                "Network Management Software": "https://www.softwareadvice.com/network-management/",
+                "Network Mapping Software": "https://www.softwareadvice.com/network-mapping/",
+                "Network Monitoring Tools": "https://www.softwareadvice.com/network-monitoring/",
+                "Network Security Software": "https://www.softwareadvice.com/network-security/",
+                "NFT Creation Software": "https://www.softwareadvice.com/nft-creation/",
+                "No Code Platform": "https://www.softwareadvice.com/no-code-platform/",
+                "NoSQL Databases": "https://www.softwareadvice.com/nosqul-databases/",
+                "Note-Taking Software": "https://www.softwareadvice.com/note-taking/",
+                "Observability Software": "https://www.softwareadvice.com/observability/",
+                "OCR Software": "https://www.softwareadvice.com/ocr/",
+                "Online Payment Software": "https://www.softwareadvice.com/online-payment/",
+                "Online Proofing Software": "https://www.softwareadvice.com/online-proofing/",
+                "Operating Systems Software": "https://www.softwareadvice.com/operating-systems/",
+                "Org Chart Software": "https://www.softwareadvice.com/org-chart/",
+                "Parks and Recreation Software": "https://www.softwareadvice.com/parks-and-recreation/",
+                "Partner Management Software": "https://www.softwareadvice.com/partner-management/",
+                "Password Management Software": "https://www.softwareadvice.com/password-management/",
+                "Patch Management Software": "https://www.softwareadvice.com/patch-management/",
+                "Patient Case Management Software": "https://www.softwareadvice.com/patient-case-management/",
+                "Patient Scheduling Software": "https://www.softwareadvice.com/patient-scheduling/",
+                "PCI Compliance Software": "https://www.softwareadvice.com/pci-compliance/",
+                "PDF Editor Software": "https://www.softwareadvice.com/pdf-editor/",
+                "Performance Testing Software": "https://www.softwareadvice.com/performance-testing/",
+                "Personal Trainer Software": "https://www.softwareadvice.com/personal-trainer/",
+                "Pet Grooming Software": "https://www.softwareadvice.com/pet-grooming/",
+                "Photo Editing Software": "https://www.softwareadvice.com/photo-editing/",
+                "Physical Security Software": "https://www.softwareadvice.com/physical-security/",
+                "Pilates Studio Software": "https://www.softwareadvice.com/pilates-studio/",
+                "Plagiarism Checker Software": "https://www.softwareadvice.com/plagiarism-checker/",
+                "Platform as a Service Software": "https://www.softwareadvice.com/paas/",
+                "Podcast Hosting Software": "https://www.softwareadvice.com/podcast-hosting/",
+                "Policy Management Software": "https://www.softwareadvice.com/policy-management/",
+                "Political Campaign Software": "https://www.softwareadvice.com/political-campaign/",
+                "Polling Software": "https://www.softwareadvice.com/polling/",
+                "Portal Software": "https://www.softwareadvice.com/portal/",
+                "Presentation Software": "https://www.softwareadvice.com/presentation/",
+                "Pricing Optimization Software": "https://www.softwareadvice.com/pricing-optimization/",
+                "Print Estimating Software": "https://www.softwareadvice.com/print-estimating/",
+                "Print Management Software": "https://www.softwareadvice.com/print-management/",
+                "Privileged Access Management Software": "https://www.softwareadvice.com/privileged-access-management/",
+                "Proctoring Software": "https://www.softwareadvice.com/proctoring/",
+                "Procure to Pay Software": "https://www.softwareadvice.com/procure-to-pay/",
+                "Product Analytics Software": "https://www.softwareadvice.com/product-analytics/",
+                "Product Configurator Software": "https://www.softwareadvice.com/product-configurator/",
+                "Product Roadmap Software": "https://www.softwareadvice.com/product-roadmap/",
+                "Productivity Software": "https://www.softwareadvice.com/productivity/",
+                "Proofreading Software": "https://www.softwareadvice.com/proofreading/",
+                "Public Relations Software": "https://www.softwareadvice.com/public-relations/",
+                "Publishing and Subscriptions Software": "https://www.softwareadvice.com/publishing-and-subscriptions/",
+                "Push Notifications Software": "https://www.softwareadvice.com/push-notifications/",
+                "Qualitative Data Analysis Software": "https://www.softwareadvice.com/qualitative-data-analysis/",
+                "Real Estate Transaction Management Software": "https://www.softwareadvice.com/real-estate-transaction-manage/",
+                "Recruiting Agency Software": "https://www.softwareadvice.com/recruiting-agency/",
+                "Recruitment Marketing Platforms": "https://www.softwareadvice.com/recruitment-marketing-platform/",
+                "Referral Management Software": "https://www.softwareadvice.com/referral-management/",
+                "Registration Software": "https://www.softwareadvice.com/registration/",
+                "Remote Monitoring & Management (RMM) Software": "https://www.softwareadvice.com/remote-monitoring-and-manageme/",
+                "Remote Patient Monitoring Software": "https://www.softwareadvice.com/remote-patient-monitoring/",
+                "Remote Support Software": "https://www.softwareadvice.com/remote-support/",
+                "Remote Work Software": "https://www.softwareadvice.com/remote-work/",
+                "Rental Software": "https://www.softwareadvice.com/rental/",
+                "Reporting Tools": "https://www.softwareadvice.com/reporting-tools/",
+                "Reputation Management Software": "https://www.softwareadvice.com/reputation-management/",
+                "Requirements Management Software": "https://www.softwareadvice.com/requirements-management/",
+                "Retargeting Software": "https://www.softwareadvice.com/retargeting/",
+                "Revenue Management Software": "https://www.softwareadvice.com/revenue-management/",
+                "Revenue Recognition Software": "https://www.softwareadvice.com/revenue-recognition/",
+                "Review Management Software": "https://www.softwareadvice.com/review-management/",
+                "RFP Software": "https://www.softwareadvice.com/rfp/",
+                "Robotic Process Automation Software": "https://www.softwareadvice.com/robotic-process-automation/",
+                "SaaS Management Software": "https://www.softwareadvice.com/saas-management/",
+                "Sales Coaching Software": "https://www.softwareadvice.com/sales-coaching/",
+                "Sales Content Management Software": "https://www.softwareadvice.com/sales-content-management/",
+                "Sales Forecasting Software": "https://www.softwareadvice.com/sales-forecasting/",
+                "Sales Performance Management Software": "https://www.softwareadvice.com/sales-performance-management/",
+                "Salon Software": "https://www.softwareadvice.com/salon/",
+                "Scheduling Software": "https://www.softwareadvice.com/scheduling/",
+                "School Management Software": "https://www.softwareadvice.com/school-management/",
+                "Screen Recording Software": "https://www.softwareadvice.com/screen-recording/",
+                "Screen Sharing Software": "https://www.softwareadvice.com/screen-sharing/",
+                "Screenwriting Software": "https://www.softwareadvice.com/screenwriting/",
+                "Secure Email Gateway Software": "https://www.softwareadvice.com/secure-email-gateway/",
+                "Security Awareness Training Software": "https://www.softwareadvice.com/security-awareness-training/",
+                "Security Orchestration, Automation, and Response (SOAR) Software": "https://www.softwareadvice.com/soar/",
+                "Security System Installer Software": "https://www.softwareadvice.com/security-system-installer/",
+                "Self-Service Password Reset (SSPR) Software": "https://www.softwareadvice.com/sspr/",
+                "Server Management Software": "https://www.softwareadvice.com/server-management/",
+                "Server Monitoring Software": "https://www.softwareadvice.com/server-monitoring/",
+                "Service Desk Software": "https://www.softwareadvice.com/service-desk/",
+                "Shipment Tracking Software": "https://www.softwareadvice.com/shipment-tracking/",
+                "SIEM Software": "https://www.softwareadvice.com/siem/",
+                "Single Sign On Software": "https://www.softwareadvice.com/single-sign-on/",
+                "SMS Marketing Software": "https://www.softwareadvice.com/sms-marketing/",
+                "SMS Survey Software": "https://www.softwareadvice.com/sms-survey/",
+                "Social Listening Tools": "https://www.softwareadvice.com/social-listening-tools/",
+                "Social Media Monitoring Software": "https://www.softwareadvice.com/social-media-monitoring/",
+                "Social Networking Software": "https://www.softwareadvice.com/social-networking/",
+                "Social Selling Software": "https://www.softwareadvice.com/social-selling/",
+                "Space Management Software": "https://www.softwareadvice.com/space-management/",
+                "Speech Analytics Software": "https://www.softwareadvice.com/speech-analytics/",
+                "Sports League Management Software": "https://www.softwareadvice.com/sports-league-management/",
+                "Static Application Security Testing (SAST) Software": "https://www.softwareadvice.com/sast/",
+                "Statistical Analysis Software": "https://www.softwareadvice.com/statistical-analysis/",
+                "Student Engagement Platform": "https://www.softwareadvice.com/student-engagement/",
+                "Student Information System Software": "https://www.softwareadvice.com/student-information-system/",
+                "Survey Tools": "https://www.softwareadvice.com/survey/",
+                "Tax Preparation Software": "https://www.softwareadvice.com/tax-preparation/",
+                "Team Communication Software": "https://www.softwareadvice.com/team-communication/",
+                "Telecom Expense Management Software": "https://www.softwareadvice.com/telecom-expense-management/",
+                "Telemarketing Software": "https://www.softwareadvice.com/telemarketing/",
+                "Text-to-Speech Software": "https://www.softwareadvice.com/text-to-speech/",
+                "Ticketing Software": "https://www.softwareadvice.com/ticketing/",
+                "Tour Operator Software": "https://www.softwareadvice.com/tour-operator/",
+                "Transactional Email Software": "https://www.softwareadvice.com/transactional-email/",
+                "Translation Management Software": "https://www.softwareadvice.com/translation-management/",
+                "Travel Agency Software": "https://www.softwareadvice.com/travel-agency/",
+                "Travel Management Software": "https://www.softwareadvice.com/travel-management/",
+                "Tutoring Software": "https://www.softwareadvice.com/tutoring/",
+                "Unified Endpoint Management (UEM) Software": "https://www.softwareadvice.com/unified-endpoint-management/",
+                "URL Shortener Software": "https://www.softwareadvice.com/url-shortener/",
+                "User Testing Software": "https://www.softwareadvice.com/user-testing/",
+                "Utility Billing Software": "https://www.softwareadvice.com/utility-billing/",
+                "Utility Management Systems": "https://www.softwareadvice.com/utility-management/",
+                "UX Software": "https://www.softwareadvice.com/ux/",
+                "Vacation Rental Software": "https://www.softwareadvice.com/vacation-rental/",
+                "Vaccine Management Software": "https://www.softwareadvice.com/vaccine-management/",
+                "VDI Software": "https://www.softwareadvice.com/vdi/",
+                "Venue Management Software": "https://www.softwareadvice.com/venue-management/",
+                "Veterinary Software": "https://www.softwareadvice.com/veterinary/",
+                "Video Conferencing Software": "https://www.softwareadvice.com/video-conferencing/",
+                "Video Hosting Software": "https://www.softwareadvice.com/video-hosting/",
+                "Video Making Software": "https://www.softwareadvice.com/video-making/",
+                "Video Management Software": "https://www.softwareadvice.com/video-management/",
+                "Virtual Assistant Software": "https://www.softwareadvice.com/virtual-assistant/",
+                "Virtual Data Room": "https://www.softwareadvice.com/virtual-data-room/",
+                "Virtual Event Software": "https://www.softwareadvice.com/virtual-event/",
+                "Virtual Private Server Software": "https://www.softwareadvice.com/virtual-private-server/",
+                "Virtualization Software": "https://www.softwareadvice.com/virtualization/",
+                "Visitor Management Systems": "https://www.softwareadvice.com/visitor-management/",
+                "Vulnerability Management Software": "https://www.softwareadvice.com/vulnerability-management/",
+                "Vulnerability Scanner Software": "https://www.softwareadvice.com/vulnerability-scanner/",
+                "Web Analytics Software": "https://www.softwareadvice.com/web-analytics/",
+                "Web Content Management Software": "https://www.softwareadvice.com/web-content-management/",
+                "Web to Print Software  \t": "https://www.softwareadvice.com/web-to-print/",
+                "Webinar Software": "https://www.softwareadvice.com/webinar/",
+                "Website Accessibility Software": "https://www.softwareadvice.com/website-accessibility/",
+                "Website Builder Software": "https://www.softwareadvice.com/website-builder/",
+                "Website Monitoring Software": "https://www.softwareadvice.com/website-monitoring/",
+                "Website Optimization Tools": "https://www.softwareadvice.com/website-optimization/",
+                "Website Security Software": "https://www.softwareadvice.com/website-security/",
+                "Whistleblowing Software": "https://www.softwareadvice.com/whistleblowing/",
+                "Whiteboard Software": "https://www.softwareadvice.com/whiteboard/",
+                "Workflow Software": "https://www.softwareadvice.com/workflow/",
+                "Yoga Studio Software": "https://www.softwareadvice.com/yoga-studio/"
+            }
+        }
+    },
+    {
+        "category": {
+            "Project Management Software": "https://www.softwareadvice.com/project-management/",
+            "subcategory": {
+                "Agile Project Management Software": "https://www.softwareadvice.com/project-management/agile-comparison/",
+                "ALM Tools": "https://www.softwareadvice.com/project-management/alm-tools-comparison/",
+                "Creative Project Management Software": "https://www.softwareadvice.com/project-management/creative-comparison/",
+                "Enterprise Project Management Software": "https://www.softwareadvice.com/project-management/enterprise-comparison/",
+                "Gantt Chart Software": "https://www.softwareadvice.com/project-management/gantt-chart-comparison/",
+                "IT Project Management Software": "https://www.softwareadvice.com/project-management/it-comparison/",
+                "Kanban Software": "https://www.softwareadvice.com/project-management/kanban-comparison/",
+                "Manufacturing Project Management Software": "https://www.softwareadvice.com/project-management/manufacturing-comparison/",
+                "Marketing Project Management Software": "https://www.softwareadvice.com/project-management/marketing-comparison/",
+                "Online Project Management Software": "https://www.softwareadvice.com/project-management/web-based-comparison/",
+                "Online Time Tracking Software": "https://www.softwareadvice.com/project-management/online-time-tracking-comparison/",
+                "Product Management Software": "https://www.softwareadvice.com/project-management/product-management-comparison/",
+                "Project Management Software for Architects": "https://www.softwareadvice.com/project-management/architect-comparison/",
+                "Project Management Software For Engineering": "https://www.softwareadvice.com/project-management/engineering-comparison/",
+                "Project Management Software For Mac": "https://www.softwareadvice.com/project-management/mac-comparison/",
+                "Project Management Software for Nonprofits": "https://www.softwareadvice.com/project-management/nonprofit-comparison/",
+                "Project Planning Software": "https://www.softwareadvice.com/project-management/project-planning-comparison/",
+                "Project Portfolio Management Software": "https://www.softwareadvice.com/project-management/ppm-comparison/",
+                "Project Tracking Software": "https://www.softwareadvice.com/project-management/project-tracking-comparison/",
+                "Resource Management Software": "https://www.softwareadvice.com/project-management/resource-management-comparison/",
+                "Scrum Software": "https://www.softwareadvice.com/project-management/scrum-comparison/",
+                "Small Business Project Management Software": "https://www.softwareadvice.com/project-management/small-business-comparison/",
+                "Strategic Planning Software\t": "https://www.softwareadvice.com/project-management/strategic-planning-comparison/",
+                "Task Management Software": "https://www.softwareadvice.com/project-management/task-management-comparison/",
+                "Team Management Software": "https://www.softwareadvice.com/project-management/team-management-comparison/",
+                "Time Tracking Software": "https://www.softwareadvice.com/project-management/time-tracking-comparison/"
+            }
+        }
+    },
+    {
+        "category": {
+            "Property Management Software": "https://www.softwareadvice.com/property/",
+            "subcategory": {
+                "Affordable Housing Property Management Software": "https://www.softwareadvice.com/property/affordable-housing-software-comparison/",
+                "Apartment Management Systems": "https://www.softwareadvice.com/property/apartment-management-software-comparison/",
+                "Commercial Property Management Software": "https://www.softwareadvice.com/property/commercial-real-estate-software-comparison/",
+                "HOA Software": "https://www.softwareadvice.com/property/community-hoa-software-comparison/",
+                "Lease Accounting Software": "https://www.softwareadvice.com/property/lease-accounting-comparison/",
+                "Lease Management Software": "https://www.softwareadvice.com/property/lease-management-comparison/",
+                "Mobile Home Park Management Software": "https://www.softwareadvice.com/property/manufactured-mobile-home-management-software-comparison/",
+                "Online Property Management Software": "https://www.softwareadvice.com/property/web-based-property-management-software-comparison/",
+                "Property Management Accounting Software": "https://www.softwareadvice.com/property/accounting-software-comparison/",
+                "Property Management Apps": "https://www.softwareadvice.com/property/management-apps-comparison/",
+                "Rental Property Management Software": "https://www.softwareadvice.com/property/rental-property-management-software-comparison/",
+                "Self Storage Software": "https://www.softwareadvice.com/property/self-storage-facilities-software-comparison/",
+                "Student Housing Software": "https://www.softwareadvice.com/property/student-housing-software-comparison/"
+            }
+        }
+    },
+    {
+        "category": {
+            "PSA Software": "https://www.softwareadvice.com/psa/",
+            "subcategory": {
+                "Time And Expense Tracking Software": "https://www.softwareadvice.com/psa/time-and-expense-comparison/"
+            }
+        }
+    },
+    {
+        "category": {
+            "Retail POS Systems": "https://www.softwareadvice.com/retail/",
+            "subcategory": {
+                "Auto Parts Store Software": "https://www.softwareadvice.com/retail/auto-parts-store-software-comparison/",
+                "Bakery Software": "https://www.softwareadvice.com/retail/bakery-comparison/",
+                "Bookstore Software": "https://www.softwareadvice.com/retail/bookstore-software-comparison/",
+                "Cafe POS System": "https://www.softwareadvice.com/retail/cafe-pos-system-comparison/",
+                "Cell Phone Store POS Software": "https://www.softwareadvice.com/retail/cellular-wireless-pos-software-comparison/",
+                "Clothing Store Inventory Software": "https://www.softwareadvice.com/retail/pos-software-for-apparel-retailers-comparison/",
+                "Consignment Software": "https://www.softwareadvice.com/retail/consignment-store-pos-software-comparison/",
+                "Convenience Store POS Systems": "https://www.softwareadvice.com/retail/convenience-gas-station-software-comparison/",
+                "Dispensary Software": "https://www.softwareadvice.com/retail/dispensary-comparison/",
+                "Equipment Rental Software": "https://www.softwareadvice.com/retail/equipment-rental-comparison/",
+                "Florist POS Systems": "https://www.softwareadvice.com/retail/florist-software-comparison/",
+                "Food Delivery Software": "https://www.softwareadvice.com/retail/food-delivery-comparison/",
+                "Food Truck POS Systems  ": "https://www.softwareadvice.com/retail/food-truck-pos-comparison/",
+                "Furniture Store Software": "https://www.softwareadvice.com/retail/furniture-store-retail-software-comparison/",
+                "Gift Shop Software": "https://www.softwareadvice.com/retail/gift-shop-software-comparison/",
+                "Grocery POS Systems": "https://www.softwareadvice.com/retail/grocery-store-software-comparison/",
+                "Gun Shop Software": "https://www.softwareadvice.com/retail/gun-shop-software-comparison/",
+                "Hardware Store Software": "https://www.softwareadvice.com/retail/hardware-pos-software-comparison/",
+                "iPad POS Systems": "https://www.softwareadvice.com/retail/ipad-pos-comparison/",
+                "Jewelry Store Software": "https://www.softwareadvice.com/retail/jewelry-pos-software-comparison/",
+                "Liquor Store POS Software": "https://www.softwareadvice.com/retail/liquor-store-software-comparison/",
+                "Merchandising Software": "https://www.softwareadvice.com/retail/merchandising-software-comparison/",
+                "Merchant Service Providers": "https://www.softwareadvice.com/retail/merchant-service-comparison/",
+                "Mobile POS Systems": "https://www.softwareadvice.com/retail/mpos-comparison/",
+                "Online Ordering Systems": "https://www.softwareadvice.com/retail/online-ordering-system-comparison/",
+                "Pharmacy Software": "https://www.softwareadvice.com/retail/pharmacy-comparison/",
+                "POS Systems for Bars": "https://www.softwareadvice.com/retail/bar-pos-software-comparison/",
+                "Restaurant CRM": "https://www.softwareadvice.com/retail/restaurant-crm-comparison/",
+                "Restaurant Management Software": "https://www.softwareadvice.com/retail/restaurant-management-comparison/",
+                "Restaurant POS Systems": "https://www.softwareadvice.com/retail/restaurant-pos-software-comparison/",
+                "Retail Accounting Software": "https://www.softwareadvice.com/retail/accounting-software-comparison/",
+                "Retail Analytics Software": "https://www.softwareadvice.com/retail/analytics-comparison/",
+                "Retail CRM Software": "https://www.softwareadvice.com/retail/crm-software-comparison/",
+                "Retail Inventory Software": "https://www.softwareadvice.com/retail/inventory-management-software-comparison/",
+                "Retail Management Software": "https://www.softwareadvice.com/retail/retail-management-comparison/",
+                "Shoe Store Software": "https://www.softwareadvice.com/retail/footwear-software-comparison/",
+                "Small Business POS Systems": "https://www.softwareadvice.com/retail/small-business-pos-comparison/",
+                "Spa Software": "https://www.softwareadvice.com/retail/spa-comparison/",
+                "Sporting Goods POS Software": "https://www.softwareadvice.com/retail/sporting-goods-store-software-comparison/",
+                "Tablet POS Systems": "https://www.softwareadvice.com/retail/tablet-pos-comparison/",
+                "Touch Screen POS Systems": "https://www.softwareadvice.com/retail/touch-screen-pos-software-comparison/",
+                "Web POS Software": "https://www.softwareadvice.com/retail/web-based-point-of-sale-software-comparison/"
+            }
+        }
+    },
+    {
+        "category": {
+            "Risk Management Software": "https://www.softwareadvice.com/risk-management/",
+            "subcategory": {
+                "ERM Software": "https://www.softwareadvice.com/risk-management/erm-comparison/",
+                "GDPR Software": "https://www.softwareadvice.com/risk-management/gdpr-comparison/",
+                "GRC Software \t": "https://www.softwareadvice.com/risk-management/grc-comparison/",
+                "Integrated Risk Management Software": "https://www.softwareadvice.com/risk-management/integrated-risk-management-comparison/"
+            }
+        }
+    },
+    {
+        "category": {
+            "Supply Chain Management Software": "https://www.softwareadvice.com/scm/",
+            "subcategory": {
+                "3PL Software": "https://www.softwareadvice.com/scm/third-party-logistics-3pl-software-comparison/",
+                "Contract Lifecycle Management Software": "https://www.softwareadvice.com/scm/contract-lifecycle-management-software-comparison/",
+                "Demand Planning Software": "https://www.softwareadvice.com/scm/demand-planning-software-comparison/",
+                "Dropshipping Software": "https://www.softwareadvice.com/scm/dropshipping-comparison/",
+                "Freight Broker Software": "https://www.softwareadvice.com/scm/freight-broker-software-comparison/",
+                "Logistics Software": "https://www.softwareadvice.com/scm/logistics-comparison/",
+                "Order Entry Software": "https://www.softwareadvice.com/scm/order-entry-comparison/",
+                "Order Fulfillment Software": "https://www.softwareadvice.com/scm/order-fulfillment-software-comparison/",
+                "Order Management Systems": "https://www.softwareadvice.com/scm/order-management-system-comparison/",
+                "Procurement Software": "https://www.softwareadvice.com/scm/procurement-software-comparison/",
+                "Purchase Order Software": "https://www.softwareadvice.com/scm/purchase-order-comparison/",
+                "Shipping Software": "https://www.softwareadvice.com/scm/shipping-comparison/",
+                "Spend Management Software": "https://www.softwareadvice.com/scm/spend-management-comparison/",
+                "SRM Software": "https://www.softwareadvice.com/scm/supplier-relationship-management-software-comparison/",
+                "Strategic Sourcing Software": "https://www.softwareadvice.com/scm/strategic-sourcing-software-comparison/",
+                "Supply Chain Planning Software": "https://www.softwareadvice.com/scm/supply-chain-planning-software-comparison/",
+                "Transportation Management Systems": "https://www.softwareadvice.com/scm/transportation-management-software-comparison/",
+                "Vendor Management Systems": "https://www.softwareadvice.com/scm/vendor-management-system-comparison/",
+                "VMI Systems": "https://www.softwareadvice.com/scm/vendor-managed-inventory-software-comparison/",
+                "Warehouse Management Software (WMS)": "https://www.softwareadvice.com/scm/warehouse-management-system-comparison/"
+            }
+        }
+    },
+    {
+        "category": {
+            "Telemedicine Software": "https://www.softwareadvice.com/telemedicine/",
+            "subcategory": {
+                "HIPAA Compliant Video Conferencing": "https://www.softwareadvice.com/telemedicine/hipaa-compliant-video-conferencing-comparison/",
+                "Telepsychiatry Software": "https://www.softwareadvice.com/telemedicine/telepsychiatry-comparison/"
+            }
+        }
+    },
+    {
+        "category": {
+            "VoIP Software": "https://www.softwareadvice.com/voip/",
+            "subcategory": {
+                "Auto Attendant Systems": "https://www.softwareadvice.com/voip/auto-attendant-comparison/",
+                "Business Phone Service Providers": "https://www.softwareadvice.com/voip/business-phone-service-comparison/",
+                "Call Tracking Software": "https://www.softwareadvice.com/voip/call-tracking-comparison/",
+                "Cloud PBX": "https://www.softwareadvice.com/voip/hosted-pbx-comparison/",
+                "Conference Calling Software": "https://www.softwareadvice.com/voip/conference-calling-comparison/",
+                "Online Meeting Software": "https://www.softwareadvice.com/voip/online-meeting-comparison/",
+                "PBX Phone Systems": "https://www.softwareadvice.com/voip/ip-pbx-comparison/",
+                "SIP Clients": "https://www.softwareadvice.com/voip/best-sip-clients-comparison/",
+                "SIP Trunk Providers": "https://www.softwareadvice.com/voip/sip-trunking-comparison/",
+                "Small Business Phone Systems": "https://www.softwareadvice.com/voip/small-business-phone-systems-comparison-comparison/",
+                "UCaaS Providers": "https://www.softwareadvice.com/voip/ucaas-comparison/",
+                "VoIP Softphones": "https://www.softwareadvice.com/voip/best-softphones-comparison/"
+            }
+        }
+    }
+]

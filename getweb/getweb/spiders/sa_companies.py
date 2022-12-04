@@ -6,11 +6,13 @@ class SaCompaniesSpider(scrapy.Spider):
     name = "companies"
 
     def start_requests(self):
-        with open('categories.json', 'r') as f:
+        with open('categories_v2.json', 'r') as f:
             data = json.load(f)
         for category in data:
-            for url in category["subtitles"]:
+            for subcategory in category["category"]["subcategory"]:
+                url = category["category"]["subcategory"][subcategory]
                 yield scrapy.Request(url=url, callback=self.parse)
+                
 
     def parse(self, response):
         # all the companies in the tab
