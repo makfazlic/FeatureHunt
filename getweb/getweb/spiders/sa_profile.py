@@ -138,6 +138,7 @@ class SaProfileSpider(scrapy.Spider):
         for i, r in enumerate(reviews):
             review_copy = review.copy()
             r_soup = BeautifulSoup(r, 'html.parser')
+            review_copy['reviewer_info'] = []
             try:
                 rev_person_block = r_soup.find('div', id='review-person')
                 review_copy['reviewer_name'] = rev_person_block.find('div', class_='review-profile-user').text
@@ -146,17 +147,17 @@ class SaProfileSpider(scrapy.Spider):
         
             try:
                 rev_person_block = r_soup.find('div', id='review-person')
-                review_copy['reviewer_info'].append(rev_person_block .find('div', class_='review-company').text)
+                review_copy['reviewer_info'].append(rev_person_block.find('div', class_='review-company').text)
             except:
                 review_copy['reviewer_info'].append("Unknown")
             try:
                 rev_person_block = r_soup.find('div', id='review-person')
-                review_copy['reviewer_info'].append(rev_person_block .find('div', class_='review-gdm-industry').text)
+                review_copy['reviewer_info'].append(rev_person_block.find('div', class_='review-gdm-industry').text)
             except:
                 review_copy['reviewer_info'].append("Unknown")
             try:
                 rev_person_block = r_soup.find('div', id='review-person')
-                review_copy['reviewer_info'].append(rev_person_block .find('div', class_='review-profile-time-used').text)
+                review_copy['reviewer_info'].append(rev_person_block.find('div', class_='review-profile-time-used').text)
             except:
                 review_copy['reviewer_info'].append( "Unknown")
             try:

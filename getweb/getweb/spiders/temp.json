@@ -1,0 +1,1855 @@
+[
+    {
+        "profile": "https://www.softwareadvice.com/accounting/oracle-jd-edwards-profile/",
+        "name": "JD Edwards EnterpriseOne",
+        "logo": "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/e9772e45-0d5e-4fec-9545-dc46fa5d2a4b.png?fit=max&w=104&fm=png&auto=format",
+        "images": [
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/bf119cfb-b0f7-48e4-877f-8c6a3c5a1ca2.png",
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/bf119cfb-b0f7-48e4-877f-8c6a3c5a1ca2.png",
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/c9b409d8-8ddb-48aa-a776-313765661179.png",
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/5b91bbc0-2e66-4d1e-8bb1-b814891b7346.png"
+        ],
+        "description": "Oracle JD Edwards EnterpriseOne is an enterprise resource planning software with primary features such as real estate management, human capital management, environmental health and safety and commodity trading. What is JD Edwards EnterpriseOne? JD Edwards EnterpriseOne is a cloud-based Enterprise Resource Planning (ERP) and supply chain management solution that provides ERP applications and tools for finance, consumer goods, human resources, distribution and manufacturing sectors. The system provides features such as financial management, project management, asset lifecycle management, order management, CRM, manufacturing, supply chain planning and logistics, reporting and business intelligence. How do you use JD Edwards EnterpriseOne?",
+        "pricing": {
+            "general": "Contact Oracle for detailed pricing information.",
+            "starting_price": "None",
+            "free_trial": "Not Available",
+            "free_version": "Not Available"
+        },
+        "reviews": [
+            {
+                "reviewer_name": "Bryon ",
+                "reviewer_info": [
+                    "Company size: 201-500 employees",
+                    "Industry: Oil & Energy",
+                    "Time used: More than 2 years"
+                ],
+                "general_review_title": "JDEdwards",
+                "general_review": "JDE has made most of our  processes significantly easier and more accurate. ",
+                "pros": "Integration was exactly as expected. JDE has been integral to our success in managing the financials, inventory management, supply chain management. It's also easy to integrate other pieces of specialized software.  ",
+                "cons": "JDE requires a good amount of IT help to make  any updates or adjustments this leads to upgrades happening slower than we'd like. ",
+                "index": 0
+            },
+            {
+                "reviewer_name": "Anonymous",
+                "reviewer_info": [
+                    "Company size: 10,000+ employees",
+                    "Unknown",
+                    "Time used: More than 2 years"
+                ],
+                "general_review_title": "Not the best ERP",
+                "general_review": "I used to work with others ERP and can say JDE is not the best even though is one of the most common. ",
+                "pros": "The only thing I like about JDE is that you can extract a lot of information from it to use it to make your own reports. You just need to know basic data extraction concepts.",
+                "cons": "I don't like several things about JDE. It is not user friendly at all, you need to click several times to navigate to the final table or screen you want to see or to generate reports. To be that expensive it lacks on concepts love like Kannan in the supply chain module, it is hard to find support in certain modules and it is basically necessary to train somebody as internal support.",
+                "index": 1
+            },
+            {
+                "reviewer_name": "Anonymous",
+                "reviewer_info": [
+                    "Company size: 10,000+ employees",
+                    "Unknown",
+                    "Time used: Less than 12 months"
+                ],
+                "general_review_title": "Great Standardized Functionality",
+                "general_review": "Overall, JD Edwards EnterpriseOne is a great solution for mature organizations looking for a proven software platform to meet their business needs.",
+                "pros": "This platform is run on Oracle servers providing great reliability and standardization of functionality.",
+                "cons": "While the reliability and stability of the platform is helpful, there is still great opportunity for the functionality to be customized to meet unique business needs.",
+                "index": 2
+            },
+            {
+                "reviewer_name": "Anonymous",
+                "reviewer_info": [
+                    "Company size: 1,001-5,000 employees",
+                    "Unknown",
+                    "Time used: More than 2 years"
+                ],
+                "general_review_title": "Best ERP I worked with",
+                "general_review": "Have been developing and implementing JDE all around the world for almost five years. Worked on JDE integration with other software as well.",
+                "pros": "Easy to develop. Easy to implement. Fast, secure, simple. On my almost 5 years of experience, I really like how business processes can be managed using JDE.",
+                "cons": "Development interface is way too outdated. Come on people, you can come up with something better. Had to wait until a few years ago to highlight some of the keywords? Event Rules can get your eyesight very tired.",
+                "index": 3
+            },
+            {
+                "reviewer_name": "Anonymous",
+                "reviewer_info": [
+                    "Company size: 10,000+ employees",
+                    "Unknown",
+                    "Time used: More than 2 years"
+                ],
+                "general_review_title": "Leaves Some to be Desired",
+                "general_review": "Overall experience has been positive. Being a long-time (5+ years) user, I am very comfortable using the platform and learn new features often.",
+                "pros": "Many features housed in one place for tracking service orders to and from individuals, including quality control tracking.",
+                "cons": "Interface leaves much to be desired and lacks some functionality between tabs / programs. I feel more time could be spent developing the software on the back-end to make it a more user-friendly interface.",
+                "index": 4
+            }
+        ],
+        "overall_raiting": "4.17",
+        "secondary_raiting": {
+            "ease_of_use": "4",
+            "customer_support": "4",
+            "value_for_money": "4",
+            "functionality": "4"
+        },
+        "website": "https://www.oracle.com/in/applications/jd-edwards-enterpriseone/"
+    },
+    {
+        "profile": "https://www.softwareadvice.com/accounting/intellitek-financial-suite-accounting-profile/",
+        "name": "OASIS",
+        "logo": "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/64038cc9-410a-4e56-ac7f-3332d6457a62.png?fit=max&w=104&fm=png&auto=format",
+        "images": [
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/a2bdba21-3c84-4e4d-a842-965a40b0f0d4.png",
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/a2bdba21-3c84-4e4d-a842-965a40b0f0d4.png",
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/bf279991-71b3-4f0d-a0b1-df4bd1ae58ad.jpg",
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/dc9ee7b4-945d-4059-ac27-05ceedf6c354.png"
+        ],
+        "description": "OASIS is a customizable ERP system for small to midsize companies. This system is customized to the company\u2019s precise specifications and is used primarily in the retail, manufacturing, and professional services verticals. OASIS\u2019 suite can be purchased all together as a single ERP solution, or conveniently as separate modules. It offers applications to help manage various aspect of your business, from human resources to customer relationship management to Business Intelligence. Some of these applications include standalone marketing and sales automation, financial accounting, supplier management, and more.",
+        "pricing": {
+            "general": "None",
+            "starting_price": "None",
+            "free_trial": "None",
+            "free_version": "None"
+        },
+        "reviews": [
+            {
+                "reviewer_name": "Jeniriana ",
+                "reviewer_info": [
+                    "Unknown",
+                    "Unknown",
+                    "Time used: Less than 6 months"
+                ],
+                "general_review_title": "None",
+                "general_review": "None",
+                "pros": "Connect Oasis allows me to be aware of each of my projects in real time, as well as gather information about field conditions, analyze the plan, and finally execute the project until its completion, thus obtaining good results.",
+                "cons": "It has a wide range of tools, which allows me to create successful projects, I recommend those who want to have control in their hands.",
+                "index": 0
+            },
+            {
+                "reviewer_name": "Didi ",
+                "reviewer_info": [
+                    "Unknown",
+                    "Industry: Electrical/Electronic Manufacturing",
+                    "Time used: Free Trial"
+                ],
+                "general_review_title": "None",
+                "general_review": "None",
+                "pros": "The product has edits to help move through the program with correct and complete information.",
+                "cons": "It is very time consuming, and many nurses procrastinate entering the data.",
+                "index": 1
+            },
+            {
+                "reviewer_name": "Gil ",
+                "reviewer_info": [
+                    "Unknown",
+                    "Industry: Electrical/Electronic Manufacturing",
+                    "Time used: Free Trial"
+                ],
+                "general_review_title": "None",
+                "general_review": "None",
+                "pros": "We use OASIS as an informational system for our vehicle management system.",
+                "cons": "It can be complex to navigate until you become familiar with its features",
+                "index": 2
+            },
+            {
+                "reviewer_name": "Richard ",
+                "reviewer_info": [
+                    "Unknown",
+                    "Industry: Electrical/Electronic Manufacturing",
+                    "Time used: Free Trial"
+                ],
+                "general_review_title": "None",
+                "general_review": "None",
+                "pros": "The software is relatively easy to navigate, and the support is great.",
+                "cons": "To the best of my knowledge, it cannot be installed on a server.",
+                "index": 3
+            },
+            {
+                "reviewer_name": "Mark ",
+                "reviewer_info": [
+                    "Unknown",
+                    "Industry: Electrical/Electronic Manufacturing",
+                    "Time used: Free Trial"
+                ],
+                "general_review_title": "None",
+                "general_review": "None",
+                "pros": "Easy to use tools. It can handle discounts automatically and quick menu changes.",
+                "cons": "Cost of the tools and equipment. Also, IT suppoort periodically.",
+                "index": 4
+            },
+            {
+                "reviewer_name": "Jeanne ",
+                "reviewer_info": [
+                    "Unknown",
+                    "Industry: Medical Devices",
+                    "Time used: Free Trial"
+                ],
+                "general_review_title": "None",
+                "general_review": "None",
+                "pros": "It saves time and paper. Data can be entered and saved.",
+                "cons": "It is very confusing to use. Isn't designed to use at remote location. Multiple versions of same forms but they cannot be used interchangeable. Lack of software support.",
+                "index": 5
+            },
+            {
+                "reviewer_name": "James ",
+                "reviewer_info": [
+                    "Unknown",
+                    "Industry: Electrical/Electronic Manufacturing",
+                    "Time used: Free Trial"
+                ],
+                "general_review_title": "None",
+                "general_review": "None",
+                "pros": "I like the cost, and it is relatively easy to troubleshoot given its use.",
+                "cons": "Not many people around here use it regularly, so getting insights into it is hard.",
+                "index": 6
+            }
+        ],
+        "overall_raiting": "3.43",
+        "secondary_raiting": {
+            "ease_of_use": "3",
+            "customer_support": "3.5",
+            "value_for_money": "5",
+            "functionality": "3.5"
+        },
+        "website": "http://www.intelliteksys.com"
+    },
+    {
+        "profile": "https://www.softwareadvice.com/accounting/slingshot-enterprise-accounting-profile/",
+        "name": "Slingshot Enterprise Business Suite",
+        "logo": "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/008d9d03-1a26-4aa7-b8d8-ff643ca0dc61.png?fit=max&w=104&fm=png&auto=format",
+        "images": [
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/864b905e-247d-4304-88ad-f639e7d9967c.png",
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/864b905e-247d-4304-88ad-f639e7d9967c.png",
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/d3936b36-f31e-4bfb-a433-06f7ff224236.png",
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/c52333f9-d322-44a4-84db-b992fb5bf0d3.png",
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/58386432-bdef-4396-a799-bb5cc0f445d4.png",
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/67568436-6632-40ce-b3ea-df5ad81b31ae.png",
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/9be41919-c1d9-46b0-b87c-4b93755db9b2.png"
+        ],
+        "description": "The Slingshot Enterprise Business Suite is a web-based enterprise resource planning (ERP) software suite designed to serve mid-sized to large businesses. The system serves retail, distribution, manufacturing, financial services, pharmaceuticals, government, and other markets. The company touts its ease of customization and usability as key differentiators. Slingshot Enterprise Business Suite includes applications for sales order management, procurement and requisition management, inventory and supply chain management, and enterprise financial management. The product has the ability to integrate with a user\u2019s existing business software systems. The system\u2019s customization options enable it to address industry-specific or changing business needs and preferences.",
+        "pricing": {
+            "general": "None",
+            "starting_price": "None",
+            "free_trial": "None",
+            "free_version": "None"
+        },
+        "reviews": [
+            {
+                "reviewer_name": "Karan ",
+                "reviewer_info": [
+                    "Company size: 2-10 employees",
+                    "Industry: Philanthropy",
+                    "Time used: Less than 6 months"
+                ],
+                "general_review_title": "Very productive",
+                "general_review": "This is a very productive and easy to use product. I would recommend every small business to use this software and imply ",
+                "pros": "None",
+                "cons": "None",
+                "index": 0
+            },
+            {
+                "reviewer_name": "Olivia ",
+                "reviewer_info": [
+                    "Company size: 11-50 employees",
+                    "Industry: Design",
+                    "Time used: Less than 6 months"
+                ],
+                "general_review_title": "None",
+                "general_review": "None",
+                "pros": "This is a pretty standard CRM. Easy to use and helpful features offered but just not as integrative as some other similar softwares like Zoho",
+                "cons": "Just lack of features and not a very good reporting system.",
+                "index": 1
+            },
+            {
+                "reviewer_name": "Paul ",
+                "reviewer_info": [
+                    "Unknown",
+                    "Industry: Automotive",
+                    "Time used: More than 2 years"
+                ],
+                "general_review_title": "None",
+                "general_review": "None",
+                "pros": "I like the flexibility of the software to adapt to our requirements (adding/removing fields, forms, workflows, etc.). The user interface is very friendly and easy to use. It's very scalable and has a cloud-based deployment. The company delivered on exactly what they said they would do.",
+                "cons": "I cannot think of anything that I do not like. Everything went according to plan.",
+                "index": 2
+            }
+        ],
+        "overall_raiting": "4.33",
+        "secondary_raiting": {
+            "ease_of_use": "5",
+            "customer_support": "5",
+            "value_for_money": "5",
+            "functionality": "4.5"
+        },
+        "website": "http://www.slingshotsoftware.com/landing/business-management-ask-us-about-free-business-process-evaluation"
+    },
+    {
+        "profile": "https://www.softwareadvice.com/accounting/unit4-coda-financials-accounting-profile/",
+        "name": "UNIT4 Financials",
+        "logo": "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/2f80ef45-1ddd-4a1f-9f50-69a411d51155.png?fit=max&w=104&fm=png&auto=format",
+        "images": [
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/4f80c2a1-00b3-404b-93ee-4fa7b152f19c.png",
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/4f80c2a1-00b3-404b-93ee-4fa7b152f19c.png",
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/61159d74-8c97-471b-b4b5-ab961c199dfa.png",
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/7f208bb2-6ff3-484e-9818-48093a16888c.png",
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/924161cc-3eb9-4d30-98e9-a1c75d4f002f.png",
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/bc273460-0bcd-40d5-9d58-74810a7244f1.png"
+        ],
+        "description": "Unit4 Financials (formerly Coda Financials) is a cloud-based accounting and financial management solution for public sectors, real estate, education, professional service, financial services and wholesale providers. It includes general ledger, accounts payable and receivable, fixed assets, budgeting, project accounting and spend management. The solution is multi-lingual and multi-currency. Unit4 Financials enables organizations to automate financial processes and manage compliance as well as corporate governance. The solution uses real-time data to provide visibility into company\u2019s financial position which further helps in decision making. It also offers revenue analysis, account reconciliation and statement processing.",
+        "pricing": {
+            "general": "None",
+            "starting_price": "None",
+            "free_trial": "None",
+            "free_version": "None"
+        },
+        "reviews": [
+            {
+                "reviewer_name": "Nicholas ",
+                "reviewer_info": [
+                    "Company size: 201-500 employees",
+                    "Industry: Accounting",
+                    "Time used: More than 2 years"
+                ],
+                "general_review_title": "None",
+                "general_review": "None",
+                "pros": "We like the development of new and added features over the years. It is also a fairly easy system to teach someone how to use and users can explore things on their own.",
+                "cons": "It can be hard to get reports out of the system sometimes. ",
+                "index": 0
+            },
+            {
+                "reviewer_name": "Lauren ",
+                "reviewer_info": [
+                    "Company size: 11-50 employees",
+                    "Industry: Non-Profit Organization Management",
+                    "Time used: More than 2 years"
+                ],
+                "general_review_title": "Unit4 is great for travel expenses - especially the app!",
+                "general_review": "Overall, I'm a fan on Unit4. Their upgrade changed things for my workload and allowed me to be more efficient, timely, and error-free. Their upload process changes how I work with my supervisor's requests for travel expenses.",
+                "pros": "We use Unit4 Financials for our expense reporting. They got a significant upgrade a year or so ago which made dramatic improvements to their app and web functioning. It is now very easy to use the app to take pictures of your expenses and upload them. Since I do expenses for my supervisor who travels A TON, she is able to upload her receipts and add a description. Unless the receipts come in an email, my workload has been significantly cut down. She was sending them to me by mail previously, which made the time on her end and on my financial team longer. The app improvement led to ease across my organization.",
+                "cons": "You have to have someone on your end who is really diligent and skilled in their background processes to run this product on the back end. We have been flooded with errors and downtime when updates come out or when new employees come on board. I have been using it for years so I understand how it works but new employees don't necessarily like the functionality and have seen easier to use products.",
+                "index": 1
+            },
+            {
+                "reviewer_name": "Faith ",
+                "reviewer_info": [
+                    "Company size: 51-200 employees",
+                    "Industry: Financial Services",
+                    "Time used: More than 2 years"
+                ],
+                "general_review_title": "Terrible Customer service and Greed",
+                "general_review": "Terrible! ",
+                "pros": "The software itself when it is working is user friendly and quick to pick up. Queries are easily run and results easy to manipulate once exported",
+                "cons": "There are so many!  If you want automated payments you need to pay for a consultant to install that for you and pay for this as an additional. This comes standard with most software.  The customer service is abysmal! We have received quotes that were miles off and then once you sign up, you are informed that the cost is twice as much and so we decided to cancel the contract as it was no longer affordable. This lead to retaliation I would say from Unit 4, they no longer assisting with our queries  and demanding  payment for almost every little task even installing their own licenses!! Getting a response is nearly impossible, delays of 2 months are normal! ",
+                "index": 2
+            },
+            {
+                "reviewer_name": "Melissa ",
+                "reviewer_info": [
+                    "Company size: 201-500 employees",
+                    "Industry: Insurance",
+                    "Time used: More than 2 years"
+                ],
+                "general_review_title": "Unit4 Financials Review",
+                "general_review": "Overall, we are pleased with Unit4 Financials.  It has provided efficiencies to our financial reporting process.",
+                "pros": "I love the element structure, and the ability to receive imports from our Insurance system.  It gives us the ability to sub-analyze and report in all the ways that are necessary and valuable to our company.",
+                "cons": "We are currently stuck in Version 12.  For the past couple of months, we have been attempting to upgrade to Version 14.  However, that version of Unit 4 Financials is not compatible with the IBM system we are on.  It is concerning that this wasn't thoroughly tested and resolved before release, and the amount of time it is taking to remedy the situation is disappointing.",
+                "index": 3
+            },
+            {
+                "reviewer_name": "Alan ",
+                "reviewer_info": [
+                    "Company size: 51-200 employees",
+                    "Industry: Insurance",
+                    "Time used: More than 2 years"
+                ],
+                "general_review_title": "Unit 4 Financials",
+                "general_review": "We have used Unit4Financials for 24 years so we are obviously happy with it ",
+                "pros": "Unit 4 Financials gives Finance users and Administrators an edge on other systems based on features and system design .   It is well written and designed and their support in A-1",
+                "cons": "Some old features like maintaining Hierarchies need updating and may not be needed in today's design.  Also the Client Server piece was removed in version 14 and many AP users prefer that to the web and it does have functionality that the web version does not .  Feel free to contact me if needed for this   ",
+                "index": 4
+            },
+            {
+                "reviewer_name": "Debbie ",
+                "reviewer_info": [
+                    "Unknown",
+                    "Industry: Oil & Energy",
+                    "Time used: Free Trial"
+                ],
+                "general_review_title": "None",
+                "general_review": "None",
+                "pros": "CODA Excel is great to use. You can create your own reports for virtually any purpose or format. We now do our journal entries at month-end using CODA Excel, and it has saved a good amount of time. Also, CODA is quick to respond to any issues or questions we may have.",
+                "cons": "Most everything works great, but one thing that would be nice to have is the ability to see all error messages when posting a journal entry. We could have a 200 line entry full of errors, but we have to address each one line by line.  Being able to see all errors at once would greatly improve productivity when dealing with these kinds of entries.",
+                "index": 5
+            },
+            {
+                "reviewer_name": "Alan ",
+                "reviewer_info": [
+                    "Unknown",
+                    "Industry: Insurance",
+                    "Time used: Free Trial"
+                ],
+                "general_review_title": "None",
+                "general_review": "None",
+                "pros": "It is fairly intuitive and easy to use. They genuinely seem to care about customer feedback recently, but the last few years, that seemed to go away.",
+                "cons": "I believe that the product is getting very complicated, especially on the back end, and CODA support themselves are having a hard time keeping up with it, particularly in the web version. Also, CODA seems to be charging for everything that is extra outside of the core product.",
+                "index": 6
+            },
+            {
+                "reviewer_name": "Deb ",
+                "reviewer_info": [
+                    "Company size: 201-500 employees",
+                    "Industry: Primary/Secondary Education",
+                    "Time used: More than 2 years"
+                ],
+                "general_review_title": "Unit 4 financials for the smaller business",
+                "general_review": "Good for the price!",
+                "pros": "I like that this software is easy to use.  It is best suited for a small business.   You can filter out the pieces that you need quite easily. ",
+                "cons": "You do have to know accounting as everything is not just \"ill in the blank, like you would on a tax program. ",
+                "index": 7
+            }
+        ],
+        "overall_raiting": "4.13",
+        "secondary_raiting": {
+            "ease_of_use": "4",
+            "customer_support": "4",
+            "value_for_money": "3.5",
+            "functionality": "4"
+        },
+        "website": "https://www.unit4.com/products/financial-management-software"
+    },
+    {
+        "profile": "https://www.softwareadvice.com/accounting/netsuite-financials-accounting-software-profile/",
+        "name": "NetSuite",
+        "logo": "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/70a405ae-214e-4735-8e1f-ce093f53f337.png?fit=max&w=104&fm=png&auto=format",
+        "images": [
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/f8a11e08-e9e5-487e-b289-2077cf85bba0.png",
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/f8a11e08-e9e5-487e-b289-2077cf85bba0.png",
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/522307fc-5595-46be-b602-e5e7bd59f57d.png",
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/f9a2542d-4313-4981-88d3-84ece6824400.png",
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/562d4cc1-73b6-43fb-8d87-425bb83e8ea9.png"
+        ],
+        "description": "With an integrated system that includes ERP, financials, commerce, inventory management, HR, PSA, supply chain management, CRM and more \u2013 NetSuite enables fast-growing businesses across all industries to work more effectively by automating core processes and providing real-time insights into operational and financial performance. What is NetSuite?",
+        "pricing": {
+            "general": "Pricing available on request.",
+            "starting_price": "$499.00 per month",
+            "free_trial": "Not Available",
+            "free_version": "Not Available"
+        },
+        "reviews": [
+            {
+                "reviewer_name": "Apeksha ",
+                "reviewer_info": [
+                    "Company size: 1,001 - 5,000 employees",
+                    "Unknown",
+                    "Time used: More than 2 years"
+                ],
+                "general_review_title": "None",
+                "general_review": "None",
+                "pros": "None",
+                "cons": "None",
+                "index": 0
+            },
+            {
+                "reviewer_name": "Alvaro ",
+                "reviewer_info": [
+                    "Company size: 51-200 employees",
+                    "Industry: Internet",
+                    "Time used: More than 2 years"
+                ],
+                "general_review_title": "Great ERP",
+                "general_review": "Help us at a time we were growing the company, so right now we are more efficient and have real time data because of Netsuite.",
+                "pros": "- Very Robust and Fully customizable   - Have an API and so connect with third party and other tools you use internally can be definitely doable.   - Multiple currencies, locations and internationalization help you when you have to access in different subsidiaries  - Have great tools for making reports   The support have been great the last 2 or 3 times I used it.",
+                "cons": "- Sometimes tends to be slow, It seems like that was a problem with the implementation but in general it feel slow.  - The UI looks old, but does what you need.  - The documentation is really heavy and sometimes is hard to find things there.",
+                "index": 1
+            },
+            {
+                "reviewer_name": "Mahir ",
+                "reviewer_info": [
+                    "Company size: 201-500 employees",
+                    "Industry: Information Technology and Services",
+                    "Time used: Less than 12 months"
+                ],
+                "general_review_title": "Very Expensive ERP System",
+                "general_review": "Overall experience was okay but unfortunately we had to stop using it because of the poor product support in relation to the hefty expenses we were incurring.",
+                "pros": "NetSuite has everything that Business needs to operate and all of it's modules are well integrated. Reporting system also works like a charm",
+                "cons": "It's very expensive to maintain and above all their support takes ages to respond/act. Getting used to this system takes longer time than usual as it's workflows are a bit twitched. ",
+                "index": 2
+            },
+            {
+                "reviewer_name": "David ",
+                "reviewer_info": [
+                    "Company size: 51-200 employees",
+                    "Industry: Biotechnology",
+                    "Time used: Less than 2 years"
+                ],
+                "general_review_title": "Great Product",
+                "general_review": "Netsuite is a dynamic powerful tool that is very affordable. Highly recommend it for any company that is looking to take the next step and bring their accounting/finance function out of the dark ages. ",
+                "pros": "Ease of use - Ability to easily integrate with other software. Highly customizable",
+                "cons": "Fixed Asset Module could be improved. Bank reconciliation tool could be improved. Payment processing tool could be improved. Too many extra modules and features that you have to pay for which should come in the standard product. ",
+                "index": 3
+            },
+            {
+                "reviewer_name": "Jess ",
+                "reviewer_info": [
+                    "Company size: 11-50 employees",
+                    "Industry: Retail",
+                    "Time used: More than 2 years"
+                ],
+                "general_review_title": "Lots of customization",
+                "general_review": "Netsuite allowed us to deploy the financial management system we needed to help the business grow. The order management and use as point of sale was not suitable for retail and online. There is a high level of customization available for reporting and dashboard configuration which was helpful. ",
+                "pros": "Netsuite is a broad sweeping software that can allow a growing business to put in place effective financial management. The high level of customization available also means in depth reporting can be produced, which can be extremely helpful for a business to identify growth opportunities or areas of improvement. ",
+                "cons": "Integration with our e-commerce platform was challenging. We were not able to achieve the level of integration and automation we wanted for the volume of sales we did online. ",
+                "index": 4
+            }
+        ],
+        "overall_raiting": "4.08",
+        "secondary_raiting": {
+            "ease_of_use": "4",
+            "customer_support": "3.5",
+            "value_for_money": "3.5",
+            "functionality": "4"
+        },
+        "website": "https://www.capterra.com/external_click_sa/spotlight-visit-website/1/2123830/177841/acct/aHR0cHM6Ly82MjYyMjM5LmV4dGZvcm1zLm5ldHN1aXRlLmNvbS9hcHAvc2l0ZS9jcm0vZXh0ZXJuYWxsZWFkcGFnZS5ubC9jb21waWQuNjI2MjIzOS8uZj9mb3JtaWQ9MTEzMyZoPUFBRmRpa2FJbWRaY2xscU9zclRPZ2hCREx3eDFvU0Y0eGJiQ01VY3p3Q0xpeFVBaXEzdyZsZWFkc291cmNlPU9ubGluZV9FTUVBX0NhcHRlcnJhX0FjY291bnRpbmdfMjAyMV9SSEY=?ds=7AA8355D5D5ED3A68DC5DA6F9416EFFF32799F8B"
+    },
+    {
+        "profile": "https://www.softwareadvice.com/accounting/intacct-accounting-profile/",
+        "name": "Sage Intacct",
+        "logo": "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/fe0f5e7e-e066-4ca1-a42f-67ba4ba1c9d0.jpeg?fit=max&w=104&fm=png&auto=format",
+        "images": [
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/2a18abd5-8458-40c4-b89f-97539723b9cd.png",
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/2a18abd5-8458-40c4-b89f-97539723b9cd.png",
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/9a64cb90-4e35-48e3-974c-a6ec6b5df960.png",
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/e09467f9-9c51-479c-b6ef-9c6b3d135f22.png",
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/e1689979-f6da-459b-b3dd-5e9cd26d7d6a.png",
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/1e8b1fb1-f4e7-42af-b4e6-c93ec7b29948.png"
+        ],
+        "description": "Sage Intacct is a provider of cloud-based financial management and accounting software. Sage Intacct's software solution is suitable for small to midsize accounting firms and can provide financial reporting and operational insights as well as the ability to automate critical financial processes. Sage Intacct cloud financial management solution manages all core financials and provides professional services to help implement Sage Intacct software.",
+        "pricing": {
+            "general": "None",
+            "starting_price": "None",
+            "free_trial": "None",
+            "free_version": "None"
+        },
+        "reviews": [
+            {
+                "reviewer_name": "Wendy ",
+                "reviewer_info": [
+                    "Company size: 11 - 50 employees",
+                    "Unknown",
+                    "Time used: Less than 6 months"
+                ],
+                "general_review_title": "None",
+                "general_review": "None",
+                "pros": "None",
+                "cons": "None",
+                "index": 0
+            },
+            {
+                "reviewer_name": "Helene ",
+                "reviewer_info": [
+                    "Company size: 501-1,000 employees",
+                    "Industry: Public Relations and Communications",
+                    "Time used: Less than 12 months"
+                ],
+                "general_review_title": "Sage Intacct has allowed us to automate the entire scholarship process",
+                "general_review": "The grant application process is much faster and more efficient thanks to Sage Intacct. There are many activities that we can now perform automatically that we previously had to do on paper, saving us not only time but also resources.",
+                "pros": "I love it because I can access the system not only from the computer, but also because it has a very complete mobile version. The pre-qualified applicants function saves us a lot of time, because the system automatically eliminates applications that do not meet the scholarship requirements. It has the option to export PDF and Excel files to share with administrators and collaborators. All schools, companies and entities that grant scholarships, I recommend this software, because it helps a lot to improve the whole system, taking it to the automatic and online form, incorporating all the information from a single system, improving the search of data from the participants and the whole system itself. ",
+                "cons": "Its learning curve is a bit high, however, everything learned so far has been very useful. The software is not very intuitive, which further complicates the ability to fully automate grants quickly. Sometimes the system is cumbersome and you have to wait a period of time for it to restart.",
+                "index": 1
+            },
+            {
+                "reviewer_name": "Yonatan ",
+                "reviewer_info": [
+                    "Company size: 11-50 employees",
+                    "Industry: Accounting",
+                    "Time used: Less than 12 months"
+                ],
+                "general_review_title": "\"Incredible Bookkeeping Framework, yet for certain limits\"",
+                "general_review": "We are certainly saving time with Intacct. It is such a lot of smoother and speedier to utilize. The web based programming is so natural to utilize contrasted with a program. ",
+                "pros": "I like how clients can't compel things to function like in QuickBooks. In the event that the rec doesn't adjust, they need to sort it out. Likewise, there's additional revealing measurements and an unbending diagram of records so the clients can't make their own records. ",
+                "cons": "The announcing needs a ton of work. There are such countless measurements that exist in this product that you can't run a report on. There likewise is by all accounts a decent lot of glitches and mistakes. ",
+                "index": 2
+            },
+            {
+                "reviewer_name": "Muhammad ",
+                "reviewer_info": [
+                    "Company size: 501-1,000 employees",
+                    "Industry: Financial Services",
+                    "Time used: More than 2 years"
+                ],
+                "general_review_title": "Fantastic Accounting System",
+                "general_review": "Sage Intacct is complete accounting software, it is cloud-based therefore one can access and work from any where.  It automates all accounting tasks including management of account receivable, account payable, inventory, expenses for small and medium size companies.  It is more demanding software because of financial statement and financial analysis features.",
+                "pros": "Sage Intacct is complete cloud-based accounting system, mobile app is also available.  It is best for financial reporting and financial analysis.  It also enables multi currency consolidation accounting.  Account receivable, account payable, expense tracking, and inventory are well managed here.",
+                "cons": "Sage Intacct is not easy software for those who have insufficient knowledge of accounting.  It may be intuitive and easy to navigate.  Sometimes it gets glitch or error.  I wish if it could be proper B2B software integrated with banks for making payments.",
+                "index": 3
+            },
+            {
+                "reviewer_name": "Emilee ",
+                "reviewer_info": [
+                    "Company size: 2-10 employees",
+                    "Industry: Accounting",
+                    "Time used: More than 2 years"
+                ],
+                "general_review_title": "Sage Intacct",
+                "general_review": "I think that Sage Intacct is a decent accounting software to use for daily accounting activity. However, there is more affordable accounting software available. ",
+                "pros": "While working in the cannabis industry, this was one of the only accounting software companies who were willing to work with us to set up an accurate and efficient accounting system. ",
+                "cons": "We had issues correcting errors after the initial setup. For example, a coworker misspelled the class code \"cannabis\" and the implementation team told us it would take several thousand dollars to fix.",
+                "index": 4
+            }
+        ],
+        "overall_raiting": "4.16",
+        "secondary_raiting": {
+            "ease_of_use": "4",
+            "customer_support": "4",
+            "value_for_money": "4",
+            "functionality": "4"
+        },
+        "website": "https://www.sageintacct.com/"
+    },
+    {
+        "profile": "https://www.softwareadvice.com/accounting/sage-300c-profile/",
+        "name": "Sage 300cloud",
+        "logo": "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/7112afb8-9da1-4831-b7e3-5155aed46e56.jpeg?fit=max&w=104&fm=png&auto=format",
+        "images": [
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/62dda026-03c2-4890-a5f5-4d627469767b.png",
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/62dda026-03c2-4890-a5f5-4d627469767b.png",
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/b8f1718a-4436-48be-aced-0b42aa6ad991.png",
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/89cde34d-7a75-458f-a93f-a960c3b63518.png",
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/1d93224a-fc62-4122-8acb-25f6728bf08c.png"
+        ],
+        "description": "Sage 300cloud (formerly Sage Accpac) is an enterprise resource planning (ERP) software system that serves small and medium-size businesses in professional services, financial services, public sector, and other markets such as distribution and wholesale. The system supports multinational business finance management, with support for multiple currencies and locations. Users can manage multiple companies with features to close books and report results by company or consolidated company.",
+        "pricing": {
+            "general": "None",
+            "starting_price": "None",
+            "free_trial": "None",
+            "free_version": "None"
+        },
+        "reviews": [
+            {
+                "reviewer_name": "Anonymous",
+                "reviewer_info": [
+                    "Company size: 11-50 employees",
+                    "Unknown",
+                    "Time used: More than 2 years"
+                ],
+                "general_review_title": "None",
+                "general_review": "None",
+                "pros": "This is a great tool to have for a smaller company.  It's very efficient in tracking any accounting. ",
+                "cons": "The least thing I like is the time it takes to communicate to other programs that it is supposed to be compatible with... ",
+                "index": 0
+            },
+            {
+                "reviewer_name": "Michael ",
+                "reviewer_info": [
+                    "Company size: 11-50 employees",
+                    "Industry: Consumer Goods",
+                    "Time used: More than 2 years"
+                ],
+                "general_review_title": "Fustrations",
+                "general_review": "Not used",
+                "pros": "Wide arrange of functionality. Data is well protected from wandering fingers.  Security seems good as well. A solid platform that rarely has issues",
+                "cons": "Lack of systems administrator training, outside of the use of your consultant. Little to no self-learning of the real nuts and bolts of the system. The consultant tells me it is to complex to learn that way.  This is incorrect I can learn Microsoft SQL that way, the possibility of being way more complex. Data tables are old in structure and hard to function with. For example, I have to use address line 4 for emails because the email field is in a different table.  Shipping software integration can read from both.  Expensive website integration because of the complexity and lack of standards in the SQL database. It can get expensive because many things require expert assistance and new modules. It does lack the ease of use for retail sales. Opening modules can be slow.",
+                "index": 1
+            },
+            {
+                "reviewer_name": "angele ",
+                "reviewer_info": [
+                    "Company size: 51-200 employees",
+                    "Industry: Recreational Facilities and Services",
+                    "Time used: More than 2 years"
+                ],
+                "general_review_title": "Sage- Manage your inventory",
+                "general_review": "At first we had to be trained and it took a couple of days to get savvy on this and that is normal. This product was quite helpful during the stock taking process as we now had the ability to see what our usage was like and took a really short time, which normally would have taken a couple of  days to complete.  It also assist us in the Procurement process. We are able to manage our spending more efficiently. ",
+                "pros": "We use this software to manage our inventory. We have totally happy with this as the different departments which are not in the same area, can order, approve and have our Stores Department deliver with no hiccups. It also advises when items need to be reordered. Our Stock taking process and audit is so much more efficient with this software. ",
+                "cons": "I would say that we do not have much issues other that you need to have the correct name of the item you are ordering. Once you become familiar with your stock it is much more manageable.",
+                "index": 2
+            },
+            {
+                "reviewer_name": "Kenatu ",
+                "reviewer_info": [
+                    "Company size: 51-200 employees",
+                    "Industry: Government Administration",
+                    "Time used: Less than 6 months"
+                ],
+                "general_review_title": "Getting the Most out of your (ACCPAC) Implementation",
+                "general_review": "SAGE 300 ERP Accounting (ACCPAC) is on of the simplest accounting platforms to use out there; however, make sure you have proper guidance when setting up your source files; messing those up or not setting them the way you want exactly upfront can be a real pain when it comes to getting your financial reports.  Also make sure to enter all required fields - it won't tell you what all of those are until you see gaps in your data on the financial reports. Hardware requirements won't break the bank and its a simple client-server installation that most can do in their sleep. Training can be accomplished in a few days to a matter of hours depending on your skill level (acumen).  The standard package is your GL, AP,  AR and your SM.  If you have those you are ready to run your business. Add the PO module and you can deal with purchasing as well. This application is for small to medium size businesses.  If you reach fortune 500 status or have more than 20 users start looking else where or be prepared to purchase a mega load of third party add-ons. ",
+                "pros": "Easy to use  Simple hardware requirements  Semi-decent financial reports out of the box  ",
+                "cons": "After 20 concurrent users, cost of ownership becomes pricey  To get enterprise level controls and process flow - you must purchase third party add-ons.  Not enough levels of security for larger accounting departments  No built in auditing - third party add-on required",
+                "index": 3
+            },
+            {
+                "reviewer_name": "Odaine ",
+                "reviewer_info": [
+                    "Company size: 51-200 employees",
+                    "Industry: Pharmaceuticals",
+                    "Time used: More than 2 years"
+                ],
+                "general_review_title": "Supreme Chemicals Limited Accounts ",
+                "general_review": "We currently use it for Accounts Payables/Receivables/Bank Recon and to produce Invoices.  Overall the software is easy to learn, pending issues within the software itself; however, it is a relatively nicely developed product that has the potential to do so much more!",
+                "pros": "I like the potential the software has; my issue is that my company has not paid for all the relevant applicable features and as such the software has not been utilized to its full capacity and thus makes some aspects/modules harder to deal with. (Integration).  The Accounts Receivables Modules are perfect!",
+                "cons": "The Accounts Payables modules: does not allow for proper vendor account viewing (Cannot open an account to see details such as in Accounts Receivables). (Payment schedules are haphazard to use as it does not allow for flexibility).  Do not like the Bank Recon Module at all!",
+                "index": 4
+            }
+        ],
+        "overall_raiting": "3.94",
+        "secondary_raiting": {
+            "ease_of_use": "3.5",
+            "customer_support": "4",
+            "value_for_money": "3.5",
+            "functionality": "4"
+        },
+        "website": "http://www.sage.com/us/erp/sage-300"
+    },
+    {
+        "profile": "https://www.softwareadvice.com/accounting/sage-mas-500-profile/",
+        "name": "Sage 500",
+        "logo": "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/59de54b7-f701-4e34-8bf8-2bb41bbb56c0.jpeg?fit=max&w=104&fm=png&auto=format",
+        "images": [
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/3d859d6a-54ef-4316-b4f1-ef6290a097f7.jpeg"
+        ],
+        "description": "Sage 500 is a cloud-based ERP solution that offers companies tools for distribution and supply chain, manufacturing and accounting and finance. The ERP financials module offers users tools such as general ledger, accounts parable/receivable, cash management, purchase orders and more. The distribution and supply chain management offers inventory management, purchase orders, sales orders, payment processing, warehouse management and more.",
+        "pricing": {
+            "general": "None",
+            "starting_price": "$52.00 ",
+            "free_trial": "Available",
+            "free_version": "Not Available"
+        },
+        "reviews": [
+            {
+                "reviewer_name": "Binu ",
+                "reviewer_info": [
+                    "Company size: 10,000+ employees",
+                    "Industry: Automotive",
+                    "Time used: Less than 6 months"
+                ],
+                "general_review_title": "None",
+                "general_review": "None",
+                "pros": "three way match is very easy for po based invoices",
+                "cons": "Manual posting is difficult to track back",
+                "index": 0
+            },
+            {
+                "reviewer_name": "Anonymous",
+                "reviewer_info": [
+                    "Company size: 501-1,000 employees",
+                    "Unknown",
+                    "Time used: More than 2 years"
+                ],
+                "general_review_title": "None",
+                "general_review": "None",
+                "pros": "Ease of Use Low operating cost  Very robust, keeps running ",
+                "cons": "Little improvement in software Too many other competing products from parent company",
+                "index": 1
+            }
+        ],
+        "overall_raiting": "4.00",
+        "secondary_raiting": {
+            "ease_of_use": "4.5",
+            "customer_support": "4",
+            "value_for_money": "4.5",
+            "functionality": "4"
+        },
+        "website": "https://www.sage.com/en-us/products/sage-500/"
+    },
+    {
+        "profile": "https://www.softwareadvice.com/accounting/sage-mas-90-200-profile/",
+        "name": "Sage 100",
+        "logo": "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/2c74acc4-2ca0-4dbe-9870-1216e0dba010.jpeg?fit=max&w=104&fm=png&auto=format",
+        "images": [
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/900b4105-56dc-4139-91a9-150f543d555f.png",
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/900b4105-56dc-4139-91a9-150f543d555f.png",
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/8f363d5a-fa4d-42c4-b4fd-7c85cc2cb803.png",
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/111c6e85-f75e-478d-b223-3ac25183462b.png",
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/146156e7-9db3-4866-b7ca-50d7abddc910.png"
+        ],
+        "description": "Sage 100 is a cloud-connected ERP platform (Enterprise Resource Planning) for medium-sized manufacturers, distributors, and professional service companies. Finance, budgeting, planning, inventory, supply chain, production management, reporting, and CRM are all part of the functional solution.",
+        "pricing": {
+            "general": "None",
+            "starting_price": "None",
+            "free_trial": "None",
+            "free_version": "None"
+        },
+        "reviews": [
+            {
+                "reviewer_name": "Angelo ",
+                "reviewer_info": [
+                    "Unknown",
+                    "Unknown",
+                    "Time used: More than 2 years"
+                ],
+                "general_review_title": "None",
+                "general_review": "None",
+                "pros": "The integrity of the system is undoubtedly the best part of it, apart from the financial analysis tools.",
+                "cons": "The least I like is that it does not have several languages only English, it would be good to add other languages.",
+                "index": 0
+            },
+            {
+                "reviewer_name": "Tod ",
+                "reviewer_info": [
+                    "Company size: 51-200 employees",
+                    "Industry: Electrical/Electronic Manufacturing",
+                    "Time used: Less than 2 years"
+                ],
+                "general_review_title": "MAS90 - Windows - Sage 100",
+                "general_review": "Custom reports are tricky in that some modules do not \"play in the same sandbox\" as other modules.",
+                "pros": "Once you get a sound understanding of the modules, it is fairly easy to sort and find information and to product some reports.",
+                "cons": "MAS90 was a pre-Windows software that had limits, but was workable.  Then MAS90 was sold and given a facelift to become Sage 100.  Sage 100 is basically a format, presentation and color change from MAS90.  I used MAS90 25 years ago and learned some of the shortcuts after going to the State of the Art University.  When I left the company that used MAS90, within a short time something happened to the business world:  Windows.  Now 25 years later and after several versions and upgrades of Windows, I am once again working with MAS90 behind the mask of SAGE 100.  It is not like revisiting an old friend, but an old motel that are still using the same bedding.  The training that I received did help make the reintroduction easier.  It is ironic that several times in the search bar of Sage 100 it even refers to \"MAS90.\"  None-the-less as noted the Windows rise and dominance came into the mainstream if not becoming the stream of business.  The tough thing is that MAS90 did not change with a Windows feel when it was altered into Sage 100.  Frankly, it is most frustrating to jump from Outlook, Word, Excel then to Sage 100.  Something as easy as hitting \"enter\" or \"tab\" in Sage 100 will cause redundancy in keying and wasted time.  The answer is simple, the user MUST have a passion for selecting or clicking the left mouse button and consciously shifting their thinking from 2019 back to 1994 when ever they enter the world of Sage 100.",
+                "index": 1
+            },
+            {
+                "reviewer_name": "Kathryn ",
+                "reviewer_info": [
+                    "Company size: 11-50 employees",
+                    "Industry: Construction",
+                    "Time used: More than 2 years"
+                ],
+                "general_review_title": "waiting for many enhancements Sage 100 Contractor",
+                "general_review": "been a struggle and had to create many manual systems outside the software to operate and manage the business",
+                "pros": "covers all the basic functions",
+                "cons": "missing many key functions, has too many restricted areas that need to be more user-friendly, that were not designed by real life users",
+                "index": 2
+            },
+            {
+                "reviewer_name": "Chris ",
+                "reviewer_info": [
+                    "Company size: 51-200 employees",
+                    "Industry: Facilities Services",
+                    "Time used: More than 2 years"
+                ],
+                "general_review_title": "Long Time User",
+                "general_review": "Customer support is usually goo",
+                "pros": "The day to day use of the software works well",
+                "cons": "Every time we update the software or move to a new version, we have glitches and have to call for support. It's also harder now to make custom reports for payroll (since it is a stand alone module)",
+                "index": 3
+            },
+            {
+                "reviewer_name": "Tracy ",
+                "reviewer_info": [
+                    "Company size: 51-200 employees",
+                    "Industry: Machinery",
+                    "Time used: More than 2 years"
+                ],
+                "general_review_title": "None",
+                "general_review": "None",
+                "pros": "All the modules are set up the same.  We have 8 modules and the set up is the same style.  ",
+                "cons": "Reporting could be easier.  They are moving to crystal reports and being able to export from each module but they are not there yet.  Attaching tables is a pain to deal with.",
+                "index": 4
+            }
+        ],
+        "overall_raiting": "4.05",
+        "secondary_raiting": {
+            "ease_of_use": "4",
+            "customer_support": "3.5",
+            "value_for_money": "3.5",
+            "functionality": "4"
+        },
+        "website": "https://www.sage.com/en-us/products/sage-100cloud/"
+    },
+    {
+        "profile": "https://www.softwareadvice.com/accounting/flexi-profile/",
+        "name": "Flexi Software",
+        "logo": "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/3c3e785e-467c-4fad-ab87-38fcf00553df.png?fit=max&w=104&fm=png&auto=format",
+        "images": [
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/3833cdd3-b618-4172-8713-ee936760f7cd.png",
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/3833cdd3-b618-4172-8713-ee936760f7cd.png",
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/e5876bfd-820c-4c47-ac21-40c78a19dffd.png",
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/7b8e6f9b-f49c-4cb0-bffa-b2e9228efe04.png",
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/bad92d44-0788-4625-933d-30e93a96d298.png",
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/24e3dc65-41b6-4ad1-964e-0c0153f3553b.png"
+        ],
+        "description": "Flexi\u2019s accounting software for business is ideal for companies seeking an enterprise-strength platform, but with the flexibility and personalized support rarely offered by enterprise vendors. Flexi\u2019s solutions have been battle-tested for over 30 years, powering leading brands around the world in industries like banking, insurance, and healthcare where security and performance are paramount. Flexi Software is ideal for complex accounting environments, with features that enable: \u2022Multi-entity consolidation \u2022Multi-book accounting \u2022Daily close capabilities \u2022Built-in compliance and audit controls \u2022Workflow automation \u2022Global currency conversion \u2022Real-time, advanced reporting \u2022Integration with any third-party system",
+        "pricing": {
+            "general": "None",
+            "starting_price": "None",
+            "free_trial": "None",
+            "free_version": "None"
+        },
+        "reviews": [
+            {
+                "reviewer_name": "Anna ",
+                "reviewer_info": [
+                    "Company size: 11-50 employees",
+                    "Industry: Hospitality",
+                    "Time used: Less than 6 months"
+                ],
+                "general_review_title": "None",
+                "general_review": "None",
+                "pros": "This software is really paying for itself.  I have never owned a more flexible sign making software.  The design help that is offered is unsurpassed.  I encourage anyone looking for a creative, design solution for their signs to purchase this product!",
+                "cons": "None",
+                "index": 0
+            },
+            {
+                "reviewer_name": "liane ",
+                "reviewer_info": [
+                    "Company size: 201-500 employees",
+                    "Industry: Civic & Social Organization",
+                    "Time used: Less than 6 months"
+                ],
+                "general_review_title": "Easy to use and easy to navigate",
+                "general_review": "Great product with exceptional navigation. People friendly for all to use!!",
+                "pros": "very easy to use, people friendly product",
+                "cons": "n/A",
+                "index": 1
+            },
+            {
+                "reviewer_name": "Mylene ",
+                "reviewer_info": [
+                    "Company size: 11-50 employees",
+                    "Industry: Computer Software",
+                    "Time used: Less than 12 months"
+                ],
+                "general_review_title": "None",
+                "general_review": "None",
+                "pros": "This software is very helpful for those company who are running their ads and campaign.  Making signage is very tedious work especially in signing and design. ",
+                "cons": "Check the integration and compatibility of your existing printing machinery before planning to purchase. Make sure to talk and ask your local partner.",
+                "index": 2
+            },
+            {
+                "reviewer_name": "AIJELENE ",
+                "reviewer_info": [
+                    "Company size: 201-500 employees",
+                    "Unknown",
+                    "Time used: Less than 6 months"
+                ],
+                "general_review_title": "None",
+                "general_review": "None",
+                "pros": "I guess this software would be the answer to every accounting personel's problem. As this will make their life easier. This will push them to bid goodbye to manual generation of reports because it offers real-time visibility of audit trails and financial reports.",
+                "cons": "Contrary on the name of this software, flexi, this is a not so flexible software for everyone. Because this will only be compatible for companies which focuses more on accounting-based services.",
+                "index": 3
+            },
+            {
+                "reviewer_name": "MARQUIS ",
+                "reviewer_info": [
+                    "Company size: 51-200 employees",
+                    "Industry: Philanthropy",
+                    "Time used: Less than 6 months"
+                ],
+                "general_review_title": "Excellent Software Product",
+                "general_review": "This software is excellent and helped my organization.",
+                "pros": "The functionality is awesome!",
+                "cons": "No cons",
+                "index": 4
+            }
+        ],
+        "overall_raiting": "4.40",
+        "secondary_raiting": {
+            "ease_of_use": "4.5",
+            "customer_support": "4.5",
+            "value_for_money": "5",
+            "functionality": "4.5"
+        },
+        "website": "http://www.flexi.com"
+    },
+    {
+        "profile": "https://www.softwareadvice.com/accounting/bizautomation-accounting-profile/",
+        "name": "Cloud ERP",
+        "logo": "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/4f92771f-2d47-4e71-93ae-fa5c423cc583.png?fit=max&w=104&fm=png&auto=format",
+        "images": [
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/d4444cf0-59c3-42a1-95b4-0f511922b547.png",
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/d4444cf0-59c3-42a1-95b4-0f511922b547.png",
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/dccaf841-b188-4508-b661-e9a0aead6517.png",
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/fd43f37c-5bf2-4dd3-b75e-1d743ccc403d.png",
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/12ba20ad-29d2-4833-ae89-61b7757090b9.png",
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/a71776b5-88b1-4b24-a9b7-2d0b046062d8.png"
+        ],
+        "description": "Bizautomation offers cloud-based ERP for smaller SMBs. Functionality includes accounting, order management, inventory, customer relationship management (CRM), sales commissions, e-commerce (including a business portal), purchase planning, and project management. Bizautomation Cloud ERP is primarily designed for smaller wholesalers / distributors, retail businesses and organizations with simple manufacturing needs. The software is priced on a per-user, per-month basis.",
+        "pricing": {
+            "general": "$79.95 per user / month (5-pack to start. Add single users as needed.)",
+            "starting_price": "$79.95 per month",
+            "free_trial": "Available",
+            "free_version": "Not Available"
+        },
+        "reviews": [
+            {
+                "reviewer_name": "Elizabeth Jenkins ",
+                "reviewer_info": [
+                    "Unknown",
+                    "Industry: Consumer Goods",
+                    "Time used: Less than 12 months"
+                ],
+                "general_review_title": "Moving to BizAutomation from QuickBooks Enterprise was a leap of faith necessary for growth!",
+                "general_review": "Ability to customize data input so that we can extract and parse to use in forecasting and planning",
+                "pros": "Without a doubt the best feature of this software is the attention we got from the actual employees of the company, including some actual source code enhancements, that would never have happened at a big software company. We new that we needed to move from QuickBooks and could not afford some of the bigger players in the market, so we took a leap of faith based on what we saw as potential from BizAutomation. As with all software implementation - our move was not without some pain, but we truly appreciate the willingness of the company to take the time to listen to our needs and make improvements and modifications based on our business practice.  We believe that Biz is the right system to provide the organization, information and access of information we need for our company to continue to grow",
+                "cons": "The company is small and does not offer 24/7 customer support - but that said, they are very accessible and willing to do what is necessary even in \"off-hours\"",
+                "index": 0
+            },
+            {
+                "reviewer_name": "Chance ",
+                "reviewer_info": [
+                    "Company size: 2-10 employees",
+                    "Industry: Computer Software",
+                    "Time used: Less than 2 years"
+                ],
+                "general_review_title": "Perfect Solution for an SMB. Has the right features and functions with the right price!",
+                "general_review": "You get a very strong and modern true cloud ERP solution for a fraction of the cost of NetSuite, Acumatica, SAP Business One or Sage",
+                "pros": "The user interface is nice and modern, coupled with a customizable dashboard. Strong accounting, solid inventory control, great E-commerce and decent CRM. This solution hits the sweet spot for SMBs. Either they are outgrowing their current Quickbooks integrated with multiple other software solutions to get something similar to an ERP or those businesses have a ERP and that ERP is way too much for where they are at. The price is really high, and have more functions and features than they need.    BizAutomation is perfect for those that are caught in between! ",
+                "cons": "It is a young software and has not matured yet, so in time these \"least\" comments will be addressed in the near future.    If you have any proprietary software or other platforms that will be integrated, chances are it has not been done. Expect customization (not nearly as costly as you think). Reporting is not their strong suit and have been told they are working on an upgrade. Not for businesses that have subsidiaries, although that too is being added. ",
+                "index": 1
+            },
+            {
+                "reviewer_name": "Shovon ",
+                "reviewer_info": [
+                    "Company size: 501-1,000 employees",
+                    "Industry: Consumer Goods",
+                    "Time used: Less than 6 months"
+                ],
+                "general_review_title": "None",
+                "general_review": "None",
+                "pros": "This CRM is ok for a small organization where you want to keep things in one plate and manage everything with one platform. As there are majority of requirements available in one place, integration became easy. With this a small company can manage Majority of tasks related to Accounting, Sales, Inventory management etc. as well as can view reports.",
+                "cons": "Kind of a old fashioned interface for which sometimes it feels complicated. Also based on now a days different software, it could be more clean as most of softwares are. ",
+                "index": 2
+            },
+            {
+                "reviewer_name": "Rajesh ",
+                "reviewer_info": [
+                    "Company size: 51-200 employees",
+                    "Industry: Computer Software",
+                    "Time used: More than 2 years"
+                ],
+                "general_review_title": "Comprehensive solution from a Small-Tech ERP company",
+                "general_review": "As you'd expect from my glowing overview, I'm quite pleased, and of course, recommend this to any larger small business. Fair warning - If you're not growing or most of your employees are Tech Luddites, stay with Excel (In which you likely have bigger problems than ERP software).",
+                "pros": "What I liked most is how flexible they were during the implementation process. One of my biggest complaints in dealing with Big-Tech ERP (no names to protect the guilty) is how everything gets nickel and dimed after the contract is signed, and money is exchanged. Sure, I'm not the one writing the checks, but I feel for clients in this predicament. Not the case here. ",
+                "cons": "The only thing I can think of is that like any solution this powerful, it takes time to get to know the ins and outs of the suite. The payoff is worth it, however.",
+                "index": 3
+            },
+            {
+                "reviewer_name": "Brad ",
+                "reviewer_info": [
+                    "Company size: 11-50 employees",
+                    "Industry: Construction",
+                    "Time used: Less than 12 months"
+                ],
+                "general_review_title": "Impressive Software That's Actually Affordable for Small Businesses",
+                "general_review": "Very impressed with their product and their service!",
+                "pros": "I looked at and demoed several other systems from larger, maybe more well known software companies. Although BizAutomation may be a smaller software company in comparison of size, they certainly were every bit as capable in delivering the same features based on the demos they gave us.  I was very impressed in terms of what they could provide us vs the larger software vendors.  I\u2019m sure those companies offer some features that BizAutomation, but BizAutomation offered features that the competition couldn't.  BizAutomation met every need we asked of it for a significantly smaller cost, and the customer service is second to none.  Very impressed with their product and their service!",
+                "cons": "I don\u2019t really have anything negative to say. If I were being nitpicky, I might would say that we had some performance slowness one day for a few hours, but those were resolved quickly and we never had another instance of that.  I asked and was told that this is something they monitor and when hardware gets saturated they upgrade which makes sense.",
+                "index": 4
+            }
+        ],
+        "overall_raiting": "4.86",
+        "secondary_raiting": {
+            "ease_of_use": "4.5",
+            "customer_support": "5",
+            "value_for_money": "5",
+            "functionality": "5"
+        },
+        "website": "https://www.bizautomation.com/"
+    },
+    {
+        "profile": "https://www.softwareadvice.com/accounting/multiview-enterprise-profile/",
+        "name": "Multiview ERP",
+        "logo": "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/0b9a7adf-19f0-4a29-adba-bb3630b70ef9.png?fit=max&w=104&fm=png&auto=format",
+        "images": [
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/d06d9ba0-ae5c-49c3-b074-f0fa8e5f28d1.png",
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/d06d9ba0-ae5c-49c3-b074-f0fa8e5f28d1.png",
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/ecbfb6f3-852e-46ac-bbf9-c9a174022775.png",
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/e893006d-b4b8-42b2-96de-8444a02c652f.png",
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/40c74df2-978d-4ab1-953d-790a44649bd8.png",
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/208f085d-c4c4-4c49-bb04-6afaf355bc26.png",
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/4dcca0e5-86d1-4191-bd25-39cffffa7994.png"
+        ],
+        "description": "Multiview Financials is the flagship ERP system developed, sold, implemented, and supported by Multiview Financial Software. Multiview is designed for organizations ranging in size from rapidly growing small businesses to large enterprises across North America.",
+        "pricing": {
+            "general": "None",
+            "starting_price": "None",
+            "free_trial": "None",
+            "free_version": "None"
+        },
+        "reviews": [
+            {
+                "reviewer_name": "Brian ",
+                "reviewer_info": [
+                    "Company size: 11-50 employees",
+                    "Industry: Insurance",
+                    "Time used: Less than 12 months"
+                ],
+                "general_review_title": "Multiview - In Implementation currently we have not hit any markers",
+                "general_review": "Initially the sales pitch was a bit pushy to purchase on a quarter ending.  In hindsight that was due to a sales person knowing they were leaving {they left}, but the company made good on their initial items.  The implementation team did not address properly our 4 items that were critical for our needs.  Approx 12 months later our business analyst wrote up a quick 2 to 4 page document for them and reshared documents we provided their staff in the first couple of months of the project.    It appears that \"yes\" was the answer to can we do it.  However they did not vet that \"yes\" properly.   Their service overall was fine, main person kept pushing off the key items for \"later\" which is normally a red flag.  They asked if we would go live without those items and we declined for a # of reasons.    Later they asked if we would consider paying some additional cost to achieve them; we initially said no; then said we would if this would finalize it. {They set the offer on that}.   The Virus then hit; and was then told that we might need 10x's that initial offer they set.  We obviously said that is not reasonable.    For us the jury is still out on whether or not they will make good.   Their system appears to be good for all the basic accounting items; it is a bit large to configure but base system is good.   At this point the ball is in their court to finalize what was promised.  We are optimistic that they will do that.  The needs we have are industry specific not our company.  TBD",
+                "pros": "Promised scalability Promised dynamic report Promised solution a few issues we have with \"general\" accounting software",
+                "cons": "Implementation time has not been met Lack of communication over some of the solutions to the problems Different people brought in on the project that are new and lack the understanding The managing of the key items, waiting and then the back and forth on how.    We can't finalize the final con's til this is done but we will post again then.    We believe they will step up, it is trying times but everyone is in this together. ",
+                "index": 0
+            },
+            {
+                "reviewer_name": "Brandi ",
+                "reviewer_info": [
+                    "Unknown",
+                    "Industry: Banking",
+                    "Time used: Less than 6 months"
+                ],
+                "general_review_title": "None",
+                "general_review": "None",
+                "pros": "Purchasing a new accounting software can be a little intimidating.  The staff at Multiview made the experience painless and left our accounting staff feeling confident in our decision.  Everyone we talked to had extensive knowledge of accounting.  Our sales contact was also a member of the implementation team prior to changing roles so she was able to answer all of our questions!!  The software had everything we were looking for and there was no additional programming needed to accommodate our needs.  ",
+                "cons": "No complaints so far! It has been a lot of work but the staff has helped us along the way.",
+                "index": 1
+            },
+            {
+                "reviewer_name": "Theresa ",
+                "reviewer_info": [
+                    "Unknown",
+                    "Unknown",
+                    "Time used: Free Trial"
+                ],
+                "general_review_title": "Multiview is excellent choice for Accounting software partners",
+                "general_review": "Our selection of Multiview 4 years ago was an excellent decision for us.   They have a superior product, and expert staff who implement it.  The implementation process was a good experience.  Since we have been operating on Multiview now for quite some now, the excellent first impression, has only grown.  The upgrades to the software are valuable, and developed through thoughtful listening and feedback from users.  Upgrades are true and measurable improvements for the user.   The staff are responsive, and fun to work with.  Most of all, I enjoy working in Multiview every day, all day.  5 stars!",
+                "pros": "None",
+                "cons": "None",
+                "index": 2
+            },
+            {
+                "reviewer_name": "Debbie ",
+                "reviewer_info": [
+                    "Unknown",
+                    "Unknown",
+                    "Time used: Free Trial"
+                ],
+                "general_review_title": "Multiview Financial Software ",
+                "general_review": "I have worked with Multiview software for over 15 years and have never been disappointed in the product or the service. Multiview provides a quality product for an extremely affordable price. The product is very customizable and Multiview has always found a way to intergrate with our in house systems to aid in our business solutions.  The customer service is by far the best I have ever encountered. The customer support team is responsive, knowledgeable, and timely. They listen to the needs of the customer and provide quality responses. I would highly recommend Multiview Financial Software.",
+                "pros": "None",
+                "cons": "None",
+                "index": 3
+            },
+            {
+                "reviewer_name": "Brenda ",
+                "reviewer_info": [
+                    "Company size: 1 employee",
+                    "Unknown",
+                    "Time used: Less than 6 months"
+                ],
+                "general_review_title": "None",
+                "general_review": "None",
+                "pros": "It is highly customizable and able to suit the specific nuances of our business.",
+                "cons": "It can be a little glitchy at times, but this isn't a big deal because customer support is able to resolve issues right away.",
+                "index": 4
+            },
+            {
+                "reviewer_name": "Vicki ",
+                "reviewer_info": [
+                    "Unknown",
+                    "Industry: Civic & Social Organization",
+                    "Time used: Less than 2 years"
+                ],
+                "general_review_title": "None",
+                "general_review": "None",
+                "pros": "This product has greatly improved my work flow and enjoyment. Features I like best include the search options that can be performed on a multitude of items such as an amount, invoice number, key word, etc. Another great feature is the easy functionality of customizable pivot tables. The customer service I have received has also been incredibly remarkable. Timely answers and solutions to any problems encountered have added to my appreciation of this wonderful product.",
+                "cons": "I feel certain that this software has fantastic functionality that I have yet to learn. I have been unable to attend a user meeting as traveling to Canada is difficult and costly from Texas.",
+                "index": 5
+            },
+            {
+                "reviewer_name": "Bob ",
+                "reviewer_info": [
+                    "Company size: 51-200 employees",
+                    "Industry: Accounting",
+                    "Time used: Less than 2 years"
+                ],
+                "general_review_title": "None",
+                "general_review": "None",
+                "pros": "Browser based application eliminating the need for messy local installations and roll-outs to end users.",
+                "cons": "Creating custom reports can sometimes be confusing and difficult, but the support for building these reports often makes up.",
+                "index": 6
+            },
+            {
+                "reviewer_name": "Sundeep ",
+                "reviewer_info": [
+                    "Unknown",
+                    "Unknown",
+                    "Time used: Less than 12 months"
+                ],
+                "general_review_title": "Unique accouting and reporting needs",
+                "general_review": "Obtaining customizable reports.",
+                "pros": "It is highly customizable and able to suit the specific nuances of our business.  Features I like best include the search options that can be performed on a multitude of items such as an amount, invoice number, key word, etc",
+                "cons": "It can be a little glitchy at times, but this isn't a big deal because customer support is able to resolve issues right away.",
+                "index": 7
+            },
+            {
+                "reviewer_name": "NABADAY ",
+                "reviewer_info": [
+                    "Company size: 2-10 employees",
+                    "Industry: Computer Software",
+                    "Time used: Free Trial"
+                ],
+                "general_review_title": "Goog Financial Solutions",
+                "general_review": "I would like to go for the support team.",
+                "pros": "Good financial solutions provider. Web-based application eliminating the need for complex local set up and roll-outs to users. ",
+                "cons": "They could make it easier for the user so that users don't need to go to the support team but the support team can handle it.",
+                "index": 8
+            },
+            {
+                "reviewer_name": "Ginger ",
+                "reviewer_info": [
+                    "Company size: 1,001-5,000 employees",
+                    "Industry: Retail",
+                    "Time used: Less than 6 months"
+                ],
+                "general_review_title": "None",
+                "general_review": "None",
+                "pros": "The basics are relatively easy to figure out without much guidance, but anything more involved often requires an outside consultant.",
+                "cons": "Setup is very involved and difficult, however, if it is done right, it is easy to navigate through.  Setting up security is somewhat complicated, but doable.",
+                "index": 9
+            }
+        ],
+        "overall_raiting": "4.40",
+        "secondary_raiting": {
+            "ease_of_use": "4.5",
+            "customer_support": "4.5",
+            "value_for_money": "4",
+            "functionality": "4.5"
+        },
+        "website": "https://multiviewcorp.com/product/"
+    },
+    {
+        "profile": "https://www.softwareadvice.com/accounting/budget-maestro-profile/",
+        "name": "Planning Maestro",
+        "logo": "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/0d184fe9-9136-44fb-aa0c-fadc15883a8a.png?fit=max&w=104&fm=png&auto=format",
+        "images": [
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/26c8f8b3-2e00-4ee4-a730-9928bc7b7158.png",
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/26c8f8b3-2e00-4ee4-a730-9928bc7b7158.png",
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/ca33f160-95cc-4de2-ade0-e5899f736d6c.png",
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/ed16b396-c1e5-4d4b-8dbc-e2d40caffd77.png",
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/c774e061-7acd-44f5-b621-2e39db032d88.png",
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/15f4ddf4-36e8-43cf-8f4e-4a32fed551d4.png"
+        ],
+        "description": "Centage\u2019s Planning Maestro is a cloud-native planning & analytics platform that delivers year-round financial insight, transforming how companies budget, forecast and report performance. Centage delivers a level of sophisticated financial intelligence typically only enjoyed by large enterprises, at a price point accessible for SMBs. Leveraging this financial intelligence, Planning Maestro synchronizes the P&L, the balance sheet, and the cash flow to ensure GAAP compliance. This offers the users not just a short-term view of the company\u2019s health, but a long term view of the financial health of a company.",
+        "pricing": {
+            "general": "None",
+            "starting_price": "$0.01 ",
+            "free_trial": "Not Available",
+            "free_version": "Not Available"
+        },
+        "reviews": [
+            {
+                "reviewer_name": "Shelly ",
+                "reviewer_info": [
+                    "Company size: 11-50 employees",
+                    "Industry: Wine and Spirits",
+                    "Time used: Less than 2 years"
+                ],
+                "general_review_title": "Excellent, Intuitive program",
+                "general_review": "The implementation of the product was smooth. The reporting capabilities of the program have exceeded my expectations. In addition, every person I've been in contact with at Centage has expert level knowledge of the program and any issues have been resolved immediately. ",
+                "pros": "The best part of this software are the drivers we use to manage our sales budget. We have several LLCs that are within this program. The ability to expand the way we create our budgets has given us greater insight into where we can save money.  The elimination of finding \"human error\" input in an excel budget has alleviated so much time. ",
+                "cons": "I have yet to find anything I don't like about this product. ",
+                "index": 0
+            },
+            {
+                "reviewer_name": "BJ ",
+                "reviewer_info": [
+                    "Company size: 51-200 employees",
+                    "Industry: Accounting",
+                    "Time used: More than 2 years"
+                ],
+                "general_review_title": "Planning Maestro",
+                "general_review": "Centage has been great to work with, from implementation to today, they have been a true partner on our budgeting and forecasting journey.  I've always been happy to recommend them and their software.   ",
+                "pros": "Planning Maestro brought a platform that allowed us to integrate into our existing accounting platform and create a structured environment we could use to refine our budgeting and forecasting process.     ",
+                "cons": "I don't have anything negative to say.  When I have run into issues with the software I have always reached out to Centage and we have found ways to incorporate what I need into the software.  ",
+                "index": 1
+            },
+            {
+                "reviewer_name": "Peter ",
+                "reviewer_info": [
+                    "Company size: 1,001-5,000 employees",
+                    "Industry: Environmental Services",
+                    "Time used: More than 2 years"
+                ],
+                "general_review_title": "Great product for M&A focused roll-ups and disparate companies",
+                "general_review": "Very pleased with how it has scaled for us as we grew from 6 locations to 55.  ",
+                "pros": "Cloud-based and scalable as we built out the company organically and through M&A",
+                "cons": "Some of the drivers are a bit tricky to understand.  ",
+                "index": 2
+            },
+            {
+                "reviewer_name": "James ",
+                "reviewer_info": [
+                    "Company size: 51-200 employees",
+                    "Industry: Religious Institutions",
+                    "Time used: More than 2 years"
+                ],
+                "general_review_title": "None",
+                "general_review": "None",
+                "pros": "We needed a budgeting package that would be (1) easy to learn and use for our end-users, (2) able to automatically integrate with 3rd party general ledgers and (3) provide a powerful set of customizable analytics and reporting tools.   Planning Maestro has successfully met all three requirements, and allowed us to provide more accurate budgets/forecasts/reporting with faster turn around. ",
+                "cons": "A common issues I have with multiple software vendors: Enhancements and usability improvements can take a long time to roll out. ",
+                "index": 3
+            },
+            {
+                "reviewer_name": "Brent ",
+                "reviewer_info": [
+                    "Unknown",
+                    "Unknown",
+                    "Time used: Free Trial"
+                ],
+                "general_review_title": "Overall solid business performance management software",
+                "general_review": "Solid business performance management software package.",
+                "pros": "1. Very powerful forecasting tool that can handle both simple and complex aspects of forecasting. Handles multiple departments, entities, and the consolidation of them with ease.  2. Very easy to import actual data in order to perform variance analysis.  3. Easy to import almost all information necessary to set up a \"plan\" the first time.  4. What-if analysis allows you to look at the financial impact of making changes in your business without having to change your primary \"plan\"  5. All reports can be exported to Excel  6. Report layouts can be customized.  7. Very easy to create a 5 year forecast that allows increase/decrease assumptions to be customized in numerous ways, and using as many timeframes as desired.  8. Handles lines of credit and term loans, both fixed and variable rate, very easily.",
+                "cons": "1. Can't run a statement of cash flows based on \"actual\" data, only on \"plan\" data.  2. Not very easy to run a \"plan\" balance sheet for a future year as a stand-alone report, must either start the report on a month just after you have \"actual\" data or create an \"actual/plan\" version that houses a combination of data so it can be used for beginning balances.  3. If using Desktop version, additional modules need to be purchased to handle pre-paid insurance automatically and forecast inventory.",
+                "index": 4
+            }
+        ],
+        "overall_raiting": "3.96",
+        "secondary_raiting": {
+            "ease_of_use": "4",
+            "customer_support": "4.5",
+            "value_for_money": "4",
+            "functionality": "4"
+        },
+        "website": "https://www.centage.com/products/planning-maestro/"
+    },
+    {
+        "profile": "https://www.softwareadvice.com/accounting/planguru-profile/",
+        "name": "PlanGuru",
+        "logo": "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/4606f369-3c2b-4d4b-85b8-95dc852825d6.png?fit=max&w=104&fm=png&auto=format",
+        "images": [
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/0ee29cbf-2acd-42af-8e95-9b223b12451c.png",
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/0ee29cbf-2acd-42af-8e95-9b223b12451c.png",
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/8d5888fc-aa82-489a-b5c9-8c4733841843.png",
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/57aef5a2-852f-466e-b395-79f44cfd5866.png",
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/7f70ca6b-7784-4cd0-8666-a435b2ac8e61.png",
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/28ee2173-bbec-4ff8-a81c-4fba01b38b6f.png",
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/c1778eed-9ae2-470a-80b2-eb86b646374d.png"
+        ],
+        "description": "PlanGuru is an on-premise business planning and budgeting solution for small businesses and nonprofits. The solution helps accountants to build financial forecasts, prepare budget analysis and address financial constraints of small businesses. PlanGuru offers a budgeting software which includes tools to create and manage income statements, balance sheets and cash flow statements. With more than 20 forecasting methods, businesses can analyze and forecast their financial requirements for any period up to 10 years.",
+        "pricing": {
+            "general": "None",
+            "starting_price": "$99.00 per month",
+            "free_trial": "Available",
+            "free_version": "Not Available"
+        },
+        "reviews": [
+            {
+                "reviewer_name": "Shelly ",
+                "reviewer_info": [
+                    "Company size: 11-50 employees",
+                    "Industry: Accounting",
+                    "Time used: More than 2 years"
+                ],
+                "general_review_title": "Plan Guru for financial consultants",
+                "general_review": "I've been able to help my clients create future plans and look at many what if scenarios and their affect on the balance sheet without having to worry about whether my formulas are correct in excel.",
+                "pros": "The flexibility of the application for creating multiple forecasts and budgets using a variety of assumptions and KPI's.  the use of excel to integrate and add additional flexibility to the program.  The subschedules allow multiple ways to forecast revenue and track other expenses.  the integration of the balance sheet and ability to see affect the forecast has on the balance sheet items.",
+                "cons": "Some lack of flexibility in reporting.  Lack of ability to print reports from analytics.",
+                "index": 0
+            },
+            {
+                "reviewer_name": "Jeff ",
+                "reviewer_info": [
+                    "Unknown",
+                    "Unknown",
+                    "Time used: Free Trial"
+                ],
+                "general_review_title": "Great value in cash flow planning",
+                "general_review": "Overall a great cash flow program for the price. it has many features that programs 10 times the price do not have.",
+                "pros": "Plan Guru is a straightforward application for generating cash flow statements. I have used the product since 2003, and have watched it evolve from a simple tool to a more sophisticated application. The company has been receptive to user requests such as increasing the size of database fields to allow larger numbers, adding supplementary schedules, and direct cash flow projections.    Some of the debt amortization wizards are very handy, providing current portion of LTD in addition to amortizing loan balances and interest charges.     They have also included some valuation and ratio analysis work papers that are very handy.    This is a small company (at least it operates as one) where you can actually talk to a real live person.    All in all, it is a very good application for the price.",
+                "cons": "The application occasionally will show some instability, but this has been vastly improved over earlier versions. There are recovery routines so most of the data is not lost. The crashes seem mostly due to print driver compatabilities. The developers are pretty good at fixing these issues.    Large, complicated formulas may run into size limits when calculating dollar outcomes. When this occurs, I have created interim formulas in a workbook to get to the final formula.    It's nice that the application has supplementary schedules for the P&L. However there are no such supporting schedules for the balance sheet. Much of the work I do is in the balance sheet. It would nice to have a supporting schedule that would clean up the balance sheet presentation.    The learning curve can be a little steep for the novice user. The application was developed by CPAs for CPAs, although this application is valuable for private companies.",
+                "index": 1
+            },
+            {
+                "reviewer_name": "Victor ",
+                "reviewer_info": [
+                    "Company size: 2-10 employees",
+                    "Industry: Real Estate",
+                    "Time used: Less than 6 months"
+                ],
+                "general_review_title": "Good product but far from the ideal Forecasting software",
+                "general_review": "Plan Guru is an excellent product, specially  considering that there are no products out there with this many features at this price level.  If you want to have the best products you will have to pay tens of thousands every year, ie. Budget Maestro.  However I think PG has some room for improvement, such as    1.- More flexibility in the automatization for the recording of Historical and actual values. Not even copy and paste is possible.  2.- Make it more friendly. PG can only be mastered by someone with a strong background in Finance  3.- Expand reporting capabilities and allow to export reports to excel with up the 36 months instead of only 12 mo.  4.- Develop a Mac version or a web version  5.- Develop Inventory module and allow for supporting schedule on the Balance sheet  6.- Flexibility in putting some values ( ie. interest expense) in the balance sheet for capitalization purposes",
+                "pros": "-Once you have all the numbers, projections are very fast and exact.  -Income Statement, Balance Sheet and Cash flow integration  -Links to excel files  ",
+                "cons": "- The link process is very long and tedious  - No possibility of using formulas in the actual and historical data  - Need an inventory module  - Need Supporting schedule for the Balance sheet   ",
+                "index": 2
+            },
+            {
+                "reviewer_name": "Mary ",
+                "reviewer_info": [
+                    "Company size: 1 employee",
+                    "Industry: Management Consulting",
+                    "Time used: More than 2 years"
+                ],
+                "general_review_title": "Great software ",
+                "general_review": "Overall I have great experience with Plan Guru and will recommend to other users. ",
+                "pros": "Ease to use, similar to excel format, good layout ",
+                "cons": "Not flexible on data assumptions on each year, not probably formulated on depreciation calculation ",
+                "index": 3
+            },
+            {
+                "reviewer_name": "Moira ",
+                "reviewer_info": [
+                    "Company size: 501-1,000 employees",
+                    "Industry: Accounting",
+                    "Time used: Less than 6 months"
+                ],
+                "general_review_title": "None",
+                "general_review": "None",
+                "pros": "PlanGuru is a wonderful tool that makes it extremely easy for small businesses to budget projects as well as determine how well the projects are doing. PlanGuru is extremely easy to use and integrate with software like Quickbooks. The customization of everything on plan Guru is immense and extremely flexible. Overall, PlanGuru is easy to use and wonderful to have.",
+                "cons": "PlanGuru lacks a couple of integrations that I would like to see implemented in the future.",
+                "index": 4
+            }
+        ],
+        "overall_raiting": "4.16",
+        "secondary_raiting": {
+            "ease_of_use": "4",
+            "customer_support": "4",
+            "value_for_money": "4",
+            "functionality": "4"
+        },
+        "website": "http://www.planguru.com/"
+    },
+    {
+        "profile": "https://www.softwareadvice.com/accounting/sage-fixed-assets-profile/",
+        "name": "Sage Fixed Assets",
+        "logo": "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/ad34f91d-5ee5-48de-9e62-4b58506fa86e.jpeg?fit=max&w=104&fm=png&auto=format",
+        "images": [
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/4c264e64-5250-4fd1-8ea9-83ccd28aed37.png",
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/4c264e64-5250-4fd1-8ea9-83ccd28aed37.png",
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/909d1e60-7373-457c-86bd-f9c2f0ccf863.png",
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/fdfd4110-445e-4331-8a68-aaf4d09189fa.png",
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/79af4899-eea6-44ee-af74-26ec6004a7e8.png",
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/1e7c3ed9-de96-4990-84cd-e99ef8dcb345.png"
+        ],
+        "description": "Sage Fixed Assets delivers the most comprehensive fixed asset management solution offering 4 modules to allow businesses total control of their assets. From before they become fixed assets through the depreciation cycle and disposal at end of life, Sage Fixed Assets allows you to manage your entire fixed assets lifecycle.",
+        "pricing": {
+            "general": "None",
+            "starting_price": "None",
+            "free_trial": "None",
+            "free_version": "None"
+        },
+        "reviews": [
+            {
+                "reviewer_name": "Prudence ",
+                "reviewer_info": [
+                    "Company size: 51-200 employees",
+                    "Industry: Accounting",
+                    "Time used: More than 2 years"
+                ],
+                "general_review_title": "Great Fixed Assets program",
+                "general_review": "Our company uses Sage Fixed Assets to maintain our company Asset files by setting up a separate company for each location.  Sage keeps up with the ever changing depreciation laws so you don't have to.",
+                "pros": "Multiple companies can be set up, in addition a consolidated company can be set up for reporting purposes.  Lots of easy applications.",
+                "cons": "When printing reports sometimes the system locks up on me and I have to log out and restart it.",
+                "index": 0
+            },
+            {
+                "reviewer_name": "Ralph ",
+                "reviewer_info": [
+                    "Company size: 51-200 employees",
+                    "Industry: Religious Institutions",
+                    "Time used: More than 2 years"
+                ],
+                "general_review_title": "Sage Accounting Software Can be improved",
+                "general_review": "The program is great and it does what we need - the only thing bad about it is when there are upgrades there is always a glitch which is fixed when the next upgrade is released. Also the customer service can be improved - they place you on hold it seems like forever.",
+                "pros": "it does do the statements and reports that we need and it does let you customize your reports",
+                "cons": "the customer service - it takes forever to reach someone. When there are updates there is always something wrong with some aspect and you have to wait until the next update is released,",
+                "index": 1
+            },
+            {
+                "reviewer_name": "Marriah ",
+                "reviewer_info": [
+                    "Company size: 201-500 employees",
+                    "Industry: Oil & Energy",
+                    "Time used: Less than 2 years"
+                ],
+                "general_review_title": "None",
+                "general_review": "None",
+                "pros": "Sage fixed assets has the capability to add and track several data points, which can be customized by the company. Photos and notes for each asset can be added to the asset file and retrieved at any time.",
+                "cons": "Certain data cannot be added to the main view grid, but can be added to reports, and vice versa. It's difficult to compare two different reports that pull two different sets of data because some data points are only added to one report versus another.",
+                "index": 2
+            },
+            {
+                "reviewer_name": "Anonymous",
+                "reviewer_info": [
+                    "Company size: 1,001-5,000 employees",
+                    "Unknown",
+                    "Time used: More than 2 years"
+                ],
+                "general_review_title": "None",
+                "general_review": "None",
+                "pros": "Sage Fixed Assets has been able to fulfill all needs I've had while tracking multiple companies fixed assets. The interface and reports are well laid out. Customer Service team has been very helpful. ",
+                "cons": "It does become very slow as a large amount of assets are added to a database. Some changes to individual assets trigger other changes without alerting the user - such as changing depreciation type can change estimated life. ",
+                "index": 3
+            },
+            {
+                "reviewer_name": "Anonymous",
+                "reviewer_info": [
+                    "Company size: 11-50 employees",
+                    "Unknown",
+                    "Time used: More than 2 years"
+                ],
+                "general_review_title": "None",
+                "general_review": "None",
+                "pros": "The previously named FAS50 now became Fixed Assets Depreciation Light I believe. It does what we need it for, but not much else.",
+                "cons": "Large price jumps to higher tiers that allow more features such as storing the database file on a network share. Pretty insane that the base level product intentionally torpedoes attempts to store the file on a network drive.",
+                "index": 4
+            }
+        ],
+        "overall_raiting": "4.04",
+        "secondary_raiting": {
+            "ease_of_use": "4",
+            "customer_support": "4",
+            "value_for_money": "3.5",
+            "functionality": "4"
+        },
+        "website": "https://www.sage.com/en-us/products/sage-fixed-assets/"
+    },
+    {
+        "profile": "https://www.softwareadvice.com/accounting/tagetik-profile/",
+        "name": "CCH Tagetik",
+        "logo": "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/3395336c-4434-4787-a7cb-590e8133eec1.png?fit=max&w=104&fm=png&auto=format",
+        "images": [
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/509283c3-d0a7-4b93-a30d-8db836d8b510.png",
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/509283c3-d0a7-4b93-a30d-8db836d8b510.png",
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/b20b35ec-bdad-4586-aef4-9fe8d4b44f4b.png",
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/816ed7bc-aa87-4204-b465-d3b919a8396f.png",
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/1886eaee-4211-44c7-b669-195cc940e853.png"
+        ],
+        "description": "CCH Tagetik is a unified BI and accounting software that helps to optimize financial and operational planning. The solution also shortens the consolidation and closing process and allows users to analyze results, model, as well as compare the financial impact of different business scenarios. CCH Tagetik offers additional features which include adjusting strategic plans, updating rolling forecasts and producing formatted and auditable financial statements as well as management reports. The solution allows users to collaborate on business reviews and automates disclosure and board reporting.",
+        "pricing": {
+            "general": "Contact Wolters Kluwer for pricing information or a quote",
+            "starting_price": "$50,000.00 ",
+            "free_trial": "Available",
+            "free_version": "Not Available"
+        },
+        "reviews": [
+            {
+                "reviewer_name": "Alessandro ",
+                "reviewer_info": [
+                    "Company size: 1,001-5,000 employees",
+                    "Industry: Broadcast Media",
+                    "Time used: More than 2 years"
+                ],
+                "general_review_title": "A business partner you can count on. Especially on M&A operations.",
+                "general_review": "We use Tagetik for our statutory and management consolidated reporting processes. The recent stress test on this tool has been given by our latest M&A operations, in which we had to consolidated many companies with lots of intercompany relationships between them and within our Group perimeter. Tagetik let us manage this transition easily and in a short time lapse. With an appropriate configuration of the environment these new incorporations did not require additional resources (in terms of time and people). The absence of information duplicates and the use of an automated data entry platform allowed us to manage the communication with our new contributors in an efficient and effective way. In this process it is worth mentioning the contribution of the Tagetik consulting team that has supported us with prompt interventions on our main technical issues.",
+                "pros": "Easy to use and configure for the ongoing routines (a first implementation by a skilled consultant is required and suggested). - Familiar look-and-feel which replicates the tipical MS Excel interactions. - Easy to install on remote terminals (works also on mobile devices) for external contributors. - Data are managed in a consistent way. - Scalable architecture which lets you add new modules and manage large consolidation perimeters. - Possible automation for the most common consolidation routines (intercompany eliminations, consolidation adjustments, etc.). - Tangible returns in terms of time spent on reporting generation and time-to-market.",
+                "cons": "Depending on your business, the implementation of this platform could require a consistent effort in terms of architecture and data flow projecting. The assistance of a skilled consultant is largely suggested. This step is crucial in order to take the maximum benefits from this product.",
+                "index": 0
+            },
+            {
+                "reviewer_name": "luigi ",
+                "reviewer_info": [
+                    "Unknown",
+                    "Unknown",
+                    "Time used: More than 2 years"
+                ],
+                "general_review_title": "None",
+                "general_review": "None",
+                "pros": "  It is a good product and is highly appreciated by users for ease of use and for its excel integration",
+                "cons": "I think it's about improving SAP integration and reducing licensing costs.  It's a very costly software solution.",
+                "index": 1
+            },
+            {
+                "reviewer_name": "Andrea ",
+                "reviewer_info": [
+                    "Unknown",
+                    "Unknown",
+                    "Time used: More than 2 years"
+                ],
+                "general_review_title": "None",
+                "general_review": "None",
+                "pros": "flexibility, scalability, reporting (very easy to manage with opportunity for each contributor to create report ad-hoc), unique data base for management data, statutory consolidation, budgeting&forecasting, possibility to have for each project the economic&financial data, possibility to do across differente view using hierarchies  ",
+                "cons": "sometimes is not too much flexible and maybe you have to adapte your needs to its structure, i'd like to have more opportunity to have different sensitivities without having different scenarios",
+                "index": 2
+            },
+            {
+                "reviewer_name": "Viral ",
+                "reviewer_info": [
+                    "Company size: 1,001-5,000 employees",
+                    "Industry: Food & Beverages",
+                    "Time used: More than 2 years"
+                ],
+                "general_review_title": "Great product, highly customizable to your needs",
+                "general_review": "Overall good product, expensive, good customer support and account managers. user friendly, customizable, easy to onboard new users.",
+                "pros": "It is blank vanilla product that lets us customize it to fit our needs. It has lot of built in / out of the box functionality for financial planning and reporting needs. The implementation is quick and easy with SaaS.",
+                "cons": "The nicheness of the product means, it's costly and hard to find consultant/developers. Too much customizing also complexes the data flow and processes. some performance issues during our implementation. not in production so far.",
+                "index": 3
+            },
+            {
+                "reviewer_name": "Bj\u00f8rn Born Sylvest ",
+                "reviewer_info": [
+                    "Unknown",
+                    "Industry: Chemicals",
+                    "Time used: More than 2 years"
+                ],
+                "general_review_title": "Tagetik CPM ",
+                "general_review": "6 years of history with our Tagetik journey   Four upgrade almost without any pain.   Easy to maintain and administrator. Super end user friendly - finance people loves it's excel ",
+                "pros": "6 years of history with our Tagetik journey   Four upgrade almost without any pain.   Easy to maintain and administrator. Super end user friendly - finance people loves it's excel ",
+                "cons": "Easy to get carried away to do too many changes ",
+                "index": 4
+            }
+        ],
+        "overall_raiting": "4.32",
+        "secondary_raiting": {
+            "ease_of_use": "4",
+            "customer_support": "4.5",
+            "value_for_money": "4",
+            "functionality": "4.5"
+        },
+        "website": "http://lp.tagetik.com/ADV-Performance-Management-NA.html"
+    },
+    {
+        "profile": "https://www.softwareadvice.com/accounting/bassets-edepreciation-profile/",
+        "name": "Bassets eDepreciation",
+        "logo": "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/23f38ee2-ab4b-481f-a17a-7e8a68515d11.png?fit=max&w=104&fm=png&auto=format",
+        "images": [
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/78e52fd6-e8d6-4ba2-bd51-e880ac1a6334.png",
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/78e52fd6-e8d6-4ba2-bd51-e880ac1a6334.png",
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/15f4ac9e-840e-4405-bc34-dc21c88b0e65.png",
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/b8ede767-3945-4a66-a83c-10c552d29f3e.png",
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/51e31c47-0736-4ef9-8d47-a7025e8dc22d.png",
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/7bbebefb-f42f-431b-abe6-a861363756b0.png",
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/27c1d5cc-b698-42f0-9295-306826087a1c.png"
+        ],
+        "description": "eDepreciation by Bassets is an on-premise fixed asset depreciation solution designed for midsize and large businesses. It caters to multiple market segments, such as banking and mortgage, distribution, health care, insurance, pharmaceuticals, retail, manufacturing, IT and transportation. eDepreciation supports different methods of depreciation calculation, such as MARCS, Alternative MARCS, Declining Balance Depreciation and Straight Line Depreciation. The product also assists in fixed asset calculation using different considerations, such as MACRS - 40% Rule Violation, Section 179 Deduction, Adjustment to Basis and Luxury Auto and Truck Limitations.",
+        "pricing": {
+            "general": "None",
+            "starting_price": "$1,900.00 one time",
+            "free_trial": "Available",
+            "free_version": "Not Available"
+        },
+        "reviews": [
+            {
+                "reviewer_name": "Mitchell ",
+                "reviewer_info": [
+                    "Company size: 201-500 employees",
+                    "Industry: Food & Beverages",
+                    "Time used: More than 2 years"
+                ],
+                "general_review_title": "Great Customer Service!",
+                "general_review": "As someone with little depreciation experience before using Bassets, [SENSITIVE CONTENT HIDDEN] has been a great help in learning the software. He's always willing to walk through the steps to complete tasks.",
+                "pros": "Reports for different schedules - IRS, Book, State - are so easy to run and switch between. Good import/export features to add new assets or pull reports out to excel. ",
+                "cons": "I wish there were some on-demand tutorials for common tasks.",
+                "index": 0
+            },
+            {
+                "reviewer_name": "Katie ",
+                "reviewer_info": [
+                    "Company size: 501-1,000 employees",
+                    "Industry: Wholesale",
+                    "Time used: More than 2 years"
+                ],
+                "general_review_title": "Bassets",
+                "general_review": "Overall experience is satisfying.  [SENSITIVE CONTENT HIDDEN] is always willing to help and explain the problems",
+                "pros": "easy to use, reports, able to add scanned documents, customer support ([SENSITIVE CONTENT HIDDEN])",
+                "cons": "no \"save \" option, if you start entering something and want to back up, asset # is deleted ",
+                "index": 1
+            },
+            {
+                "reviewer_name": "Laura ",
+                "reviewer_info": [
+                    "Unknown",
+                    "Unknown",
+                    "Time used: Free Trial"
+                ],
+                "general_review_title": "Great Customer Support",
+                "general_review": "I needed customer support to help me figure out how to backup my database, and how to use the import feature to record current year additions.  The help I received was excellent.  I was quickly connected with a technical expert who worked with me to expediently resolve my problems.  A++",
+                "pros": "None",
+                "cons": "None",
+                "index": 2
+            }
+        ],
+        "overall_raiting": "4.00",
+        "secondary_raiting": {
+            "ease_of_use": "3.5",
+            "customer_support": "5",
+            "value_for_money": "4",
+            "functionality": "4"
+        },
+        "website": "http://www.bassets.net/products_services.asp"
+    },
+    {
+        "profile": "https://www.softwareadvice.com/accounting/series4000-profile/",
+        "name": "Asset4000",
+        "logo": "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/ef9a0617-40f0-48bb-ad1a-5d753e6dc5da.png?fit=max&w=104&fm=png&auto=format",
+        "images": [
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/4466ab44-1127-4962-8035-8eb9a612cf5e.png",
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/4466ab44-1127-4962-8035-8eb9a612cf5e.png",
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/143d3dc2-06bb-4846-bfe7-15c276fbbe31.png",
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/ad7fd25a-34a6-4541-86f2-a4326fff2360.png",
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/6ac7413e-441c-4e80-ae88-33dd2d6c70cd.png",
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/9df4f21d-c14e-4c12-a33d-105b7424ded9.png",
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/20486446-b6fb-4422-87b0-cd50e77d5a61.png"
+        ],
+        "description": "",
+        "pricing": {
+            "general": "None",
+            "starting_price": "None",
+            "free_trial": "None",
+            "free_version": "None"
+        },
+        "reviews": [
+            {
+                "reviewer_name": "Anonymous",
+                "reviewer_info": [
+                    "Company size: 5,001-10,000 employees",
+                    "Unknown",
+                    "Time used: Less than 12 months"
+                ],
+                "general_review_title": "The fixed asses management tool that you should definitely try",
+                "general_review": "We use Asset4000 mainly for our asset tracking. Asset4000 have lived up to our expectations.",
+                "pros": "Can work on Mobile/web seamlessly Integration with  Timely support: Customer support is really good.",
+                "cons": "Initially it will take some time to explore the interface. This is something that I have face. Nothing as a disadvantage. ",
+                "index": 0
+            },
+            {
+                "reviewer_name": "Michelle ",
+                "reviewer_info": [
+                    "Company size: 501-1,000 employees",
+                    "Industry: Building Materials",
+                    "Time used: More than 2 years"
+                ],
+                "general_review_title": "Customer service that can ease any situation",
+                "general_review": "I have had nothing but positive experiences with Asset4000. I was thrown into using this program with no real training on what to do and what the software could do. Every time I have called support they have always been helpful. They walk me through how to do things, while never getting frustrated. I love that I get the same 2-3 people who help me. You are never thrown into a que of a large call center. The people you talk to always know your name and your industry and act accordingly.",
+                "pros": "It is very user friendly and any error made can be reversed and corrected easily.",
+                "cons": "Length of time it takes for reports to process",
+                "index": 1
+            },
+            {
+                "reviewer_name": "Alan ",
+                "reviewer_info": [
+                    "Company size: 501-1,000 employees",
+                    "Industry: Mechanical or Industrial Engineering",
+                    "Time used: More than 2 years"
+                ],
+                "general_review_title": "None",
+                "general_review": "None",
+                "pros": "The software is easy to use & I've always found the user guide offers straightforward explanations of the processes involved in maintaining an accurate asset register.It is possible to run audit trails which show all entries made relating to the asset register.If I have needed any advice to overcome a problem(which has happened on very few occasions) the Asset 4000 helpdesk have always responded very promptly in resolving the issues. The software allows forecasted depreciation figures to be easily obtained & helps in the preparation of budgeted figures for depreciation.",
+                "cons": "I've never encountered anything that I've actually disliked about Asset4000.The Standard Reports cover the majority of my requirements although Defining New User Reports has caused myself a few problems.I've also encountered a few Configuration & Security problems but originally I was not set up at super user level on Asset4000 but these problems were resolved with help from the Asset4000 helpdesk.",
+                "index": 2
+            },
+            {
+                "reviewer_name": "sarah ",
+                "reviewer_info": [
+                    "Unknown",
+                    "Unknown",
+                    "Time used: More than 2 years"
+                ],
+                "general_review_title": "RAM is easy to use and does everything that you want it to do.",
+                "general_review": "Makes keeping asset registers easier",
+                "pros": "RAM keeps all your asset data in easy to access component groups which enables you to run accurate reports for audit and day to day use.",
+                "cons": "The only downside to the software is how long it can take to run depreciation for lots of components but this is not a big problem.",
+                "index": 3
+            },
+            {
+                "reviewer_name": "Paul ",
+                "reviewer_info": [
+                    "Company size: 51-200 employees",
+                    "Industry: Civil Engineering",
+                    "Time used: More than 2 years"
+                ],
+                "general_review_title": "Customer Service 5*",
+                "general_review": "We have a fixed asset register that is easy to understand and to report on, job done.",
+                "pros": "Asset4000 is a useful Fixed Asset software system, the differentiator I believe is their fantastic customer support, any issues are dealt with in a very timely manner which is great when most issues need to be overcome in a speedy manner. Importing of assets via excel is also a plus.",
+                "cons": "The general look and layout of the software is somewhat basic, but still functional and generally easy to use.",
+                "index": 4
+            }
+        ],
+        "overall_raiting": "4.55",
+        "secondary_raiting": {
+            "ease_of_use": "4.5",
+            "customer_support": "5",
+            "value_for_money": "4.5",
+            "functionality": "4.5"
+        },
+        "website": "https://www.realassetmgt.com/fixed-asset-management-software/fad-ebrochure-capterra.html/"
+    },
+    {
+        "profile": "https://www.softwareadvice.com/accounting/red-moon-solutions-profile/",
+        "name": "Fixed Assets Manager",
+        "logo": "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/11fd8192-e611-4a49-a7ac-21f6e9cb2b9e.png?fit=max&w=104&fm=png&auto=format",
+        "images": [
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/293d1cee-9bbd-46f2-ac47-314c81c6b59b.png",
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/293d1cee-9bbd-46f2-ac47-314c81c6b59b.png",
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/1367b92a-31d0-4f9a-ac10-a9ad866fa253.png",
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/48a54f03-d3a2-4f53-b9e0-e6446ab261d8.png",
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/06a9ec71-5de2-48e9-91dd-5a4d8f107192.png",
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/f075ad4d-737c-41eb-93ec-4417f86a95f6.png"
+        ],
+        "description": "Fixed Assets Manager by Red Moon Solutions is an asset management solution designed to support the businesses' internal tax practices. Fixed Assets Manager offers organizations in various industries, functionalities to track their fixed assets and ensure that the assets have up-to-date tax depreciation schedule. The solution provides a variety of depreciation templates, called Asset Types, as well as the ability to quickly create new assets. Also pre-defined in the solution are all the depreciation rules necessary to accurately calculate depreciation for Federal, ACE, AMT, accounting and any number of user-defined books.",
+        "pricing": {
+            "general": "None",
+            "starting_price": "$1,000.00 ",
+            "free_trial": "Not Available",
+            "free_version": "Not Available"
+        },
+        "reviews": [
+            {
+                "reviewer_name": "Michael ",
+                "reviewer_info": [
+                    "Company size: 1 employee",
+                    "Unknown",
+                    "Time used: More than 2 years"
+                ],
+                "general_review_title": "Intuit Fixed Asset Manager",
+                "general_review": "You NEED a Fixed Assets software to track assets esp. when there's Lots of assets Need the reporting function that categorizes assets to certain groupings like chart of assets or property section",
+                "pros": "Exports to Intuit's ProSeries Tax software Categorization of assets to certain groups with reports available Can be used as a Stand Alone Fixed Asset software Relatively simple to use",
+                "cons": "MUST be used and UPDATED annually as needed Time-consuming to enter and to customize reports Can't print a report just for any 1 particular asset Must buy EACH year's software to import to EACH year's ProSeries Tax software to link properly Don't group assets together or else it WILL be a problem when assets in the group gets 'disposed of/sold' (i.e. Don't groups vehicles 1-5 or equipment 1-5 together but list separated as each can be disposed of/sold)! NAME the assets properly so it CAN BE TRACKED to the Actual physical asset (i.e. don't just say Computer when the office has Lots of computers)! Annual cost is rising! Basic file functionality is LIMITED (i.e. copy or rename files)! ",
+                "index": 0
+            },
+            {
+                "reviewer_name": "Michael ",
+                "reviewer_info": [
+                    "Company size: 1 employee",
+                    "Unknown",
+                    "Time used: More than 2 years"
+                ],
+                "general_review_title": "Intuit's Fixed Asset Manager can be used as Stand-alone or part of tax software",
+                "general_review": "Fixed Assets programs are a NECESSITY for tax professionals as any who REFUSE to use one or refuse to update their client's fixed assets are scammers who hurt their clients with overpriced fees!  Use the program to track assets, especially if there's LOTS of assets. Forget using spreadsheets where many people just use the straight line depreciation and must calculate it MANUALLY which kills the efficiency and relative accuracy since you may mess up the depreciation/amortization if one does NOT pay attention to calculate them properly. Penny wise, pound foolish!! It's best used either for financial reporting (tax/book differences, if any) and Better if used with the related tax software as it NEEDS to be updated YEARLY for EACH tax year's program or else it will NOT 'link'! You can categorize the assets to be each for internal reporting (i.e. in QBs) but it MUST be done ANNUALLY so the records match one another.   ",
+                "pros": "Relatively simple to use MUST have program to track assets esp. if there's LOTS of assets Can categorize assets to different listings (i.e. if you maintain separate property or groups with different fixed assets for them) Decent reporting Exports file for import into Intuit's ProSeries Can be used for a few years before needing the latest upgrade, provided you use it as a 'stand-alone' program.",
+                "cons": "A Necessity to buy Yearly if you use ProSeries business since you'll need to import the information Don't need if you do NOT perform any Financial reporting as you can enter asset info in the tax return's depreciation section Relatively expensive for just a Fixed Assets software Intuit began to limit the use of the software to <2 years before you have to 're-license' it! Many [OLDer] accountants refuse to update their clients' fixed assets then complain about it and Still do NOT fix them! Must buy YEARLY to match tax software for 'link' to work!",
+                "index": 1
+            }
+        ],
+        "overall_raiting": "3.50",
+        "secondary_raiting": {
+            "ease_of_use": "3",
+            "customer_support": "3",
+            "value_for_money": "3",
+            "functionality": "3"
+        },
+        "website": "http://www.redmoonsolutions.com/solutions/fixed-assets-manager/"
+    },
+    {
+        "profile": "https://www.softwareadvice.com/accounting/up-your-cash-flow-profile/",
+        "name": "Up Your Cash Flow",
+        "logo": "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/3aefa6ad-68f6-4c53-9a7a-db0fbba5a8bf.png?fit=max&w=104&fm=png&auto=format",
+        "images": [
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/ec105b52-3436-463b-96d5-0a9d78d8b468.png",
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/ec105b52-3436-463b-96d5-0a9d78d8b468.png",
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/bcdfbc6f-a1a2-403b-8269-cdc94d914c6f.png",
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/50e41cb0-19b5-4fb2-a603-2a71998e7497.png",
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/bf0c2168-c520-4cce-b1b2-9f29961bf51f.png",
+            "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/aca388cb-6360-43ba-97a5-55898de62554.png"
+        ],
+        "description": "Up Your Cash Flow is an on-premise budgeting and cash flow forecasting solution for small and mid-sized businesses. It is designed to help the CPA\u2019s, CFOs, controllers and consultants to perform financial analysis and create cash management strategies. Primary features include sales analysis and management, expense management, business valuation, sales tax payment and collection..",
+        "pricing": {
+            "general": "None",
+            "starting_price": "None",
+            "free_trial": "Not Available",
+            "free_version": "Not Available"
+        },
+        "reviews": [
+            {
+                "reviewer_name": "Syd ",
+                "reviewer_info": [
+                    "Unknown",
+                    "Unknown",
+                    "Time used: Free Trial"
+                ],
+                "general_review_title": "",
+                "general_review": "I've been a user of the software for several years now and I really love it.  I run a virtual accounting firm and serve clients all over the United States. All of my clients need a budget and cash flow projection, especially in today's economy. I used to try and use Excel but it was too error prone. Up YourCashFlow is a solid tool with a ton of features that allow either a quick analysis, or a drilled-down detailed breakdown. Their training and support is top-notch too. I would recommend Up Your Cash Flow as an easy to use, yet very sophisticated tool for helping clients with forecasting and cash flow projections.",
+                "pros": "None",
+                "cons": "None",
+                "index": 0
+            },
+            {
+                "reviewer_name": "Antonia ",
+                "reviewer_info": [
+                    "Unknown",
+                    "Unknown",
+                    "Time used: Free Trial"
+                ],
+                "general_review_title": "",
+                "general_review": "Up Your Cash Flow is the only software that I\u2019ve found that is capable of producing an accurate cash flow forecast by project. Since we complete a few hundred projects per year, I organized my jobs by customer and used pivot tables to give me the data needed to post to UYCF. The software did the rest, and I was able to create a cash flow,  balance sheet and income statement with ease.     Way to go Up Your Cash Flow!      ",
+                "pros": "None",
+                "cons": "None",
+                "index": 1
+            }
+        ],
+        "overall_raiting": "4.75",
+        "secondary_raiting": {
+            "ease_of_use": "4.5",
+            "customer_support": "5",
+            "value_for_money": "0",
+            "functionality": "5"
+        },
+        "website": "https://www.upyourcashflow.com/"
+    }
+]
