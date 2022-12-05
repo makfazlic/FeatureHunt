@@ -81,18 +81,21 @@ class SaProfileSpider(scrapy.Spider):
             data = json.load(f)
         for category in data:
             for subcategory in category["category"]["subcategory"]:
-                if subcategory == "Accounting Software for Consultants":
-                    url_list = category["category"]["subcategory"][subcategory]
-                    for url in url_list:
-                        yield scrapy.Request(url=url, callback=self.parse)
+                #if subcategory == "Accounting Software for Consultants":
+                url_list = category["category"]["subcategory"][subcategory]
+                for url in url_list:
+                    yield scrapy.Request(url=url, callback=self.parse)
 
     def parse(self, response):
         
         # 1. Name
         name = response.xpath('/html/body/div/div/div/section/main/div[2]/main/section/div[1]/div/section/div[1]/div[2]/h1/text()').get()
-        
+        if name is None:
+            name = response.css('#__next > div > div > section > main > div.ProductComponent > main > div:nth-child(1) > header > div.SummaryBannerComponent.column.products-tile > div > div.wrapper > div.column.products-tile__details > div > div > div.column.details__header > div > div.wrapper.details__header--cta-wrapper > div > div > h1::text').get()
         # 2. Logo and images
         logo = response.xpath('/html/body/div/div/div/section/main/div[2]/main/section/div[1]/div/section/div[1]/div[1]/img/@src').get()
+        if logo is None:
+            logo = response.xpath('//*[@id="__next"]/div/div/section/main/div[2]/main/div[1]/header/div[1]/div/div[1]/div[1]/div/img/@src').get()
         mainimage = response.xpath('/html/body/div/div/div/section/main/div[2]/main/div/div/div/div/div[3]/section/div[1]/img/@src').get()
         subimages = response.xpath('/html/body/div/div/div/section/main/div[2]/main/div/div/div/div/div[3]/section/div[2]/section/div/div[5]/div').get()
         try:
