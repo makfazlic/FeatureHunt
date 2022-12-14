@@ -3,10 +3,10 @@ import scrapy
 import json
 
 class SaCompaniesSpider(scrapy.Spider):
-    name = "companies"
+    name = "sa_companies"
 
     def start_requests(self):
-        with open('categories_v2.json', 'r') as f:
+        with open('sa_categories.json', 'r') as f:
             data = json.load(f)
         for category in data:
             for subcategory in category["category"]["subcategory"]:

@@ -3,7 +3,7 @@ import scrapy
 
 
 class SaCategoriesSpider(scrapy.Spider):
-    name = "categories"
+    name = "sa_categories"
     start_urls = [
         'https://www.softwareadvice.com/categories/',
     ]
